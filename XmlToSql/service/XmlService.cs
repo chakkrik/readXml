@@ -81,12 +81,12 @@ namespace XmlToSql.service
                             dataObj.Add(name, new List<string>());
                         }
                         extractChildNodes(elemList[i]);
-                        Console.WriteLine(name + " => ");
-                        var value = dataObj[name];
-                        foreach(var v in value)
-                        {
-                            Console.WriteLine(v);
-                        }
+                        //Console.WriteLine(name + " => ");
+                        //var value = dataObj[name];
+                        //foreach(var v in value)
+                        //{
+                        //    Console.WriteLine(v);
+                        //}
                     }
                     else
                     {
