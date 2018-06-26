@@ -1,0 +1,1890 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE document SYSTEM 'xmlschemas/domino_8_5_3.dtd'>
+<document xmlns='http://www.lotus.com/dxl' version='8.5' maintenanceversion='3.0'
+ replicaid='472577F4004F611F' form='frmCOInformation'>
+<noteinfo noteid='3fd2e' unid='9D799A61ECE6A3A0472580F40035CCEC' sequence='2'>
+<created><datetime>20170331T164738,68+07</datetime></created>
+<modified><datetime>20170331T173023,03+07</datetime></modified>
+<revised><datetime>20170331T173023,02+07</datetime></revised>
+<lastaccessed><datetime>20170331T173023,02+07</datetime></lastaccessed>
+<addedtofile><datetime>20170331T172215,24+07</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Sirinan Sarika/OU=CO/O=KBANK</name><name>CN=Rungnapa Lappanichayakit/OU=CO/O=KBANK</name></updatedby>
+<revisions><datetime>20170331T172215,24+07</datetime></revisions>
+<item name='$WebFlags'><text>V</text></item>
+<item name='$ConflictAction'><text>1</text></item>
+<item name='TXTREADER' names='true' readers='true'><textlist><text>CN=Sirinan Sarika/OU=CO/O=KBANK</text><text
+>CN=Rungnapa Lappanichayakit/OU=CO/O=KBANK</text><text>CN=Aungkana Chaipornprasit/OU=CD/O=KBANK</text><text
+>CN=Phaisarn Vorasetsiri/OU=CO/O=KBANK</text><text>CN=Jittima Chomsuwan/OU=CD/O=KBANK</text><text
+>CN=Onuma Prateepwattananon/OU=CD/O=KBANK</text><text>CN=Sobchok Smitamuksit/OU=CD/O=KBANK</text><text
+>CN=Supawan Pluemsumphant/OU=CD/O=KBANK</text><text>CN=Anchalee Sirisindee/OU=CD/O=KBANK</text><text
+>CN=Kannikar Tuntivanitchapun/OU=CP/O=KBANK</text><text>CN=Supawan Tientamnoon/OU=CP/O=KBANK</text></textlist></item>
+<item name='TXTAUTHOR' authors='true' names='true'><text/></item>
+<item name='txtPermanentAuthor' authors='true' names='true'><text>[DbAdministrator]</text></item>
+<item name='txtPermanentReader' names='true' readers='true'><textlist><text
+>[DbAdministrator]</text><text>[DbReader]</text></textlist></item>
+<item name='txtAuthorRes' authors='true' names='true'><text>CN=Aungkana Chaipornprasit/OU=CD/O=KBANK</text></item>
+<item name='txtDocStatus'><text>99</text></item>
+<item name='SecApprover'><text>1</text></item>
+<item name='FlagAcceptAll'><text/></item>
+<item name='FlagReturnByAdmin'><text/></item>
+<item name='AlertDate'><datetime>20170405</datetime></item>
+<item name='createBY' names='true'><text>CN=Sirinan Sarika/OU=CO/O=KBANK</text></item>
+<item name='createOn'><datetime>20170331T164739,53+07</datetime></item>
+<item name='DocName'><text> สรุปหลักเกณฑ์สำคัญที่เกี่ยวข้องกับการประกอบธุรกิจบัตรเครดิต ปี 2560 (โดยที่หลักเกณฑ์ดังกล่าวไม่มีการเปลี่ยนแปลง)    </text></item>
+<item name='DocType'><text>1</text></item>
+<item name='DocAlert'><text>A</text></item>
+<item name='DocGroupAnnonceDB'><text/></item>
+<item name='DocGroupAnnonceAddr'><text>Aungkana Chaipornprasit/CD/KBANK</text></item>
+<item name='GroupMembersExtractDB2' names='true'><text/></item>
+<item name='GroupMembersExtractAddr' names='true'><text>CN=Aungkana Chaipornprasit/OU=CD/O=KBANK</text></item>
+<item name='DocGroupAnnonce' names='true'><text>CN=Aungkana Chaipornprasit/OU=CD/O=KBANK</text></item>
+<item name='GroupMembersExtractDB' names='true'><text/></item>
+<item name='GroupMembersExtract' names='true'><text>CN=Aungkana Chaipornprasit/OU=CD/O=KBANK</text></item>
+<item name='DocCCMailDB'><text/></item>
+<item name='GroupMembers2ExtractDB2' names='true'><text/></item>
+<item name='DocCCMailAddr'><textlist><text>Phaisarn Vorasetsiri/CO/KBANK</text><text
+>Jittima Chomsuwan/CD/KBANK</text><text>Onuma Prateepwattananon/CD/KBANK</text><text
+>Sobchok Smitamuksit/CD/KBANK</text><text>Supawan Pluemsumphant/CD/KBANK</text><text
+>Anchalee Sirisindee/CD/KBANK</text><text>Kannikar Tuntivanitchapun/CP/KBANK</text><text
+>Supawan Tientamnoon/CP/KBANK</text></textlist></item>
+<item name='GroupMembers2ExtractAddr' names='true'><textlist><text>CN=Phaisarn Vorasetsiri/OU=CO/O=KBANK</text><text
+>CN=Jittima Chomsuwan/OU=CD/O=KBANK</text><text>CN=Onuma Prateepwattananon/OU=CD/O=KBANK</text><text
+>CN=Sobchok Smitamuksit/OU=CD/O=KBANK</text><text>CN=Supawan Pluemsumphant/OU=CD/O=KBANK</text><text
+>CN=Anchalee Sirisindee/OU=CD/O=KBANK</text><text>CN=Kannikar Tuntivanitchapun/OU=CP/O=KBANK</text><text
+>CN=Supawan Tientamnoon/OU=CP/O=KBANK</text></textlist></item>
+<item name='GroupMembers2ExtractDB' names='true'><text/></item>
+<item name='GroupMembersExtract2' names='true'><textlist><text>CN=Phaisarn Vorasetsiri/OU=CO/O=KBANK</text><text
+>CN=Jittima Chomsuwan/OU=CD/O=KBANK</text><text>CN=Onuma Prateepwattananon/OU=CD/O=KBANK</text><text
+>CN=Sobchok Smitamuksit/OU=CD/O=KBANK</text><text>CN=Supawan Pluemsumphant/OU=CD/O=KBANK</text><text
+>CN=Anchalee Sirisindee/OU=CD/O=KBANK</text><text>CN=Kannikar Tuntivanitchapun/OU=CP/O=KBANK</text><text
+>CN=Supawan Tientamnoon/OU=CP/O=KBANK</text></textlist></item>
+<item name='DocApprover'><text>Rungnapa Lappanichayakit/CO/KBANK</text></item>
+<item name='DocLabel2'><text>วันที่ประกาศ</text></item>
+<item name='DocDateAnnonce'><datetime>20170331</datetime></item>
+<item name='DocDesc'><text>เพื่อให้ฝ่ายงานที่เกี่ยวข้องรับทราบและปฏิบัติตามหลักเกณฑ์สำคัญของหน่วยงานทางการ รวมถึงระเบียบของธนาคารที่เกี่ยวข้องกับการประกอบธุรกิจบัครเครดิต รายละเอียดเป็นไปตามเอกสารแนบดังกล่าว<break
+/>     ทั้งนี้ ขอให้ท่านสื่อความให้พนักงานในฝ่าย หรือผู้ที่เกี่ยวข้องให้ทราบโดยทั่วกัน</text></item>
+<item name='DocAttch'><richtext>
+<pardef id='1' keepwithnext='true' keeptogether='true'><code event='hidewhen'
+ enabled='false'><formula>DocType != "1"</formula></code></pardef>
+<par def='1'><run><font size='16pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/></run></par>
+<table widthtype='fitmargins' cellbordercolor='gray' leftmargin='0' cellborderstyle='groove'
+ colorstyle='solid' bgcolor='#f7f7f7' refwidth='9.9903in'><tablecolumn width='100%'/>
+<tablerow>
+<tablecell borderwidth='2px' bgcolor='#efefef'>
+<pardef id='3' align='center' keepwithnext='true' keeptogether='true'/>
+<par def='3'><run><font size='24pt' style='bold italic emboss' name='FreesiaUPC'
+ pitch='variable' truetype='true' familyid='20' color='red'/>สรุปหลักเกณฑ์สำคัญเกี่ยวกับการประกอบธุรกิจบัตรเครดิต</run><run
+><font size='18pt' style='bold emboss' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20' color='#00e100'/> </run></par>
+<table widthtype='fitmargins' cellbordercolor='white' rowdisplay='captions'
+ leftmargin='0.0521in' colorstyle='altrows' bgcolor='#ffffc2' altbgcolor='#ffffd0'
+ refwidth='9.8236in'><tablerowstyle><font size='14pt' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20' color='black'/></tablerowstyle><border width='1px'
+ color='white' dropshadow='true'/><tablecolumn width='100%'/>
+<tablerow tablabel='การพิจารณาคุณสมบัติของผู้ถือบัตร วงเงินและอัตราดอกเบี้ยเครดิต'>
+<tablecell colorstyle='vgradient' bgcolor='#e0f1ff' altbgcolor='white'>
+<pardef id='5' tabs='L0.5000in' keepwithnext='true' keeptogether='true'/>
+<par def='5'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par>
+<table widthtype='fitmargins' leftmargin='0.0104in' refwidth='9.8132in'><tablecolumn
+ width='100%'/>
+<tablerow>
+<tablecell>
+<pardef id='7' keepwithnext='true' keeptogether='true'/>
+<par def='7'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>1. </run><run><font size='14pt' style='bold underline'
+ name='FreesiaUPC' pitch='variable' truetype='true' familyid='20'/>การพิจารณาคุณสมบัติของผู้ถือบัตร วงเงิน และอัตราดอกเบี้ยบัตรเครดิต </run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<pardef id='8' tabs='L0.5000in' keepwithnext='true' keeptogether='true'/>
+<par def='8'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1.1	ตรวจสอบคุณสมบัติของผู้ขอมีบัตรจากเอกสารตามเกณฑ์รายได้ เงินฝากหรือเงินลงทุนตามเกณฑ์ที่ ธปท. กำหนด  ดังนี้ </run></par>
+<table cellbordercolor='black' leftmargin='0.0104in' widthtype='fixedleft'
+ columnspacing='0.0750in' refwidth='9.7507in'><border style='solid' width='3px'/><tablecolumn
+ width='0.8438in'/><tablecolumn width='3.6625in'/><tablecolumn width='3.7778in'/><tablecolumn
+ width='0.8667in'/>
+<tablerow>
+<tablecell borderwidth='0px 3px 3px 0px' bgcolor='#d2b06a'>
+<pardef id='10' leftmargin='0.0750in' rightmargin='100%'/>
+<par def='10'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par></tablecell>
+<tablecell valign='center' borderwidth='0px 3px 3px' bgcolor='#d2b06a'>
+<pardef id='11' align='center' leftmargin='0.0750in' rightmargin='100%'/>
+<par def='11'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>หลักเกณฑ์</run></par></tablecell>
+<tablecell borderwidth='0px 3px 3px' bgcolor='#d2b06a'>
+<pardef id='12' align='center' leftmargin='0.0750in' rightmargin='100%'/>
+<par def='12'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>หลักฐานเอกสาร</run></par></tablecell>
+<tablecell valign='center' borderwidth='0px 0px 3px 3px' bgcolor='#d2b06a'>
+<pardef id='13' align='center' leftmargin='0.0750in' rightmargin='100%'/>
+<par def='13'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>การให้วงเงิน</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell rowspan='2' valign='center' borderwidth='3px 3px 1px 0px' bgcolor='#ffffcc'>
+<pardef id='14' align='center' leftmargin='0.0750in' rightmargin='100%'/>
+<par def='14'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>เกณฑ์รายได้</run></par></tablecell>
+<tablecell valign='center' borderwidth='3px 3px 1px' bgcolor='#ffffe1'>
+<pardef id='15' leftmargin='0.2118in' rightmargin='100%' firstlineleftmargin='0.0750in'/>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1. มีรายได้จากแหล่งที่มาต่างๆ รวมกันไม่ต่ำกว่า 15,000 บาท      ต่อเดือน หรือไม่ต่ำกว่า 180,000 บาทต่อปี </run></par></tablecell>
+<tablecell valign='center' borderwidth='3px 3px 1px' bgcolor='#ffffe1'>
+<pardef id='16' leftmargin='0.0750in' rightmargin='100%'/>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>พิจารณาจากหลักฐานที่แน่ชัดเกี่ยวกับแหล่งที่มาของรายได้ เช่น สลิปเงินเดือน</run></par></tablecell>
+<tablecell rowspan='2' valign='center' borderwidth='3px 0px 1px 3px' bgcolor='#e0ffff'>
+<par def='13'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ไม่เกิน</run></par>
+<par def='13'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>5 เท่า</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell valign='center' borderwidth='1px 3px 3px' bgcolor='#ffffe1'>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>2. เป็นผู้มีรายได้หรือเคยมีรายได้จากการทำมาหาได้ของตนย้อนหลังไม่น้อยกว่า 6 เดือน </run><run
+><font size='14pt' style='bold italic underline' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>เฉลี่ย</run><run><font size='14pt' name='FreesiaUPC'
+ pitch='variable' truetype='true' familyid='20'/>เดือนละไม่ต่ำกว่า15,000 บาท </run></par></tablecell>
+<tablecell borderwidth='1px 3px 3px' bgcolor='#ffffe1'>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>พิจารณาจากเงินที่ฝากเข้ารวมกันในบัญชีเงินฝากแต่ละเดือน</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell valign='center' borderwidth='3px 3px 3px 0px' bgcolor='#ffffcd'>
+<par def='14'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>เกณฑ์</run></par>
+<par def='14'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>เงินฝากเป็นหลักประกัน</run></par></tablecell>
+<tablecell valign='center' borderwidth='3px' bgcolor='#ffffe1'>
+<pardef id='18' leftmargin='0.0750in' rightmargin='100%'/>
+<par def='18'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>หลักประกันเต็มวงเงินของบัตรเครดิตที่อนุมัติ</run></par></tablecell>
+<tablecell borderwidth='3px' bgcolor='#ffffe1'>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>พิจารณาจาก</run></par>
+<pardef id='19' leftmargin='0.1972in' rightmargin='100%' firstlineleftmargin='0.0986in'/>
+<par def='19'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- เงินฝากที่ธนาคารพาณิชย์ และ/หรือ</run></par>
+<par def='19'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ตราสารแสดงสิทธิในหนี้ที่ออกโดยธนาคารพาณิชย์ หน่วยงานของรัฐหรือรัฐวิสาหกิจที่มีกฎหมายเฉพาะจัดตั้งขึ้น</run></par></tablecell>
+<tablecell valign='center' borderwidth='3px 0px 3px 3px' bgcolor='#ffffe1'>
+<par def='13'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ให้วงเงิน</run></par>
+<par def='13'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>เต็มจำนวน</run></par>
+<par def='13'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>เงินที่เป็นหลักประกัน</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell rowspan='2' valign='center' borderwidth='3px 3px 0px 0px' bgcolor='#ffffcc'>
+<par def='14'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>เกณฑ์</run></par>
+<par def='14'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>เงินฝาก</run></par>
+<par def='14'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>เงินลงทุน</run></par></tablecell>
+<tablecell valign='center' borderwidth='3px 3px 1px' bgcolor='#ffffe1'>
+<pardef id='20' leftmargin='0.1972in' rightmargin='100%' firstlineleftmargin='0.0750in'/>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1. มีเงินฝากไม่น้อยกว่า 500,000 บาท โดยต้องฝากมาแล้วเป็นระยะเวลาไม่น้อยกว่า 6 เดือน </run></par>
+<pardef id='21' leftmargin='0.1972in' rightmargin='100%'/>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>(โดยยอดรวมทุกขณะเวลาต้องกำหนดไม่ต่ำกว่าที่กำหนด)</run></par></tablecell>
+<tablecell borderwidth='3px 3px 1px' bgcolor='#ffffe1'>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>พิจารณาจากเงินฝากประจำ </run></par></tablecell>
+<tablecell rowspan='2' valign='center' borderwidth='3px 0px 0px 3px' bgcolor='#e0ffff'>
+<par def='13'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ไม่เกิน</run></par>
+<par def='13'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ร้อยละ 10</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell borderwidth='1px 3px 0px' bgcolor='#ffffe1'>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>2. มีการลงทุนไม่น้อยกว่า 1,000,000 บาท โดยต้องฝากหรือลงทุนมาแล้วเป็นระยะเวลาไม่น้อยกว่า 6 เดือน (โดยยอดรวมทุกขณะเวลาต้องกำหนดไม่ต่ำกว่าที่กำหนด)</run></par></tablecell>
+<tablecell borderwidth='1px 3px 0px' bgcolor='#ffffe1'>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>พิจารณาจากเงินฝากเงินลงทุนอย่างใดอย่างหนึ่งหรือรวมกัน ดังนี้</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- เงินฝากประจำ และ/หรือ</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- เงินฝากออมทรัพย์ และ/หรือ</run></par>
+<par def='19'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ลงทุนในตราสารแสดงสิทธิในหนี้ เช่น หุ้นกู้ และหุ้นกู้ด้อยสิทธิ หรือลงทุนในกองทุนรวม</run></par></tablecell></tablerow></table>
+<par def='7'><run><font size='3pt' name='Calibri' pitch='variable' truetype='true'
+ familyid='20'/></run></par>
+<par def='8'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1.2	ห้ามออกบัตรโดยมิได้รับการร้องขอจากลูกค้า (Pre-approved)</run></par>
+<par def='8'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1.3	การเพิ่มวงเงินชั่วคราวต้องพิจารณาความสามารถในการชำระหนี้ของผู้ถือบัตร /ต้องมีผู้รับผิดชอบอนุมัติเพิ่มวงเงินและทำข้อตกลงเป็นพิเศษให้ผู้ถือบัตรต้องชำระเงินส่วนที่เกินกว่าวงเงินปกติที่ลูกค้าได้ ภายใต้เวลาที่ ธปท. กำหนด </run></par>
+<par def='8'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1.4	การแบ่งหรือผ่อนชำระหนี้จะต้องกำหนดขั้นต่ำในแต่ละงวดไม่น้อยกว่าร้อยละ 10 ของยอดคงค้าง ยกเว้นวงเงินชั่วคราวในกรณีฉุกเฉินจะต้องชำระเต็มจำนวน</run></par>
+<par def='8'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1.5	อัตราดอกเบี้ย หรือค่าบริการต่างๆ หรือเบี้ยปรับในการชำระหนี้ล่าช้า เมื่อรวมกันแล้วต้องไม่เกินร้อยละ 20 ต่อปี</run></par>
+<par def='8'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1.6	จัดส่งใบแจ้งหนี้ให้ผู้ถือบัตรทราบล่วงหน้าไม่น้อยกว่า 10 วันก่อนวันถึงกำหนดชำระ</run></par>
+<par def='8'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1.7	อัตราค่าบริการติดตามทวงถามหนี้ต้องอยู่ในอัตราที่เหมาะสมกับต้นทุนที่เกิดขึ้นจริงตามที่ ธปท. ประกาศกำหนด</run></par>
+<par def='8'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1.8	กรณีทีมีการเปลี่ยนแปลงอัตรา หรือเงื่อนไขใด ๆ ต้องแจ้งให้ผู้ถือบัตรทราบล่วงหน้าก่อนวันที่จะเริ่มเปลี่ยนแปลงไม่น้อยกว่า 30 วัน </run></par></tablecell></tablerow></table>
+<par def='5'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par></tablecell></tablerow>
+<tablerow tablabel='การส่งเสริมการขาย'>
+<tablecell colorstyle='vgradient' bgcolor='#82c0ff' altbgcolor='white'>
+<pardef id='22' keepwithnext='true' keeptogether='true'/>
+<par def='22'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>2.1  ห้ามแจกเงิน สิ่งของ หรือบัตรกำนัลใดๆ ในการรับสมัครผู้ถือบัตรรายใหม่ ยกเว้นมียอดการใช้จ่ายผ่านบัตรแล้ว 1 งวด</run></par>
+<par def='22'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>2.2  ห้ามมิให้ธนาคารจัดรายการส่งเสริมการขายหน่วยลงทุนร่วมกับบัตรเครดิต เช่น ห้ามให้คะแนนสะสมจากการใช้บัตรเครดิตซื้อหน่วยลงทุนของกองทุนรวม ห้ามให้สิทธิแบ่งผ่อนชำระสินเชื่อ</run></par></tablecell></tablerow>
+<tablerow tablabel='การรับเรื่องร้องเรียน/การติดต่อลูกค้า'>
+<tablecell colorstyle='vgradient' bgcolor='#5291ef' altbgcolor='white'>
+<par def='5'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>3.1  ต้องแจ้งความคืบหน้าให้ลูกค้าทราบภายใน 7 วัน นับจากวันที่ได้รับแจ้งเรื่องร้องเรียน และแจ้งข้อสรุปให้ลูกค้าทราบโดยเร็ว</run></par>
+<par def='5'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>3.2  </run><run><font size='14pt' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>ห้ามติดต่อ</run><run><font size='14pt' name='FreesiaUPC'
+ pitch='variable' truetype='true' familyid='20'/>หาผู้ถือบัตร</run><run><font
+ size='14pt' name='FreesiaUPC' pitch='variable' truetype='true' familyid='20'/>ทั้งรายใหม่และรายเก่าเพื่อเสนอสินเชื่อประเภทใหม่</run><run
+><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true' familyid='20'/> </run><run
+><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true' familyid='20'/>ในวันทำการก่อน 8.00 น. และหลัง 20.00 น. และในวันหยุดราชการก่อน 8.00 น.และหลัง 18.00 น.</run></par></tablecell></tablerow>
+<tablerow tablabel='การให้สินเชื่อบัตรเครดิตแก่กรรมการ ผู้บริหารระดับสูง '>
+<tablecell colorstyle='vgradient' bgcolor='#d2d2d2' altbgcolor='white'>
+<par def='5'><run><font name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/> </run><run><font size='14pt' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>4.1 ควบคุมการให้สินเชื่อบัตรเครดิต แก่กรรมการ ผู้บริหารระดับสูง หรือผู้ซึ่งมีตำแหน่งเทียบเท่าที่เรียกชื่ออย่างอื่น ของธนาคาร และบริษัทลูกในกลุ่ม Solo Consolidation และผู้ที่เกี่ยวข้องกับบุคคลดังกล่าว โดยต้องไม่มีเงื่อนไขหรือข้อกำหนดพิเศษทั้งในเรื่องวงเงินและหลักเกณฑ์อื่นๆ ผิดไปจากผู้ถือบัตรรายอื่นๆ  และไม่มีลักษณะเป็นการเอื้อประโยชน์ให้แก่บุคคลดังกล่าว</run></par>
+<par def='5'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>4.2 ควบคุมกรณีการชำระหนี้ขั้นต่ำตามเกณฑ์บัตรเครดิต โดยในแต่ละงวดต้องชำระไม่ต่ำกว่าร้อยละ 10% ของยอดหนี้คงค้าง และต้องไม่เป็นหนี้ NPL </run></par>
+<par def='5'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>4.3 ห้ามให้สินเชื่อบัตรเครดิตประเภทบัตรเครดิตเพื่อธุรกิจแก่องค์กรที่บุคคลดังกล่าวมีอำนาจในการจัดการ  </run></par></tablecell></tablerow></table>
+<pardef id='23' keeptogether='true'/>
+<par def='23'><run><font name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par>
+<table widthtype='fitmargins' rowdisplay='captions' leftmargin='0.0521in'
+ colorstyle='altrows' bgcolor='#e0ffbf' altbgcolor='#ffffd0' refwidth='9.8028in'><tablerowstyle
+><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20' color='black'/></tablerowstyle><border dropshadow='true'/><tablecolumn
+ width='100%'/>
+<tablerow tablabel='ข้อกำหนดเรื่องการโฆษณา '>
+<tablecell colorstyle='vgradient' bgcolor='#e0ffdf' altbgcolor='white'>
+<pardef id='25' tabs='L0.4972in' keepwithnext='true' keeptogether='true'/>
+<par def='25'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>5.1  ต้องไม่ใช้ข้อความที่เป็นการไม่เป็นธรรมต่อผู้บริโภค หรือใช้ข้อความที่อาจก่อให้เกิดผลเสียต่อสังคมเป็นส่วนรวม </run></par>
+<par def='25'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>5.2  ต้องไม่กระทำด้วยวิธีการอันอาจก่อให้เกิดความรำคาญแก่ผู้บริโภค </run></par>
+<par def='25'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>5.3  การจัดรายการให้รางวัลด้วยการเสี่ยงโชค ต้องได้รับอนุญาตจากเจ้าพนักงานตามกฎหมายว่าด้วยการพนัน และต้องระบุหลักเกณฑ์ เงื่อนไข รายละเอียด หรือข้อกำหนดในการเสี่ยงโชคให้ชัดเจน โปร่งใส</run></par></tablecell></tablerow>
+<tablerow tablabel='วิธีปฏิบัติเกี่ยวกับสัญญา'>
+<tablecell colorstyle='vgradient' bgcolor='#82c168' altbgcolor='white'>
+<pardef id='26' tabs='L0.2444in' keepwithnext='true' keeptogether='true'/>
+<par def='26'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>6.1  สัญญาต้องมีข้อความเป็นภาษาไทยที่สามารถเห็นและอ่านได้ชัดเจน มีขนาดของตัวอักษรไม่เล็กกว่า 2 มิลลิเมตร โดยมีจำนวนไม่เกิน 11 ตัวอักษรในหนึ่งนิ้ว</run></par>
+<pardef id='27' keepwithnext='true' keeptogether='true'/>
+<par def='27'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>6.2  ข้อสัญญาที่ให้ธนาคารมีสิทธิบอกเลิกสัญญาหากลูกหนี้ผิดนัด จะต้องระบุไว้เป็นการเฉพาะด้วยตัวอักษรสีแดง  หรือตัวดำ หรือตัวเอน ที่เห็นเด่นชัดกว่าข้อความทั่วไป และก่อนการบอกเลิกสัญญาต้องแจ้งเป็นหนังสือไปยังผู้กู้ และควรกำหนดระยะเวลาอันสมควรให้ผู้กู้แก้ไขการผิดสัญญาหรือผิดเงื่อนไขดังกล่าว</run></par>
+<par def='27'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>6.3  ธนาคารต้องส่งมอบสำเนาหรือคู่ฉบับสัญญาให้แก่ลูกค้าไว้เป็นหลักฐานหนึ่งฉบับทันทีที่ลูกค้าลงนาม</run></par></tablecell></tablerow>
+<tablerow tablabel='การเปิดเผยข้อมูลผลิตภัณฑ์บัตรเครดิต'>
+<tablecell colorstyle='vgradient' bgcolor='#81c097' altbgcolor='white'>
+<pardef id='28' tabs='L1.4222in' keepwithnext='true' keeptogether='true'/>
+<par def='28'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>7.1</run><run><font size='14pt' name='Times New Roman' pitch='variable'
+ truetype='true' familyid='10'/> </run><run><font size='14pt' name='FreesiaUPC'
+ pitch='variable' truetype='true' familyid='20'/> ให้เปิดเผยข้อมูลผลิตภัณฑ์ให้ลูกค้าทราบอย่างเพียงพอต่อการตัดสินใจ ทั้งในช่วงเวลาก่อนซื้อผลิตภัณฑ์หรือเข้าทำสัญญาขณะซื้อผลิตภัณฑ์หรือ เข้าทำสัญญา และระหว่างที่สัญญามีผลบังคับใช้  รวมทั้งให้ตารางการเปิดเผยข้อมูลผลิตภัณฑ์แก่ลูกค้าทั้งในช่วงก่อนซื้อผลิตภัณฑ์หรือเขัาทำสัญญา และในขณะซื้อผลิตภัณฑ์หรือเข้าทำสัญญาหากข้อมูลมีการเปลี่ยนแปลงอย่างมีนัยสำคัญ รวมทั้งในกรณีต่ออายุสัญญาด้วย</run></par>
+<par def='27'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>7.2  การจัดทำสื่อทางการตลาดและโฆษณา ให้เปิดเผยข้อมูลที่ถูกต้อง ชัดเจน เกี่ยวข้องกับการตัดสินใจ ไม่ทำให้เข้าใจผิด และสอดคล้องกับข้อกำหนดกฎหมาย และกฎระเบียบที่เกี่ยวข้อง</run></par>
+<par def='27'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>7.3  มีการให้บริการหลังการขาย เพื่อดูแลและอำนวยความสะดวกให้แก่ลูกค้าอย่างเหมาะสม</run></par>
+<par def='27'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>7.4  ให้เก็บรักษาข้อมูลของลูกค้าไว้เป็นความลับโดยไม่เปิดเผยข้อมูลแก่บุคคลที่สาม ยกเว้นได้รับอนุญาตเป็นลายลักษณ์อักษรจากลูกค้า หรือเปิดเผยข้อมูลตามที่กฎหมายกำหนด</run></par>
+<par def='27'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>7.5  กรณีมีการใช้บริการจากบุคคลภายนอก ธนาคารยังรับผิดชอบต่อลูกค้าเสมือนเป็นผู้ดำเนินการเอง โดยดูแลเรื่องความต่อเนื่องทางธุรกิจและการให้บริการแก่ลูกค้า การคุ้มครองลูกค้า และการบริหารความเสี่ยง</run></par>
+<par def='27'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>7.6  มีการจัดการเรื่องร้องเรียนอย่างมีประสิทธิผล และมีแนวทางในการชดเชยความเสียหายให้กับลูกค้าตามความเหมาะสม</run></par></tablecell></tablerow>
+<tablerow tablabel='เรื่องอื่นๆ ที่เกี่ยวข้อง'>
+<tablecell colorstyle='vgradient' bgcolor='#7fc2bc' altbgcolor='white'>
+<pardef id='29' tabs='L0.1799in L0.4750in' keepwithnext='true' keeptogether='true'/>
+<par def='29'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>-  กรณีที่ได้รับอนุญาตจากหน่วยงานทางการ ต้องดำเนินการตามเงื่อนไขที่ได้รับอนุญาตก่อนการให้บริการ เช่น กรณีการใช้ หรือให้บริการกับบุคคลภายนอก ต้องควบคุมให้มีการทำสัญญาให้แล้วเสร็จก่อนดำเนินการ</run></par></tablecell></tablerow>
+<tablerow tablabel='ข้อกำหนดทางการที่เกี่ยวข้อง'>
+<tablecell colorstyle='vgradient' bgcolor='#71b2cf' altbgcolor='white'>
+<par def='27'><run><font size='14pt' style='bold underline' name='FreesiaUPC'
+ pitch='variable' truetype='true' familyid='20'/>ธปท.</run></par>
+<pardef id='30' tabs='L1.1049in L1.4000in' keepwithnext='true' keeptogether='true'/>
+<par def='30'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>-  แนวนโยบาย เรื่อง การนำเสนอข้อมูลเกี่ยวกับผลิตภัณฑ์ทางการเงินของธนาคารพาณิชย์ (banking product) ลงวันที่ 1 ตุลาคม 2556</run></par>
+<par def='30'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>-  ประกาศ ธปท. ที่ สนส. 6/2558 เรื่อง การให้สินเชื่อ ทำธุรกรรมที่มีลักษณะคล้ายการให้สินเชื่อ หรือประกันหนี้แก่กรรมการผู้มีอำนาจในการจัดการของสถาบันการเงิน หรือผู้ที่เกี่ยวข้องกับบุคคลดังกล่าว ลงวันที่ 24 มีนาคม 2558 </run></par>
+<par def='30'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>-  ประกาศ ธปท. ที่ สนส.16/2552 เรื่อง การกำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการประกอบธุรกิจบัตรเครดิตของธนาคารพาณิชย์ ลงวันที่ 9 กรกฎาคม 2552 </run></par>
+<par def='30'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>-  ประกาศ ธปท. ที่ สนส. 17/2552 เรื่อง หลักเกณฑ์การปฏิบัติในเรื่องดอกเบี้ย ค่าบริการต่างๆ และเบี้ยปรับที่ธนาคารพาณิชย์อาจเรียกได้ในการประกอบธุรกิจบัตรเครดิต ลงวันที่ 9 กรกฎาคม 2552</run></par>
+<par def='27'><run><font size='14pt' style='bold underline' name='FreesiaUPC'
+ pitch='variable' truetype='true' familyid='20'/>กฎหมายอื่น</run></par>
+<pardef id='31' tabs='L1.1049in L1.3153in L1.4000in' keepwithnext='true' keeptogether='true'/>
+<par def='31'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>-  พ.ร.บ. ป้องกันและปราบปรามการฟอกเงิน พ.ศ. 2542 (และที่แก้ไขเพิ่มเติม)</run></par>
+<par def='31'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>-  พ.ร.บ. ป้องกันและปราบปรามการสนับสนุนทางการเงินแก่การก่อการร้ายและการแพร่ขยายอาวุธที่มีอานุภาพทำลายล้างสูง พ.ศ. 2559</run></par>
+<par def='31'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>-  พ.ร.บ. คุ้มครองผู้บริโภค พ.ศ. 2522</run></par>
+<par def='30'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>-  พ.ร.บ. การพนัน พ.ศ. 2478</run></par>
+<par def='30'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>-  ประกาศคณะกรรมการว่าด้วยสัญญา เรื่อง ให้ธุรกิจบัตรเครดิตเป็นธุรกิจที่ควบคุมสัญญา พ.ศ. 2542  ลงวันที่ 26 ต.ค. 2542 ฉบับที่ 2 ลงวันที่ 30 ธ.ค. 2542</run><run
+><font size='12pt' name='FreesiaUPC' pitch='variable' truetype='true' familyid='20'/> </run><run
+><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true' familyid='20'/>ฉบับที่ 3 </run></par>
+<par def='30'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>    ลงวันที่ 15 มิ.ย. 2544 และ ฉบับที่ 4 ลงวันที่ 8 มี.ค. 2556</run></par>
+<par def='30'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>-  ประกาศสมาคมบริษัทจัดการลงทุน ที่ สจก.ร.1/2556 เรื่อง แนวปฏิบัติในการจัดรายการส่งเสริมการขายหน่วยลงทุนของกองทุนรวม</run></par>
+<par def='27'><run><font size='14pt' style='bold underline' name='FreesiaUPC'
+ pitch='variable' truetype='true' familyid='20'/>หมายเหตุ</run><run><font
+ size='14pt' name='FreesiaUPC' pitch='variable' truetype='true' familyid='20'/> </run><run
+><font size='14pt' name='Calibri' pitch='variable' truetype='true' familyid='20'/>: </run><run
+><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true' familyid='20'/>อื่นๆ ให้เป็นไปตามนโยบายเครดิตและระเบียบของธนาคาร</run></par>
+<par def='27'><run><font name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par></tablecell></tablerow></table>
+<pardef id='32' keepwithnext='true' keeptogether='true'/>
+<par def='32'><run><font name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par></tablecell></tablerow></table>
+<pardef id='33' keepwithnext='true' keeptogether='true'><code event='hidewhen'
+ enabled='false'><formula>DocType != "1"</formula></code></pardef>
+<par def='33'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>เอกสารแนบ : </run><attachmentref name='สรุปหลักเกณฑ์บัตรเครดิต  60.doc'
+ displayname='สรุปหลักเกณฑ์บัตรเครดิต  60.doc'><picture height='34px' width='202px'><notesbitmap
+>
+lQAmAAAAAAAAAAAAAAABAAAAAAAAAMoAIgAIAAEACAABAIEAAQCWAFoFAAAAAAAAAAAAACIASAVA
+CwDFAMIbAgsbxAsBG8QLARvDCwIRC8URARtACgDEAEALAMUAATvNDcI+xh0Eeh90C0AKAMMAQAsA
+xQABO0ACAMUABQstTmobQAoAwgBACwDFAAE7QAIAxQAGCy0BF2AbQAoAAQBACwDFAAE7QAIAxQAC
+Cy3CAQMIYBtACgBACgDFAAMBZmjCZsJiBGFEXTXCWgEzwjIDKSgHywAICy0BDwguaRFACQDHAEAK
+AMUAAwFGHMMFAi8cwnkBeMJMwnYES0YpB8sACQsnCAUcIhVpP0AJAMYAQAoAxQADAUYByADCBMMD
+AzopB8sACgsVamljYEMhQxtACQDFAEAKAMUAAwFGAcgAAQTEAwNLKAfMAANQJxLCDMJxAiEbQAkA
+xQBACgDFAAQHRgFuwjcHZ2EHJ144a8I0BDIzKAfOAMMEBAMaIQtACQDFAEAKAMUAEwFoDio4S2s2
+UDY3FUleYVs1VhrGBQIABsJNAnhNwncCHgPCBAMaIRFACQDFAEAKAMUAEwFoDgdnSmRQFWQ1cDtD
+KGAsVgfHAA4GAQQXDwUWHgMEAxohEUAJAMUAQAoAxQATB2UKAGRJFXBkXzM2XjN/ejgxIsYICQAG
+CAoHEiYrHsMDAxohQEAJAMUAQAoAxQATGGEOAF5uWGRfM1eAKTFgBzgxCsYEDwAGFhoWJismHgID
+AhYhQEAJAMUAQAoAxQALGGEXADY3WUQzQ13CVQZ/PhE4MRjHAA4GBRwWEyQmHgIDAhYQQEAJAMUA
+QAoAxQATGEQXBEM3NShWWDNVMGMYB0lTIMUFBD0ABjnEJAImHsMCAxYQQEAJAMUAQAoAxQAOGDUF
+A0NlV1kNgFUwIz7CBwMqUwrHAAgGHCZKOSRKHsMCAxYQfUAJAMUAQAoAxQAOClwFA0NbMXERIzFC
+agrCBwMqMBrCCMMFAxMAE8QZAx5tRcMCAzoQfUAJAMUAQAoAxQANClwvA1gjNgdBU38QLcMHBCpC
+UATEAwMCAALDAcIHAlIKwgIEAToQP0AJAMUAQAoAxQAEClovA8MRwkHEGAEHwhgDKkJ8xgDCBMQD
+xALCAQM6ED9ACQDFAEAKAMUAAwo0TMIKxBfCL8JOwxMMa0ISHBMiGhYgJxJ1wgwEJQkrSMMBAzkQ
+P0AJAMUAQAoAxQAECik0M8IyAikow1bCMcJUwjACfnzCAMQEwwPFAsQBAzkQUUAJAMUAQAoAxQAC
+AxPEPMIuBGotLgzCGQFtw0UBIsITBSIaLiAnwhIBdcQMASXCAQQPLBBRQAkAxQBACwDFAAF0wwAB
+BMQDxgLFAQFSwwrCCMIPBA4mEFFACQDFAEALAMUAAXTIAMQEwwPFAsQBwg/CDgNyEHtACQDFAEAL
+AMUAAXPCAAMBBT3CEwQiGhYgwhIDLAwlwgkCK0jFFcIOBAZyEHtACQDFAEALAMUAAnMExADEBMMD
+xQIBQcQBwg/CDsIGA28QDUAJAMUAQAsAxQAFHwQAAQXDEwIiGsIgASfCEgEswwzCJcUJwwYDbxBP
+QAkAxQBACwDFAAQfAwQDxALFAQFSwwrECMIXwwXDBgNvI09ACQDFAEALAMUAAh8DwgTFA8UCxQHC
+D8MOxAYEFEcjT0AJAMUAQAsAxQAGHwMECBYgwhIBLMIMwgkCK0jGFcUZwxQDRyMdQAkAxQBACwDF
+AAEfwwPGAsYBwg/CDsUGxBQDRyMdQAkAxQBACwDFAAEfwgIECBYgJ8ISASzDDAElzAnDFANsIx1A
+CQDFAEALAMUAAR/CAsIBwg/DCsMIwhfFBcI9xBzDFANsIx1ACQDFAJcAiQEAAP///+Do+Ojw+PDw
++PD4+MjY8NDg+ODo8NDg8Jiw2Njg8Ojw8KC42NDY4Njg+Njo+DhQcOjo8KjA4MDQ6MjY+JCo0LDI
+6NDY8ODg8Iio0LjI6PDw8MDQ8MjQ2ICg0KCwwLDI4DhQaLjQ6DBQcJCw4Ji42Ji44LDA4EBouEBo
+wJCo2JCw2KC44LjI2LjI4MjQ8BhImChQqEhwwEhwyFBwyFiA0HCIuICY2KCw4KDA6KjA6LjA0MDI
+4MDY8MjQ4ODg6Ojo6Ojo+BBAkFhwqGCI2ICgyICg6Iiw8JCw0Jio2Jiw4Ki46LDA8LDQ8MjQ6NDY
+2NDY6Njg4Njo8CBImCBQoDBgwDhgsEBoyFBooFBwsFB4yFh4wFh40FiA2GCAyGCI4GiAmGiI2GiQ
+4HCIoHCQyHCQ2HCQ6HiQ0HiY4ICQqICYsICY0ICw8Iig0JCo4JCw8JioyJiw0Ji48KiwwKi4yKi4
+4KjA8KjI8LDI8LjI8MDI2NjY4Njg6ODo6Ag4gBg4eEBYkJgAHgAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAA==
+</notesbitmap><caption>สรุปหลักเกณฑ์บัตรเครดิต  60.doc</caption></picture></attachmentref><run
+><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true' familyid='20'/></run></par>
+<par def='33'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ผู้ประสานงาน :</run></par>
+<par def='33'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ศิรินันท์ 562-6032</run></par>
+<par def='33'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>จิดาภา 273-2596</run></par></richtext></item>
+<item name='ApproverDecide'><text>1</text></item>
+<item name='ApproverRemark'><text/></item>
+<item name='AdminName' names='true'><text/></item>
+<item name='AdminRemark'><text/></item>
+<item name='AdminDate'><text/></item>
+<item name='txtCreator'><text>Sirinan Sarika</text></item>
+<item name='dteCreated'><datetime>20170331T164738,68+07</datetime></item>
+<item name='txtDocumentTitle'><text/></item>
+<item name='txtDocStatusWait'><text/></item>
+<item name='AcceptAllNameList'><text/></item>
+<item name='Subject'><text> สรุปหลักเกณฑ์สำคัญที่เกี่ยวข้องกับการประกอบธุรกิจบัตรเครดิต ปี 2560 (โดยที่หลักเกณฑ์ดังกล่าวไม่มีการเปลี่ยนแปลง)    </text></item>
+<item name='txtDatabaseOwner'><text>CO Information and Tracking System</text></item>
+<item name='txtDisplay'><text/></item>
+<item name='txtDocStatusDetail'><text>ผ่านการอนุมัติ</text></item>
+<item name='txtDocNo'><text>2017-03/00033</text></item>
+<item name='DocNoDateNo'><number>0</number></item>
+<item name='DocNoDate'><number>3</number></item>
+<item name='DocFirstAlertDate'><datetime>20170405</datetime></item>
+<item name='DocCCMail' names='true'><textlist><text>CN=Phaisarn Vorasetsiri/OU=CO/O=KBANK</text><text
+>CN=Jittima Chomsuwan/OU=CD/O=KBANK</text><text>CN=Onuma Prateepwattananon/OU=CD/O=KBANK</text><text
+>CN=Sobchok Smitamuksit/OU=CD/O=KBANK</text><text>CN=Supawan Pluemsumphant/OU=CD/O=KBANK</text><text
+>CN=Anchalee Sirisindee/OU=CD/O=KBANK</text><text>CN=Kannikar Tuntivanitchapun/OU=CP/O=KBANK</text><text
+>CN=Supawan Tientamnoon/OU=CP/O=KBANK</text></textlist></item>
+<item name='DocSendName' names='true'><text>Sirinan Sarika</text></item>
+<item name='DocSendDate'><datetime>20170331T172215,00+07</datetime></item>
+<item name='ApproverName' names='true'><text>Rungnapa Lappanichayakit</text></item>
+<item name='ApproverDate'><datetime>20170331T173023,00+07</datetime></item>
+<item name='EhRev'><numberlist><number>1</number><number>0</number></numberlist></item>
+<item name='EhEditor'><textlist><text>Rungnapa Lappanichayakit</text><text
+>Sirinan Sarika</text></textlist></item>
+<item name='EhDate'><datetimelist><datetime>20170331T172956,02+07</datetime><datetime
+>20170331T172215,65+07</datetime></datetimelist></item>
+<item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
+ compression='none' flags='storedindoc' encoding='none' name='สรุปหลักเกณฑ์บัตรเครดิต  60.doc'
+ size='82944' storagesize='49031' desiredcompression='huffman'>
+<created><datetime>20170329T180520,86+07</datetime></created>
+<modified><datetime>20170330T174125,19+07</datetime></modified><filedata>
+0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAPgADAP7/CQAGAAAAAAAAAAAAAAACAAAAmwAAAAAAAAAA
+EAAAngAAAAEAAAD+////AAAAAJkAAACaAAAA////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////s
+pcEADcAJBAAA8BK/AAAAAAAAEAAAAAAACAAAjIAAAA4AYmpialOeU54AAAAAAAAAAAAAAAAAAAAA
+AAAJBBYANKgAADH0AAAx9AAAzRwAAAAAAABFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//w8AAAAA
+AAAAAAD//w8AAAAAAAAAAAD//w8AAAAAAAAAAAAAAAAAAAAAALcAAAAAADYIAAAAAAAANggAAJAV
+AAAAAAAAkBUAAAAAAACQFQAAAAAAAJAVAAAAAAAAkBUAABQAAAAAAAAAAAAAAP////8AAAAApBUA
+AAAAAACkFQAAAAAAAKQVAAA4AAAA3BUAAKQAAACAFgAA9AAAAKQVAAAAAAAAik4AANYCAAB0FwAA
+AAAAAHQXAAAAAAAAdBcAAAAAAAB0FwAAAAAAAHQXAAAAAAAAYxgAAAAAAABjGAAAAAAAAGMYAAAA
+AAAA8U0AAAIAAADzTQAAAAAAAPNNAAAAAAAA800AAAAAAADzTQAAAAAAAPNNAAAAAAAA800AACQA
+AABgUQAAsgIAABJUAADSAAAAF04AAC0AAAAAAAAAAAAAAAAAAAAAAAAAkBUAAAAAAABjGAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAABjGAAAAAAAAGMYAAAAAAAAYxgAAAAAAABjGAAAAAAAABdOAAAAAAAA
+AAAAAAAAAACQFQAAAAAAAJAVAAAAAAAAdBcAAAAAAAAAAAAAAAAAAHQXAADvAAAARE4AABYAAABx
+JQAAAAAAAHElAAAAAAAAcSUAAAAAAABjGAAA6gcAAJAVAAAAAAAAdBcAAAAAAACQFQAAAAAAAHQX
+AAAAAAAA8U0AAAAAAAAAAAAAAAAAAHElAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAYxgAAAAAAADxTQAAAAAAAAAAAAAAAAAAcSUAAAAAAABxJQAA
+bgEAAFdJAAAIAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0sAAAAAAAB0FwAAAAAAAP////8AAAAAAMz/LUKp
+0gEAAAAAAAAAAP////8AAAAATSAAAEIEAABfSgAAIAAAAAAAAAAAAAAA3U0AABQAAABaTgAAMAAA
+AIpOAAAAAAAAf0oAANQAAADkVAAAAAAAAI8kAADiAAAA5FQAAEAAAABTSwAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABT
+SwAAJgAAAORUAAAAAAAAAAAAAAAAAACQFQAAAAAAAHlLAABkAgAAYxgAAAAAAABjGAAAAAAAAHEl
+AAAAAAAAYxgAAAAAAABjGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYxgA
+AAAAAABjGAAAAAAAAGMYAAAAAAAAF04AAAAAAAAXTgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAcSUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGMYAAAA
+AAAAYxgAAAAAAABjGAAAAAAAAIpOAAAAAAAAYxgAAAAAAABjGAAAAAAAAGMYAAAAAAAAYxgAAAAA
+AAAAAAAAAAAAAP////8AAAAA/////wAAAAD/////AAAAAAAAAAAAAAAA/////wAAAAD/////AAAA
+AP////8AAAAA/////wAAAAD/////AAAAAP////8AAAAA/////wAAAAD/////AAAAAP////8AAAAA
+/////wAAAAD/////AAAAAP////8AAAAA/////wAAAAD/////AAAAAORUAAAAAAAAYxgAAAAAAABj
+GAAAAAAAAGMYAAAAAAAAYxgAAAAAAABjGAAAAAAAAGMYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABjGAAAAAAAAGMYAAAAAAAAYxgA
+AAAAAAA2CAAAIAwAAFYUAAA6AQAABQASAQAACQQAAB4EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEALgAg
+AAEOMg4jDh4ONA4IDjIOIw4TDjIOBA44DhMOKg4hDhoOMQ4VDjQOAg4tDgcOHA45DkkOFg43Di0O
+Gg4xDhUOIw4gACcOBw5ADgcONA4ZDiAAQQ4lDjAOLQ4xDhUOIw4yDhQOLQ4BDkAOGg41DkkOIg5A
+DgQOIw4UDjQOFQ4gAAcABwAVDiMOJw4IDioOLQ4aDgQOOA4TDioOIQ4aDjEOFQ40DgIOLQ4HDhwO
+OQ5JDgIOLQ4hDjUOGg4xDhUOIw4IDjIOAQ5ADi0OAQ4qDjIOIw4VDjIOIQ5ADgEOEw4RDkwOIw4y
+DiIORA4UDkkOIABADgcONA4ZDh0OMg4BDisOIw43Di0OQA4HDjQOGQ4lDgcOFw44DhkOFQ4yDiEO
+QA4BDhMOEQ5MDhcONQ5IDiAAGA4bDhcOLgAgAAEOMw4rDhkOFA4gACAAFA4xDgcOGQ41DkkOIAAN
+AA0AKw4lDjEOAQ5ADgEOEw4RDkwODQArDiUOMQ4BDhAOMg4ZDkAOLQ4BDioOMg4jDg0AAQ4yDiMO
+Qw4rDkkOJw4HDkAOBw40DhkODQANAEAOAQ4TDhEOTA4jDjIOIg5EDhQOSQ4NADEALgAgACEONQ4j
+DjIOIg5EDhQOSQ4IDjIOAQ5BDisOJQ5IDgcOFw41DkgOIQ4yDhUOSA4yDgcORg4gACMOJw4hDgEO
+MQ4ZDkQOIQ5IDhUOSA4zDgEOJw5IDjIOIAAxADUALAAwADAAMAAgABoOMg4XDiAAFQ5IDi0OQA4U
+DjcOLQ4ZDiAAKw4jDjcOLQ5EDiEOSA4VDkgOMw4BDicOSA4yDiAAMQA4ADAALAAwADAAMAAgABoO
+Mg4XDhUOSA4tDhsONQ4gAA0AHg40DggOMg4jDhMOMg4IDjIOAQ4rDiUOMQ4BDhAOMg4ZDhcONQ5I
+DkEOGQ5IDgoOMQ4UDkAOAQ41DkgOIg4nDgEOMQ4aDkEOKw4lDkgOBw4XDjUOSA4hDjIOAg4tDgcO
+Iw4yDiIORA4UDkkOIABADgoOSA4ZDiAAKg4lDjQOGw5ADgcONA4ZDkAOFA43Di0OGQ4NAEQOIQ5I
+DkAOAQ40DhkODQA1ACAAQA4XDkgOMg4NAA0ADQANADIALgAgAEAOGw5HDhkOHA45DkkOIQ41DiMO
+Mg4iDkQOFA5JDisOIw43Di0OQA4EDiIOIQ41DiMOMg4iDkQOFA5JDggOMg4BDgEOMg4jDhcOMw4h
+DjIOKw4yDkQOFA5JDgIOLQ4HDhUOGQ4iDkkOLQ4ZDisOJQ4xDgcORA4hDkgOGQ5JDi0OIg4BDicO
+SA4yDiAANgAgAEAOFA43Di0OGQ4gAEAOCQ4lDjUOSA4iDkAOFA43Di0OGQ4lDjAORA4hDkgOFQ5I
+DjMOAQ4nDkgOMg4xADUALAAwADAAMAAgABoOMg4XDiAAIAANAB4ONA4IDjIOIw4TDjIOCA4yDgEO
+QA4HDjQOGQ4XDjUOSA4dDjIOAQ5ADgIOSQ4yDiMOJw4hDgEOMQ4ZDkMOGQ4aDjEODQ4KDjUOQA4H
+DjQOGQ4dDjIOAQ5BDhUOSA4lDjAOQA4UDjcOLQ4ZDg0ADQANAEAOAQ4TDhEOTA4NAEAOBw40DhkO
+HQ4yDgEOQA4bDkcOGQ4rDiUOMQ4BDhsOIw4wDgEOMQ4ZDg0AKw4lDjEOAQ4bDiMOMA4BDjEOGQ5A
+DhUORw4hDicOBw5ADgcONA4ZDgIOLQ4HDhoOMQ4VDiMOQA4EDiMOFA40DhUOFw41DkgOLQ4ZDjgO
+IQ4xDhUONA4NAB4ONA4IDjIOIw4TDjIOCA4yDgEODQAtACAAQA4HDjQOGQ4dDjIOAQ4XDjUOSA4Y
+DhkOMg4EDjIOIw4eDjIOEw40DgoOIg5MDiAAQQ4lDjAOLwArDiMONw4tDg0ALQAgABUOIw4yDioO
+Mg4jDkEOKg4UDgcOKg40DhcOGA40DkMOGQ4rDhkONQ5JDhcONQ5IDi0OLQ4BDkIOFA4iDhgOGQ4y
+DgQOMg4jDh4OMg4TDjQOCg4iDkwOIAArDhkOSA4nDiIOBw4yDhkOAg4tDgcOIw4xDhAOKw4jDjcO
+LQ4jDjEOEA4nDjQOKg4yDisOAQ40DggOFw41DkgOIQ41DgEODg4rDiEOMg4iDkAOCQ4eDjIOMA4I
+DjEOFA4VDjEOSQ4HDgIONg5JDhkODQBDDisOSQ4nDgcOQA4HDjQOGQ4NAEAOFQ5HDiEOCA4zDhkO
+Jw4ZDg0AQA4HDjQOGQ4XDjUOSA5ADhsORw4ZDisOJQ4xDgEOGw4jDjAOAQ4xDhkODQANAEAOAQ4T
+DhEOTA4NAEAOBw40DhkOHQ4yDgEODQBADgcONA4ZDiUOBw4XDjgOGQ4NADEALgAgACEONQ5ADgcO
+NA4ZDh0OMg4BDkQOIQ5IDhkOSQ4tDiIOAQ4nDkgOMg4gADUAMAAwACwAMAAwADAAIAAaDjIOFw4g
+AEIOFA4iDhUOSQ4tDgcOHQ4yDgEOIQ4yDkEOJQ5JDicOQA4bDkcOGQ4jDjAOIg4wDkAOJw4lDjIO
+RA4hDkgOGQ5JDi0OIg4BDicOSA4yDiAANgAgAEAOFA43Di0OGQ4gAA0AKABCDhQOIg4iDi0OFA4j
+DicOIQ4XDjgOAQ4CDhMOMA5ADicOJQ4yDhUOSQ4tDgcOAQ4zDisOGQ4UDkQOIQ5IDhUOSA4zDgEO
+Jw5IDjIOFw41DkgOAQ4zDisOGQ4UDikADQAeDjQOCA4yDiMOEw4yDggOMg4BDkAOBw40DhkOHQ4y
+DgEOGw4jDjAOCA4zDiAADQBEDiEOSA5ADgEONA4ZDg0AIw5JDi0OIg4lDjAOIAAxADAADQANAA0A
+MgAuACAAIQ41DgEOMg4jDiUOBw4XDjgOGQ5EDiEOSA4ZDkkOLQ4iDgEOJw5IDjIOIAAxACwAMAAw
+ADAALAAwADAAMAAgABoOMg4XDiAAQg4UDiIOFQ5JDi0OBw4dDjIOAQ4rDiMONw4tDiUOBw4XDjgO
+GQ4hDjIOQQ4lDkkOJw5ADhsORw4ZDiMOMA4iDjAOQA4nDiUOMg5EDiEOSA4ZDkkOLQ4iDgEOJw5I
+DjIOIAA2ACAAQA4UDjcOLQ4ZDiAAKABCDhQOIg4iDi0OFA4jDicOIQ4XDjgOAQ4CDhMOMA5ADicO
+JQ4yDhUOSQ4tDgcOAQ4zDisOGQ4UDkQOIQ5IDhUOSA4zDgEOJw5IDjIOFw41DkgOAQ4zDisOGQ4U
+DikADQAeDjQOCA4yDiMOEw4yDggOMg4BDkAOBw40DhkOHQ4yDgEOQA4HDjQOGQ4lDgcOFw44DhkO
+LQ4iDkgOMg4HDkMOFA4tDiIOSA4yDgcOKw4ZDjYOSA4HDisOIw43Di0OIw4nDiEOAQ4xDhkOIAAU
+DjEOBw4ZDjUOSQ4NAC0AIABADgcONA4ZDh0OMg4BDhsOIw4wDggOMw4gAEEOJQ4wDi8AKw4jDjcO
+LQ4NAC0AIABADgcONA4ZDh0OMg4BDi0OLQ4hDhcOIw4xDh4OIg5MDiAAQQ4lDjAOLwArDiMONw4t
+Dg0ALQAgACUOBw4XDjgOGQ5DDhkOFQ4jDjIOKg4yDiMOQQ4qDhQOBw4qDjQOFw4YDjQOQw4ZDisO
+GQ41DkkOIABADgoOSA4ZDiAAKw44DkkOGQ4BDjkOSQ4gAEEOJQ4wDisOOA5JDhkOAQ45DkkOFA5J
+Di0OIg4qDjQOFw4YDjQOIAArDiMONw4tDiUOBw4XDjgOGQ5DDhkOAQ4tDgcOFw44DhkOIw4nDiEO
+DQANAA0ADQArDkkOMg4hDi0OLQ4BDhoOMQ4VDiMOQg4UDiIOIQ40DkQOFA5JDiMOMQ4aDgEOMg4j
+DiMOSQ4tDgcOAg4tDggOMg4BDiUOOQ4BDgQOSQ4yDiAAKABQAHIAZQAtAGEAcABwAHIAbwB2AGUA
+ZAApAA0AAQ4yDiMOQA4eDjQOSA4hDicOBw5ADgcONA4ZDgoOMQ5IDicOBA4jDjIOJw4VDkkOLQ4H
+Dh4ONA4IDjIOIw4TDjIOBA4nDjIOIQ4qDjIOIQ4yDiMOFg5DDhkOAQ4yDiMOCg4zDiMOMA4rDhkO
+NQ5JDgIOLQ4HDhwOOQ5JDhYONw4tDhoOMQ4VDiMOIAAvABUOSQ4tDgcOIQ41DhwOOQ5JDiMOMQ4a
+DhwONA4UDgoOLQ4aDi0OGQ44DiEOMQ4VDjQOQA4eDjQOSA4hDicOBw5ADgcONA4ZDkEOJQ4wDhcO
+Mw4CDkkOLQ4VDgEOJQ4HDkAOGw5HDhkOHg40DkAOKA4pDkMOKw5JDhwOOQ5JDhYONw4tDhoOMQ4V
+DiMOFQ5JDi0OBw4KDjMOIw4wDkAOBw40DhkOKg5IDicOGQ4XDjUOSA5ADgEONA4ZDgEOJw5IDjIO
+Jw4HDkAOBw40DhkOGw4BDhUONA4XDjUOSA4lDjkOAQ4EDkkOMg5EDhQOSQ4gACAOMg4iDkMOFQ5J
+DkAOJw4lDjIOFw41DkgOIAAYDhsOFw4uACAAAQ4zDisOGQ4UDiAADQABDjIOIw5BDhoOSA4HDisO
+Iw43Di0OHA5IDi0OGQ4KDjMOIw4wDisOGQ41DkkOCA4wDhUOSQ4tDgcOAQ4zDisOGQ4UDgIOMQ5J
+DhkOFQ5IDjMOQw4ZDkEOFQ5IDiUOMA4HDicOFA5EDiEOSA4ZDkkOLQ4iDgEOJw5IDjIOIw5JDi0O
+Ig4lDjAOIAAxADAAIAACDi0OBw4iDi0OFA4EDgcOBA5JDjIOBw4gACIOAQ5ADicOSQ4ZDicOBw5A
+DgcONA4ZDgoOMQ5IDicOBA4jDjIOJw5DDhkOAQ4jDhMONQ4JDjgOAQ5ADgkONA4ZDggOMA4VDkkO
+LQ4HDgoOMw4jDjAOQA4VDkcOIQ4IDjMOGQ4nDhkODQAtDjEOFQ4jDjIOFA4tDgEOQA4aDjUOSQ4i
+DiAAKw4jDjcOLQ4EDkgOMg4aDiMONA4BDjIOIw4VDkgOMg4HDkYOIAArDiMONw4tDkAOGg41DkkO
+Ig4bDiMOMQ4aDkMOGQ4BDjIOIw4KDjMOIw4wDisOGQ41DkkOJQ5IDjIOCg5JDjIOIABADiEONw5I
+Di0OIw4nDiEOAQ4xDhkOQQ4lDkkOJw4VDkkOLQ4HDkQOIQ5IDkAOAQ40DhkOIw5JDi0OIg4lDjAO
+IAAyADAAIAAVDkgOLQ4bDjUODQAIDjEOFA4qDkgOBw5DDhoOQQ4IDkkOBw4rDhkONQ5JDkMOKw5J
+DhwOOQ5JDhYONw4tDhoOMQ4VDiMOFw4jDjIOGg4lDkgOJw4HDisOGQ5JDjIORA4hDkgOGQ5JDi0O
+Ig4BDicOSA4yDiAAMQAwACAAJw4xDhkOAQ5IDi0OGQ4nDjEOGQ4WDjYOBw4BDjMOKw4ZDhQOCg4z
+DiMOMA4NAC0OMQ4VDiMOMg4EDkgOMg4aDiMONA4BDjIOIw4VDjQOFA4VDjIOIQ4XDicOBw4WDjIO
+IQ4rDhkONQ5JDhUOSQ4tDgcOLQ4iDjkOSA5DDhkOLQ4xDhUOIw4yDhcONQ5IDkAOKw4hDjIOMA4q
+DiEOAQ4xDhoOFQ5JDhkOFw44DhkOFw41DkgOQA4BDjQOFA4CDjYOSQ4ZDggOIw40DgcOFQ4yDiEO
+Fw41DkgOIAAYDhsOFw4uACAAGw4jDjAOAQ4yDigOAQ4zDisOGQ4UDg0AAQ4jDhMONQ4XDjUOIQ41
+DgEOMg4jDkAOGw4lDjUOSA4iDhkOQQ4bDiUOBw4tDjEOFQ4jDjIOIAArDiMONw4tDkAOBw43DkgO
+LQ4ZDkQOAg5DDhQOIABGDiAAFQ5JDi0OBw5BDggOSQ4HDkMOKw5JDhwOOQ5JDhYONw4tDhoOMQ4V
+DiMOFw4jDjIOGg4lDkgOJw4HDisOGQ5JDjIOAQ5IDi0OGQ4nDjEOGQ4XDjUOSA4IDjAOQA4jDjQO
+SA4hDkAOGw4lDjUOSA4iDhkOQQ4bDiUOBw5EDiEOSA4ZDkkOLQ4iDgEOJw5IDjIOIAAzADAAIAAn
+DjEOGQ4gAAcABwAyAC4AIAABDjIOIw4qDkgOBw5ADioOIw40DiEOAQ4yDiMOAg4yDiIOBwAHACsO
+SQ4yDiEOQQ4IDgEOQA4HDjQOGQ4gACoONA5IDgcOAg4tDgcOIAArDiMONw4tDhoOMQ4VDiMOAQ4z
+DhkOMQ4lDkMOFA5GDiAAQw4ZDgEOMg4jDiMOMQ4aDioOIQ4xDgQOIw4cDjkOSQ4WDjcOLQ4aDjEO
+FQ4jDiMOMg4iDkMOKw4hDkgOIAAiDgEOQA4nDkkOGQ4hDjUOIg4tDhQOAQ4yDiMOQw4KDkkOCA5I
+DjIOIg4cDkgOMg4ZDhoOMQ4VDiMOQQ4lDkkOJw4gADEAIAAHDicOFA4NACsOSQ4yDiEOIQ40DkMO
+Kw5JDhgOGQ4yDgQOMg4jDggOMQ4UDiMOMg4iDgEOMg4jDioOSA4HDkAOKg4jDjQOIQ4BDjIOIw4C
+DjIOIg4rDhkOSA4nDiIOJQ4HDhcOOA4ZDiMOSA4nDiEOAQ4xDhoOGg4xDhUOIw5ADgQOIw4UDjQO
+FQ4gAEAOCg5IDhkOIAArDkkOMg4hDkMOKw5JDgQOMA5BDhkOGQ4qDjAOKg4hDggOMg4BDgEOMg4j
+DkMOCg5JDhoOMQ4VDiMOQA4EDiMOFA40DhUOCw43DkkOLQ4rDhkOSA4nDiIOJQ4HDhcOOA4ZDgIO
+LQ4HDgEOLQ4HDhcOOA4ZDiMOJw4hDiAAKw5JDjIOIQ5DDisOSQ4qDjQOFw4YDjQOQQ4aDkgOBw4c
+DkgOLQ4ZDgoOMw4jDjAOKg40DhkOQA4KDjcOSA4tDgcABwAzAC4AIAABDjIOIw4jDjEOGg5ADiMO
+Nw5IDi0OBw4jDkkOLQ4HDkAOIw41DiIOGQ4gAC8AIAABDjIOIw4VDjQOFA4VDkgOLQ4lDjkOAQ4E
+DkkOMg4HAAcAMwAuADEAIAAVDkkOLQ4HDkEOCA5JDgcOBA4nDjIOIQ4EDjcOGg4rDhkOSQ4yDkMO
+Kw5JDiUOOQ4BDgQOSQ4yDhcOIw4yDhoOIA4yDiIOQw4ZDiAANwAgACcOMQ4ZDiAAGQ4xDhoOCA4y
+DgEOJw4xDhkOFw41DkgORA4UDkkOIw4xDhoOQQ4IDkkOBw5ADiMONw5IDi0OBw4jDkkOLQ4HDkAO
+Iw41DiIOGQ4gAEEOJQ4wDkEOCA5JDgcOAg5JDi0OKg4jDjgOGw5DDisOSQ4lDjkOAQ4EDkkOMg4X
+DiMOMg4aDkIOFA4iDkAOIw5HDicODQAzAC4AMgAgACsOSQ4yDiEOFQ40DhQOFQ5IDi0OKw4yDhwO
+OQ5JDhYONw4tDhoOMQ4VDiMOFw4xDkkOBw4jDjIOIg5DDisOIQ5IDkEOJQ4wDiMOMg4iDkAOAQ5I
+DjIOQA4eDjcOSA4tDkAOKg4ZDi0OKg40DhkOQA4KDjcOSA4tDhsOIw4wDkAOIA4XDkMOKw4hDkgO
+IABDDhkOJw4xDhkOFw4zDgEOMg4jDgEOSA4tDhkOIAA4AC4AMAAwACAAGQ4uACAAQQ4lDjAOKw4l
+DjEOBw4gADIAMAAuADAAMAAgABkOLgAgAEEOJQ4wDkMOGQ4nDjEOGQ4rDiIOOA4UDiMOMg4KDgEO
+Mg4jDgEOSA4tDhkOIAA4AC4AMAAwACAAGQ4uAEEOJQ4wDisOJQ4xDgcOIAAxADgALgAwADAAIAAZ
+Di4ABwAHADQALgAgAAEOMg4jDkMOKw5JDioONA4ZDkAOCg43DkgOLQ4aDjEOFQ4jDkAOBA4jDhQO
+NA4VDkEOAQ5IDgEOIw4jDiEOAQ4yDiMOIAAcDjkOSQ4aDiMONA4rDjIOIw4jDjAOFA4xDhoOKg45
+DgcOIAAgACAAIAAgACAABwAHAAQOJw4aDgQOOA4hDgEOMg4jDkMOKw5JDioONA4ZDkAOCg43DkgO
+LQ4aDjEOFQ4jDkAOBA4jDhQONA4VDiAAQQ4BDkgOAQ4jDiMOIQ4BDjIOIw4gABwOOQ5JDhoOIw40
+DisOMg4jDiMOMA4UDjEOGg4qDjkOBw4gACsOIw43Di0OHA45DkkOCw42DkgOBw4hDjUOFQ4zDkEO
+Kw4ZDkgOBw5ADhcONQ4iDhoOQA4XDkgOMg4XDjUOSA5ADiMONQ4iDgEOCg43DkgOLQ4tDiIOSA4y
+DgcOLQ43DkgOGQ4gAAIOLQ4HDhgOGQ4yDgQOMg4jDiAAQQ4lDjAOGg4jDjQOKQ4xDhcOJQ45DgEO
+Qw4ZDgEOJQ44DkgOIQ4gAFMAbwBsAG8AIABDAG8AbgBzAG8AbABpAGQAYQB0AGkAbwBuACAAQQ4l
+DjAOHA45DkkOFw41DkgOQA4BDjUOSA4iDicOAg5JDi0OBw4BDjEOGg4aDjgOBA4EDiUOFA4xDgcO
+AQ4lDkgOMg4nDiAAQg4UDiIOFQ5JDi0OBw5EDiEOSA4hDjUOQA4HDjcOSA4tDhkORA4CDisOIw43
+Di0OAg5JDi0OAQ4zDisOGQ4UDh4ONA5ADigOKQ4XDjEOSQ4HDkMOGQ5ADiMONw5IDi0OBw4nDgcO
+QA4HDjQOGQ5BDiUOMA4rDiUOMQ4BDkAOAQ4TDhEOTA4tDjcOSA4ZDkYOIAAcDjQOFA5EDhsOCA4y
+DgEOHA45DkkOFg43Di0OGg4xDhUOIw4jDjIOIg4tDjcOSA4ZDkYOIAAgAEEOJQ4wDkQOIQ5IDiEO
+NQ4lDjEOAQ4pDhMOMA5ADhsORw4ZDgEOMg4jDkAOLQ43DkkOLQ4bDiMOMA5CDiIOCg4ZDkwOQw4r
+DkkOQQ4BDkgOGg44DgQOBA4lDhQOMQ4HDgEOJQ5IDjIOJw4gAA0ABA4nDhoOBA44DiEOAQ4jDhMO
+NQ4BDjIOIw4KDjMOIw4wDisOGQ41DkkOAg4xDkkOGQ4VDkgOMw4VDjIOIQ5ADgEOEw4RDkwOGg4x
+DhUOIw5ADgQOIw4UDjQOFQ4gAEIOFA4iDkMOGQ5BDhUOSA4lDjAOBw4nDhQOFQ5JDi0OBw4KDjMO
+Iw4wDkQOIQ5IDhUOSA4zDgEOJw5IDjIOIw5JDi0OIg4lDjAOIAAxADAAJQAgAAIOLQ4HDiIOLQ4U
+DisOGQ41DkkOBA4HDgQOSQ4yDgcOIABBDiUOMA4VDkkOLQ4HDkQOIQ5IDkAOGw5HDhkOKw4ZDjUO
+SQ4gAE4AUABMACAADQArDkkOMg4hDkMOKw5JDioONA4ZDkAOCg43DkgOLQ4aDjEOFQ4jDkAOBA4j
+DhQONA4VDhsOIw4wDkAOIA4XDhoOMQ4VDiMOQA4EDiMOFA40DhUOQA4eDjcOSA4tDhgOOA4jDgEO
+NA4IDkEOAQ5IDi0OBw4EDkwOAQ4jDhcONQ5IDhoOOA4EDgQOJQ4UDjEOBw4BDiUOSA4yDicOIQ41
+Di0OMw4ZDjIOCA5DDhkOAQ4yDiMOCA4xDhQOAQ4yDiMOIAAgAAcABwA1AC4AIAACDkkOLQ4BDjMO
+Kw4ZDhQOQA4jDjcOSA4tDgcOAQ4yDiMOCA4xDhQOFw4zDioONw5IDi0OQg4GDikOEw4yDhsOIw4w
+DgoOMg4qDjEOIQ4eDjEOGQ4YDkwOIABBDiUOMA4BDjQOCA4BDiMOIw4hDioOSA4HDkAOKg4jDjQO
+IQ4BDjIOIw4VDiUOMg4UDgcABwAVDkkOLQ4HDkQOIQ5IDkMOCg5JDgIOSQ4tDgQOJw4yDiEOFw41
+DkgOQA4bDkcOGQ4BDjIOIw5EDiEOSA5ADhsORw4ZDhgOIw4jDiEOFQ5IDi0OHA45DkkOGg4jDjQO
+Qg4gDgQOIAArDiMONw4tDgIOSQ4tDgQOJw4yDiEOFw41DkgOLQ4yDggOAQ5IDi0OQw4rDkkOQA4B
+DjQOFA4cDiUOQA4qDjUOIg4VDkgOLQ4qDjEOBw4EDiEOQA4bDkcOGQ4qDkgOJw4ZDiMOJw4hDg0A
+FQ5JDi0OBw5EDiEOSA4BDiMOMA4XDjMOFA5JDicOIg4nDjQOGA41DgEOMg4jDi0OMQ4ZDi0OMg4I
+DgEOSA4tDkMOKw5JDkAOAQ40DhQOLQ4xDhkOFQ4jDjIOIg4rDiMONw4tDgQOJw4yDiEOIw4zDgQO
+Mg4NDkEOAQ5IDhwOOQ5JDhoOIw40DkIOIA4EDg0AAQ4yDiMOCA4xDhQOIw4yDiIOAQ4yDiMOQw4r
+DkkOIw4yDgcOJw4xDiUOFA5JDicOIg4BDjIOIw5ADioONQ5IDiIOBw5CDgoOBA4gAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAGCAAAhAgAAIYIAACICAAA
+SgkAAFoJAABcCQAAXgkAAHAJAAByCQAAgAkAAIwJAACOCQAApgkAAKgJAACqCQAAwgkAAMYJAADI
+CQAAJAoAAOzZyMGzqJuPgXaBZVlldlBBWTZZAAAAABQWaHZRywBeSgMAYUoYAG8oAoIIgQAdFWh2
+UcsAFmi1R+4ANQiBXAiBXkoDAGFKGACCCIEQFWh2UcsAFmh2UcsAYUoYAAAXFWh2UcsAFmi1R+4A
+XkoDAGFKGACCCIEgFWh2UcsAFmi1R+4ANQiBXAiBXkoDAGFKGABvKAKCCIEAFBVodlHLABZotUfu
+AF5KAwBhShgAABoWaFVsFwA1CIFcCIFeSgMAYUoYAG8oAoIIgQAXFWh2UcsAFmi1R+4AXkoDAGFK
+GABvKAIYFWh1DXwAFmi1R+4AT0oDAFFKAwBeSgMAABUWaLVH7gBPSgMAUUoDAF5KAwCCCIEbFWjD
+BAUAFmi1R+4AT0oDAFFKAwBeSgMAggiBDBVo4DFIABZo3xeSAAAhFWi9RvwAFmi9RvwANQiBPioB
+T0oEAFFKBABcCIFeSgMAJBVoXHoYABZo3xeSADUIgT4qAU9KAwBRSgMAXAiBXkoDAIIIgQAlFWhc
+ehgAFmjfF5IANQiBQ0ocAE9KAwBRSgMAXAiBXkoDAIIIgQAUAAgAAIYIAACICAAAXAkAAF4JAABy
+CQAAjgkAAKgJAAD2AAAAAAAAAAAAAAAAiwAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAABmAAAAAAAA
+AAAAAAAAWAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQAAAyQBFiQBSWYCAAAA
+YSQBZ2S1R+4ASyQBAAoAABYkAUlmAgAAAGdkvAYWAEskAQAZAAAKJgALRgEADcYHAdYFAWQCBg+E
+ZAIRhJj+FiQBSWYBAAAAXoRkAmCEmP5nZHUNfABrAABrZAAAAAAWJAEXJAFJZgEAAAAClmwABdYY
+BAEAAAQBAAAEAQAABAEAAAQBAAAEAQAAB5Q8AAjWGgABrfzDJoAGFioAAAAAAAAAAAAAAAAAAAAA
+CnQAAOABE9YwAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAA
+FPYDFioX9gMAABj2AwAAGtYEAAAA/xvWBAAAAP8c1gQAAAD/HdYEAAAA/zTWBgABBQMAADTWBgAB
+CgNsAGH2Axn9eXTgaXgACQAAFiQBSWYBAAAAZ2SKJpMAAAeoCQAAqgkAAMIJAAArAAAAAAAAAAAA
+AAAAHQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0AAAMkARYkAUlmAgAAAGEkAWdk
+tUfuAEskAdQAAGtkhgAAABYkAUlmAgAAAEskAUwkAQKWbAAF1hgSAQAAEgEAABIBAAASAQAAAgEA
+AAIBAAAI1lwABBcAkQSfFK4kHCkABnoEEgEAABIBAAASAQAAEgEAAIAGDhASAQAAEgEAABIBAAAS
+AQAAAAYPEBIBAAASAQAAEgEAABIBAACABm4EEgEAABIBAAASAQAAEgEAAAnWCAACAAIAAgACCnQA
+AKAEEtYoAAAA/8LWmwAAAAAAAP/C1psAAAAAAAD/wtabAAAAAAAA/8LWmwAAABPWMAAAAP8SAQAA
+AAAA/xIBAAAAAAD/EgEAAAAAAP8SAQAAAAAA/wIBAAAAAAD/AgEAABT2AwUpF/YDAAAY9gMAABrW
+EAAAAP8AAAD/AAAA/wAAAP8b1hAAAAD/AAAA/wAAAP8AAAD/HNYQAAAA/wAAAP8AAAD/AAAA/x3W
+EAAAAP8AAAD/AAAA/wAAAP801gYAAQUDAAA01gYAAQoDbABh9gMAAHDWKAAAAP/C1psAAAAAAAD/
+wtabAAAAAAAA/8LWmwAAAAAAAP/C1psAAAB5dFA6nwAAAiQKAAAmCgAAbAoAAG4KAACICgAAigoA
+APYKAAD4CgAAAAsAAAILAAAcCwAAHgsAACwLAAAuCwAAOgsAADwLAAA+CwAAQAsAAEILAABGCwAA
+SAsAAOQLAADwCwAAEgwAABYMAAAYDAAAKAwAACoMAAD16fXp9dvTyLqonduU24vpgHHpyOlcyNv1
+6VEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQWaLg2YwBeSgMAYUoYAG8oAoIIgQApFWgQAbsAFmi1
+R+4ANQiBNgiBPioBXAiBXQiBXkoDAGFKGABvKAKCCIEdFWh2UcsAFmi1R+4ANQiBXAiBXkoDAGFK
+GACCCIEUFWh2UcsAFmh2UcsAXkoDAGFKGAAAERZodlHLAF5KAwBhShgAbygCERZoUDqfAF5KAwBh
+ShgAbygCFBVoUDqfABZotUfuAF5KBQBhShgAACIVaFVsFwAWaFVsFwBPSgIAUUoCAF5KAwBhShgA
+bygCggiBABoWaFVsFwBDShIAT0oCAFFKAgBeSgIAYUoSAAAUFmh2UcsAXkoDAGFKGABvKAKCCIEA
+DhZodlHLAF5KAwBhShgAABoVaHZRywAWaLVH7gBeSgMAYUoYAG8oAoIIgQAXFWh2UcsAFmi1R+4A
+XkoDAGFKGACCCIEUFWh2UcsAFmi1R+4AXkoDAGFKGAAbwgkAAIoKAAAeCwAALgsAADwLAAA+CwAA
+7AAAAAAAAAAAAAAAAOEAAAAAAAAAAAAAAADVAAAAAAAAAAAAAAAA1QAAAAAAAAAAAAAAAMcAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQAAAyQBFiQBSWYCAAAAYSQBZ2RQOp8A
+SyQBDAAAAyQBFiQBSWYCAAAAYSQBZ2RQOp8AAAoAABYkAUlmAgAAAGdkUDqfAEskAQASAAAPhLAA
+EYRQ/xYkAUlmAgAAAF6EsABghFD/Z2R2UcsASyQBAAU+CwAAQAsAAEILAAAnAAAAAAAAAAAAAAAA
+GQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANAAADJAEWJAFJZgIAAABhJAFnZLVH7gBLJAEA1wAA
+a2SlAQAAFiQBSWYCAAAASyQBTCQBApZsAAM0AQXWGBIBAAASAQAAEgEAABIBAAACAQAAAgEAAAeU
+dQII1lwABBcAkQSfFK4kHCngBnoEEgEAAAAAAAAAAAAAEgEAAIAGDhASAQAAEgEAAAQGAAASAQAA
+gAYPEAIBAAASAQAABAYAABIBAADgBm4EEgEAABIBAAAEBgAAAAAAAAnWCOAA4ADgAOAACnQAAKAE
+EtYoAAAA////zAAAAAAAAP///+EAAAAAAAD////hAAAAAAAA////4QAAABPWMAAAAP8SAQAAAAAA
+/xIBAAAAAAD/EgEAAAAAAP8SAQAAAAAA/wIBAAAAAAD/AgEAABT2AwUpF/YDAAAY9gMAABrWEAAA
+AP8AAAD/AAAA/wAAAP8b1hAAAAD/AAAA/wAAAP8AAAD/HNYQAAAA/wAAAP8AAAD/AAAA/x3WEAAA
+AP8AAAD/AAAA/wAAAP801gYAAQUDAAA01gYAAQoDbABh9gMAAHDWKAAAAP///8wAAAAAAAD////h
+AAAAAAAA////4QAAAAAAAP///+EAAAB5dFA6nwAAAkILAAAsDAAAmgwAAJwMAADsAAAAAAAAAAAA
+AAAA4QAAAAAAAAAAAAAAANYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAoAABYkAUlmAgAAAGdkvAYWAEskAQAKAAAWJAFJZgIAAABnZAorwABLJAEAEgAAD4SwABGE
+UP8WJAFJZgIAAABehLAAYIRQ/2dkuDZjAEskAQADKgwAACwMAABADAAAbAwAAIQMAACYDAAAmgwA
+AJwMAACeDAAAqAwAAKoMAADWDAAALA0AAEQNAAB2DQAAeA0AAIANAACODQAAVg4AAFgOAABqDgAA
+bA4AAH4OAACADgAAqg4AAKwOAACuDgAAuA4AALoOAADIDgAAyg4AANwOAADeDgAA4g4AAPLk2cvZ
+5L+0pZelv+S/jIG/c2jkX+Rf5Gi0pZell6WXvwAAAAAAAAAAAAAAAAAAAAAAAAAAABEWaFA6nwBe
+SgMAYUoYAG8oAhQVaHZRywAWaLVH7gBeSgMAYUoYAAAbFWgNPSAAFmi1R+4AQIj4/15KAwBhShgA
+ggiBFBZoGi0LAF5KAwBhShgAbygCggiBABQWaFA6nwBeSgMAYUoYAG8oAoIIgQAaFWh2UcsAFmi1
+R+4ANQiBXAiBXkoDAGFKGAAAHRVodlHLABZotUfuADUIgVwIgV5KAwBhShgAggiBFBVodlHLABZo
+dlHLAF5KAwBhShgAABcVaHZRywAWaLVH7gBeSgMAYUoYAIIIgRoVaHZRywAWaCcd+gBeSgMAYUoY
+AG8oAoIIgQAUFmgnHfoAXkoDAGFKGABvKAKCCIEAGhVodlHLABZotUfuAF5KAwBhShgAbygCggiB
+ABoVaBABuwAWaLVH7gBeSgMAYUoYAG8oAoIIgSGcDAAAngwAAKoMAAAnAAAAAAAAAAAAAAAAGwAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAADJAEWJAFJZgIAAABhJAFnZLVH7gAA1wAAa2Qj
+AwAAFiQBSWYCAAAASyQBTCQBApZsAAM0AQXWGBIBAAASAQAAEgEAABIBAAACAQAAAgEAAAeUfgII
+1lwABBcAkQSfFK4kHCmgBnoEAAAAAAAAAAASAQAAEgEAAIAGDhAEBgAAEgEAABIBAAASAQAAAAYP
+EAQGAAASAQAAEgEAABIBAAAgBm4EBAYAABIBAAASAQAAAAAAAAnWCOAA4ADgAOAACnQAAKAEEtYo
+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
+A2wAYfYDGf15dFA6nwAAA5oZAAByGgAAvhsAAMAbAAAWHAAA8gAAAAAAAAAAAAAAAPIAAAAAAAAA
+AAAAAACHAAAAAAAAAAAAAAAAfgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkAABYkAUlmAQAAAGdkiiaT
+AGsAAGtksAkAABYkARckAUlmAQAAAAKWbAAF1hgEAQAABAEAAAQBAAAEAQAABAEAAAQBAAAHlPkD
+CNYaAAGt/MMmAAYWKgAAAAAAAAAAAAAAAAAAAAAKdAAA4AET1jAAAAD/BAEAAAAAAP8EAQAAAAAA
+/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAU9gMWKhf2AwAAGPYDAAAa1gQAAAD/G9YEAAAA
+/xzWBAAAAP8d1gQAAAD/NNYGAAEFAwAANNYGAAEKA2wAYfYDGf15dFA6nwAADAAACiYBC0YCABYk
+AUlmAQAAAGdkzVIHAAAEFhwAABgcAAAKHQAATh4AAJYAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAA
+bAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAFQAADcYFAAFkAgYPhFgCEYSY/hYkAUlmAQAAAF6EWAJghJj+Z2StXGoAFQAADcYFAAFkAgYP
+hFgCEYSY/hYkAUlmAQAAAF6EWAJghJj+Z2QzTK4AaQAAa2QwCgAAFiQBFyQBSWYBAAAAApZsAAXW
+GAQBAAAEAQAABAEAAAQBAAAEAQAABAEAAAjWGgABrfzDJoAGFioAAAAAAAAAAAAAAAAAAAAACnQA
+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
+DBVoRnV+ABZo3xeSAAAvFWg0FrkAFmjfF5IANQiBQioBQ0ocAE9KBABQSgQAUUoEAFwIgV5KAwBw
+aAAAAAAAGOwjAADuIwAAviQAAE4lAAAcZQAAlAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAB0AAAA
+AAAAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8PAAMkBAomAQtGCAAWJAFJZgEA
+AABhJAlnZJZEFAAADw8AAyQECiYBC0YIABYkAUlmAQAAAGEkCWdkNBa5AAAPDwADJAQKJgELRggA
+FiQBSWYBAAAAYSQJZ2TDBAUAawAAa2Q4DAAAFiQBFyQBSWYBAAAAApZsAAXWGAQBAAAEAQAABAEA
+AAQBAAAEAQAABAEAAAeUIwEI1hoAAa38wyYABhYqAAAAAAAAAAAAAAAAAAAAAAp0AADgARPWMAAA
+AP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAABT2AxYqF/YDAAAY
+9gMAABrWBAAAAP8b1gQAAAD/HNYEAAAA/x3WBAAAAP801gYAAQUDAAA01gYAAQoDbABh9gMZ/Xl0
+UDqfAAAEFQ5JDi0OBw5EDhQOSQ4jDjEOGg4tDhkOOA4NDjIOFQ4IDjIOAQ5ADggOSQ4yDh4OGQ4x
+DgEOBw4yDhkOFQ4yDiEOAQ4ODisOIQ4yDiIOJw5IDjIOFA5JDicOIg4BDjIOIw4eDhkOMQ4ZDiAA
+QQ4lDjAOCA4wDhUOSQ4tDgcOIw4wDhoOOA4rDiUOMQ4BDkAOAQ4TDhEOTA4gAEAOBw43DkgOLQ4Z
+DkQOAg4gACMOMg4iDiUOMA5ADi0ONQ4iDhQOIAArDiMONw4tDgIOSQ4tDgEOMw4rDhkOFA5DDhkO
+AQ4yDiMOQA4qDjUOSA4iDgcOQg4KDgQOQw4rDkkOCg4xDhQOQA4IDhkOIABCDhsOIw5IDgcOQw4q
+DiAABwAHADYALgAgACcONA4YDjUOGw4PDjQOGg4xDhUONA5ADgEONQ5IDiIOJw4BDjEOGg4qDjEO
+DQ4NDjIOBwAHADYALgAxACAAKg4xDg0ODQ4yDhUOSQ4tDgcOIQ41DgIOSQ4tDgQOJw4yDiEOQA4b
+DkcOGQ4gDjIOKQ4yDkQOFw4iDhcONQ5IDioOMg4hDjIOIw4WDkAOKw5HDhkOQQ4lDjAOLQ5IDjIO
+GQ5EDhQOSQ4KDjEOFA5ADggOGQ4gACEONQ4CDhkOMg4UDgIOLQ4HDhUOMQ4nDi0OMQ4BDikOIw5E
+DiEOSA5ADiUORw4BDgEOJw5IDjIOIAAyACAAIQ40DiUOJQ40DkAOIQ4VDiMOIABCDhQOIg4hDjUO
+CA4zDhkOJw4ZDkQOIQ5IDkAOAQ40DhkOIAAxADEAIAAVDjEOJw4tDjEOAQ4pDiMOQw4ZDisOGQ42
+DkgOBw4ZDjQOSQ4nDg0ANgAuADIAIAACDkkOLQ4qDjEODQ4NDjIOFw41DkgOQw4rDkkOGA4ZDjIO
+BA4yDiMOIQ41DioONA4XDhgONA4aDi0OAQ5ADiUONA4BDioOMQ4NDg0OMg4rDjIOAQ4lDjkOAQ4r
+DhkONQ5JDhwONA4UDhkOMQ4UDiAACA4wDhUOSQ4tDgcOIw4wDhoOOA5EDicOSQ5ADhsORw4ZDgEO
+Mg4jDkAOCQ4eDjIOMA4UDkkOJw4iDhUOMQ4nDi0OMQ4BDikOIw4qDjUOQQ4UDgcOIAAgACsOIw43
+Di0OFQ4xDicOFA4zDiAAKw4jDjcOLQ4VDjEOJw5ADi0OGQ4gACAAIAAXDjUOSA5ADisORw4ZDkAO
+FA5IDhkOCg4xDhQOAQ4nDkgOMg4CDkkOLQ4EDicOMg4hDhcOMQ5IDicORA4bDiAAQQ4lDjAOAQ5I
+Di0OGQ4BDjIOIw4aDi0OAQ5ADiUONA4BDioOMQ4NDg0OMg4VDkkOLQ4HDkEOCA5JDgcOQA4bDkcO
+GQ4rDhkOMQ4HDioONw4tDkQOGw4iDjEOBw4cDjkOSQ4BDjkOSQ4gAEEOJQ4wDgQOJw4jDgEOMw4r
+DhkOFA4jDjAOIg4wDkAOJw4lDjIOLQ4xDhkOKg4hDgQOJw4jDkMOKw5JDhwOOQ5JDgEOOQ5JDkEO
+AQ5JDkQOAg4BDjIOIw4cDjQOFA4qDjEODQ4NDjIOKw4jDjcOLQ4cDjQOFA5ADgcONw5IDi0OGQ5E
+DgIOFA4xDgcOAQ4lDkgOMg4nDg0ANgAuADMAIAAYDhkOMg4EDjIOIw4VDkkOLQ4HDioOSA4HDiEO
+LQ4aDioOMw5ADhkOMg4rDiMONw4tDgQOOQ5IDgkOGg4xDhoOKg4xDg0ODQ4yDkMOKw5JDkEOAQ5I
+DiUOOQ4BDgQOSQ4yDkQOJw5JDkAOGw5HDhkOKw4lDjEOAQ4QDjIOGQ4rDhkONg5IDgcOCQ4aDjEO
+Gg4XDjEOGQ4XDjUOFw41DkgOJQ45DgEOBA5JDjIOJQ4HDhkOMg4hDgcABwA3AC4AIAABDjIOIw5A
+DhsONA4UDkAOHA4iDgIOSQ4tDiEOOQ4lDhwOJQ40DhUOIA4xDhMOEQ5MDhoOMQ4VDiMOQA4EDiMO
+FA40DhUOBwAHAEMOKw5JDkAOGw40DhQOQA4cDiIOAg5JDi0OIQ45DiUOHA4lDjQOFQ4gDjEOEw4R
+DkwOQw4rDkkOJQ45DgEOBA5JDjIOFw4jDjIOGg4tDiIOSA4yDgcOQA4eDjUOIg4HDh4OLQ4VDkgO
+LQ4BDjIOIw4VDjEOFA4qDjQOGQ5DDggOIAAXDjEOSQ4HDkMOGQ4KDkgOJw4HDkAOJw4lDjIOAQ5I
+Di0OGQ4LDjcOSQ4tDhwOJQ40DhUOIA4xDhMOEQ5MDisOIw43Di0OQA4CDkkOMg4XDjMOKg4xDg0O
+DQ4yDgIOEw4wDgsONw5JDi0OHA4lDjQOFQ4gDjEOEw4RDkwOKw4jDjcOLQ4gAEAOAg5JDjIOFw4z
+DioOMQ4NDg0OMg4gAEEOJQ4wDiMOMA4rDicOSA4yDgcOFw41DkgOKg4xDg0ODQ4yDiEONQ4cDiUO
+Gg4xDgcOBA4xDhoOQw4KDkkOIAAgACMOJw4hDhcOMQ5JDgcOQw4rDkkOFQ4yDiMOMg4HDgEOMg4j
+DkAOGw40DhQOQA4cDiIOAg5JDi0OIQ45DiUOHA4lDjQOFQ4gDjEOEw4RDkwOQQ4BDkgOJQ45DgEO
+BA5JDjIOFw4xDkkOBw5DDhkOCg5IDicOBw4BDkgOLQ4ZDgsONw5JDi0OHA4lDjQOFQ4gDjEOEw4R
+DkwOKw4jDjcOLQ5ADgIOMQ4yDhcOMw4qDjEODQ4NDjIOIABBDiUOMA5DDhkOAg4TDjAOCw43DkkO
+LQ4cDiUONA4VDiAOMQ4TDhEOTA4rDiMONw4tDkAOAg5JDjIOFw4zDioOMQ4NDg0OMg4rDjIOAQ4C
+DkkOLQ4hDjkOJQ4hDjUOAQ4yDiMOQA4bDiUONQ5IDiIOGQ5BDhsOJQ4HDi0OIg5IDjIOBw4hDjUO
+GQ4xDiIOKg4zDgQOMQ4NDiAAIw4nDiEOFw4xDkkOBw5DDhkOAQ4jDhMONQ4VDkgOLQ4tDjIOIg44
+DioOMQ4NDg0OMg4UDkkOJw4iDg0AAQ4yDiMOCA4xDhQOFw4zDioONw5IDi0OFw4yDgcOAQ4yDiMO
+FQ4lDjIOFA5BDiUOMA5CDgYOKQ4TDjIOIABDDisOSQ5ADhsONA4UDkAOHA4iDgIOSQ4tDiEOOQ4l
+DhcONQ5IDhYOOQ4BDhUOSQ4tDgcOIAAKDjEOFA5ADggOGQ4gAEAOAQ41DkgOIg4nDgIOSQ4tDgcO
+AQ4xDhoOAQ4yDiMOFQ4xDhQOKg40DhkOQw4IDiAARA4hDkgOFw4zDkMOKw5JDkAOAg5JDjIOQw4I
+DhwONA4UDiAAQQ4lDjAOKg4tDhQOBA4lDkkOLQ4HDgEOMQ4aDgIOSQ4tDgEOMw4rDhkOFA4BDg4O
+Kw4hDjIOIg4gAEEOJQ4wDgEODg4jDjAOQA4aDjUOIg4aDhcONQ5IDkAOAQ41DkgOIg4nDgIOSQ4t
+DgcODQAhDjUOAQ4yDiMOQw4rDkkOGg4jDjQOAQ4yDiMOKw4lDjEOBw4BDjIOIw4CDjIOIg4gAEAO
+Hg43DkgOLQ4UDjkOQQ4lDkEOJQ4wDi0OMw4ZDicOIg4EDicOMg4hDioOMA4UDicOAQ5DDisOSQ5B
+DgEOSA4lDjkOAQ4EDkkOMg4tDiIOSA4yDgcOQA4rDiEOMg4wDioOIQ4NAEMOKw5JDkAOAQ5HDhoO
+Iw4xDgEOKQ4yDgIOSQ4tDiEOOQ4lDgIOLQ4HDiUOOQ4BDgQOSQ4yDkQOJw5JDkAOGw5HDhkOBA4n
+DjIOIQ4lDjEOGg5CDhQOIg5EDiEOSA5ADhsONA4UDkAOHA4iDgIOSQ4tDiEOOQ4lDkEOAQ5IDhoO
+OA4EDgQOJQ4XDjUOSA4qDjIOIQ4gACIOAQ5ADicOSQ4ZDkQOFA5JDiMOMQ4aDi0OGQ44Dg0OMg4V
+DkAOGw5HDhkOJQ4yDiIOJQ4xDgEOKQ4TDkwOLQ4xDgEOKQ4jDiAAIAAgACAAIAAgACAAIAAgACAA
+IAAIDjIOAQ4lDjkOAQ4EDkkOMg4gACsOIw43Di0OQA4bDjQOFA5ADhwOIg4CDkkOLQ4hDjkOJQ4V
+DjIOIQ4XDjUOSA4BDg4OKw4hDjIOIg4BDjMOKw4ZDhQODQABDiMOEw41DiEONQ4BDjIOIw5DDgoO
+SQ4aDiMONA4BDjIOIw4IDjIOAQ4aDjgOBA4EDiUOIA4yDiIOGQ4tDgEOIAAYDhkOMg4EDjIOIw4i
+DjEOBw4jDjEOGg4cDjQOFA4KDi0OGg4VDkgOLQ4lDjkOAQ4EDkkOMg5ADioOIQ43Di0OGQ5ADhsO
+Rw4ZDhwOOQ5JDhQOMw5ADhkONA4ZDgEOMg4jDkAOLQ4HDiAAQg4UDiIOFA45DkEOJQ5ADiMONw5I
+Di0OBw4EDicOMg4hDhUOSA4tDkAOGQ43DkgOLQ4HDhcOMg4HDhgOOA4jDgEONA4IDkEOJQ4wDgEO
+Mg4jDkMOKw5JDhoOIw40DgEOMg4jDkEOAQ5IDiUOOQ4BDgQOSQ4yDiAAAQ4yDiMOBA44DkkOIQ4E
+DiMOLQ4HDiUOOQ4BDgQOSQ4yDiAAQQ4lDjAOAQ4yDiMOGg4jDjQOKw4yDiMOBA4nDjIOIQ5ADioO
+NQ5IDiIOBw4gAA0AIQ41DgEOMg4jDggOMQ4UDgEOMg4jDkAOIw43DkgOLQ4HDiMOSQ4tDgcOQA4j
+DjUOIg4ZDi0OIg5IDjIOBw4hDjUOGw4jDjAOKg40DhcOGA40DhwOJQ4gAEEOJQ4wDiEONQ5BDhkO
+Jw4XDjIOBw5DDhkOAQ4yDiMOCg4UDkAOCg4iDgQOJw4yDiEOQA4qDjUOIg4rDjIOIg5DDisOSQ4B
+DjEOGg4lDjkOAQ4EDkkOMg4VDjIOIQ4EDicOMg4hDkAOKw4hDjIOMA4qDiEOBwAHADgALgAgAEAO
+Iw43DkgOLQ4HDi0ONw5IDhkORg4gABcONQ5IDkAOAQ41DkgOIg4nDgIOSQ4tDgcOBwAHAAEOIw4T
+DjUOFw41DkgORA4UDkkOIw4xDhoOLQ4ZDjgODQ4yDhUOCA4yDgEOKw4ZDkgOJw4iDgcOMg4ZDhcO
+Mg4HDgEOMg4jDiAAFQ5JDi0OBw4UDjMOQA4ZDjQOGQ4BDjIOIw4VDjIOIQ5ADgcONw5IDi0OGQ5E
+DgIOFw41DkgORA4UDkkOIw4xDhoOLQ4ZDjgODQ4yDhUOAQ5IDi0OGQ4BDjIOIw5DDisOSQ4aDiMO
+NA4BDjIOIw4gAEAOCg5IDhkOIAABDiMOEw41DgEOMg4jDkMOCg5JDiAAKw4jDjcOLQ5DDisOSQ4a
+DiMONA4BDjIOIw4BDjEOGg4aDjgOBA4EDiUOIA4yDiIOGQ4tDgEOIAAVDkkOLQ4HDgQOJw4aDgQO
+OA4hDkMOKw5JDiEONQ4BDjIOIw4XDjMOKg4xDg0ODQ4yDkMOKw5JDkEOJQ5JDicOQA4qDiMORw4I
+DgEOSA4tDhkOFA4zDkAOGQ40DhkOAQ4yDiMOBwAHAAIOSQ4tDgEOMw4rDhkOFA4XDjIOBw4BDjIO
+Iw4rDiUOMQ4BDhcONQ5IDkAOAQ41DkgOIg4nDgIOSQ4tDgcOBwAHABgOGw4XDi4ADQBBDhkOJw4Z
+DkIOIg4aDjIOIg4gAEAOIw43DkgOLQ4HDiAAAQ4yDiMOGQ4zDkAOKg4ZDi0OAg5JDi0OIQ45DiUO
+QA4BDjUOSA4iDicOAQ4xDhoOHA4lDjQOFQ4gDjEOEw4RDkwOFw4yDgcOAQ4yDiMOQA4HDjQOGQ4C
+Di0OBw4YDhkOMg4EDjIOIw4eDjIOEw40DgoOIg5MDiAAKABiAGEAbgBrAGkAbgBnACAAcAByAG8A
+ZAB1AGMAdAApACAAJQ4HDicOMQ4ZDhcONQ5IDiAAMQAgABUOOA4lDjIOBA4hDiAAMgA1ADUANgAN
+ABsOIw4wDgEOMg4oDiAAGA4bDhcOLgAgABcONQ5IDiAAKg4ZDioOLgAgADYALwAyADUANQA4ACAA
+QA4jDjcOSA4tDgcOIAABDjIOIw5DDisOSQ4qDjQOGQ5ADgoONw5IDi0OIAAXDjMOGA44DiMOAQ4j
+DiMOIQ4XDjUOSA4hDjUOJQ4xDgEOKQ4TDjAOBA4lDkkOMg4iDgEOMg4jDkMOKw5JDioONA4ZDkAO
+Cg43DkgOLQ4gACsOIw43Di0OGw4jDjAOAQ4xDhkOKw4ZDjUOSQ5BDgEOSA4BDiMOIw4hDgEOMg4j
+DhwOOQ5JDiEONQ4tDjMOGQ4yDggOQw4ZDgEOMg4jDggOMQ4UDgEOMg4jDgIOLQ4HDioOFg4yDhoO
+MQ4ZDgEOMg4jDkAOBw40DhkOIAArDiMONw4tDhwOOQ5JDhcONQ5IDkAOAQ41DkgOIg4nDgIOSQ4t
+DgcOAQ4xDhoOGg44DgQOBA4lDhQOMQ4HDgEOJQ5IDjIOJw4gACUOBw4nDjEOGQ4XDjUOSA4gADIA
+NAAgACEONQ4uAAQOLgAgADIANQA1ADgADQAbDiMOMA4BDjIOKA4gABgOGw4XDi4AIAAXDjUOSA4g
+ACoOGQ4qDi4AMQA2AC8AMgA1ADUAMgAgAEAOIw43DkgOLQ4HDiAAAQ4yDiMOAQ4zDisOGQ4UDisO
+JQ4xDgEOQA4BDhMOEQ5MDiAAJw40DhgONQ4BDjIOIw4gAEEOJQ4wDkAOBw43DkgOLQ4ZDkQOAg5D
+DhkOAQ4yDiMOGw4jDjAOAQ4tDhoOGA44DiMOAQ40DggOGg4xDhUOIw5ADgQOIw4UDjQOFQ4CDi0O
+Bw4YDhkOMg4EDjIOIw4eDjIOEw40DgoOIg5MDiAAJQ4HDicOMQ4ZDhcONQ5IDiAAOQAgAAEOIw4B
+Dg4OMg4EDiEOIAAyADUANQAyACAADQAbDiMOMA4BDjIOKA4gABgOGw4XDi4AIAAXDjUOSA4gACoO
+GQ4qDi4AIAAxADcALwAyADUANQAyACAAQA4jDjcOSA4tDgcOIAArDiUOMQ4BDkAOAQ4TDhEOTA4B
+DjIOIw4bDg8ONA4aDjEOFQ40DkMOGQ5ADiMONw5IDi0OBw4UDi0OAQ5ADhoONQ5JDiIOIAAEDkgO
+Mg4aDiMONA4BDjIOIw4VDkgOMg4HDkYOIABBDiUOMA5ADhoONQ5JDiIOGw4jDjEOGg4XDjUOSA4Y
+DhkOMg4EDjIOIw4eDjIOEw40DgoOIg5MDi0OMg4IDkAOIw41DiIOAQ5EDhQOSQ5DDhkOAQ4yDiMO
+Gw4jDjAOAQ4tDhoOGA44DiMOAQ40DggOGg4xDhUOIw5ADgQOIw4UDjQOFQ4gACUOBw4nDjEOGQ4X
+DjUOSA4gADkAIAABDiMOAQ4ODjIOBA4hDiAAMgA1ADUAMgANAAEODg4rDiEOMg4iDi0ONw5IDhkO
+DQAgACAAHg4uACMOLgAaDi4AIAAbDkkOLQ4HDgEOMQ4ZDkEOJQ4wDhsOIw4yDhoOGw4jDjIOIQ4B
+DjIOIw4fDi0OAQ5ADgcONA4ZDiAAHg4uACgOLgAgADIANQA0ADIAIAAoAEEOJQ4wDhcONQ5IDkEO
+AQ5JDkQOAg5ADh4ONA5IDiEOQA4VDjQOIQ4pAA0AIAAgAB4OLgAjDi4AGg4uACAAGw5JDi0OBw4B
+DjEOGQ5BDiUOMA4bDiMOMg4aDhsOIw4yDiEOAQ4yDiMOKg4ZDjEOGg4qDhkOOA4ZDhcOMg4HDgEO
+Mg4jDkAOBw40DhkOQQ4BDkgOAQ4yDiMOAQ5IDi0OAQ4yDiMOIw5JDjIOIg5BDiUOMA4BDjIOIw5B
+Dh4OIw5IDgIOIg4yDiIOLQ4yDicOOA4YDhcONQ5IDiEONQ4tDjIOGQ44DiAOMg4eDhcOMw4lDjIO
+Ig4lDkkOMg4HDioOOQ4HDiAADQAeDi4AKA4uACAAMgA1ADUAOQANAB4OLgAjDi4AGg4uACAABA44
+DkkOIQ4EDiMOLQ4HDhwOOQ5JDhoOIw40DkIOIA4EDiAAHg4uACgOLgAgADIANQAyADIADQAeDi4A
+Iw4uABoOLgAgAAEOMg4jDh4OGQ4xDhkOIAAeDi4AKA4uACAAMgA0ADcAOAANABsOIw4wDgEOMg4o
+DgQOEw4wDgEOIw4jDiEOAQ4yDiMOJw5IDjIOFA5JDicOIg4qDjEODQ4NDjIOIABADiMONw5IDi0O
+Bw4gAEMOKw5JDhgOOA4jDgEONA4IDhoOMQ4VDiMOQA4EDiMOFA40DhUOQA4bDkcOGQ4YDjgOIw4B
+DjQOCA4XDjUOSA4EDicOGg4EDjgOIQ4qDjEODQ4NDjIOIAAeDi4AKA4uACAAMgA1ADQAMgAgACAA
+JQ4HDicOMQ4ZDhcONQ5IDiAAMgA2ACAAFQ4uAAQOLgAgADIANQA0ADIAIAAJDhoOMQ4aDhcONQ5I
+DiAAMgAgACUOBw4nDjEOGQ4XDjUOSA4gADMAMAAgABgOLgAEDi4AIAAyADUANAAyACAACQ4aDjEO
+Gg4XDjUOSA4gADMAIAAlDgcOJw4xDhkOFw41DkgOIAAxADUAIAAhDjQOLgAiDi4AIAAyADUANAA0
+ACAAQQ4lDjAOIAAJDhoOMQ4aDhcONQ5IDiAANAAgACUOBw4nDjEOGQ4XDjUOSA4gADgAIAAhDjUO
+LgAEDi4AIAAyADUANQA2AA0AGw4jDjAOAQ4yDigOKg4hDjIOBA4hDhoOIw40DikOMQ4XDggOMQ4U
+DgEOMg4jDiUOBw4XDjgOGQ4gABcONQ5IDiAAKg4IDgEOLgAjDi4AMQAvADIANQA1ADYAIABADiMO
+Nw5IDi0OBw4gAEEOGQ4nDhsODw40DhoOMQ4VDjQOQw4ZDgEOMg4jDggOMQ4UDiMOMg4iDgEOMg4j
+DioOSA4HDkAOKg4jDjQOIQ4BDjIOIw4CDjIOIg4rDhkOSA4nDiIOJQ4HDhcOOA4ZDgIOLQ4HDgEO
+LQ4HDhcOOA4ZDiMOJw4hDg0AKw4hDjIOIg5ADisOFQ44DiAAOgAgAC0ONw5IDhkORg4gAEMOKw5J
+DkAOGw5HDhkORA4bDhUOMg4hDhkOQg4iDhoOMg4iDkAOBA4jDhQONA4VDkEOJQ4wDiMOMA5ADhoO
+NQ4iDhoOAg4tDgcOGA4ZDjIOBA4yDiMOBwAHAA0AIAAgAB0OSA4yDiIOAQ4zDgEOMQ4aDgEOMg4j
+DhsODw40DhoOMQ4VDjQOBw4yDhkOIAAgADMAMAAgACAAIQ41DhkOMg4EDiEOIAAyADUANgAwACAA
+IAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAg
+ACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAA
+IAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAg
+ACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAA
+IAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAg
+ACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAANAAMADQANAAQA
+DQANAAMADQANAAQADQANAAkACQAqDiMOOA4bDisOJQ4xDgEOQA4BDhMOEQ5MDioOMw4EDjEODQ5A
+DgEONQ5IDiIOJw4BDjEOGg4BDjIOIw4bDiMOMA4BDi0OGg4YDjgOIw4BDjQOCA4aDjEOFQ4jDkAO
+BA4jDhQONA4VDg0ADQANAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGUAAAplAAAY
+ZQAAGmUAABxlAAAeZQAAIGUAACRlAABWZQAAWGUAAFplAAAqZgAAemYAAHxmAAB2ZwAA6tLqwLml
+jnViuVJALlIAAAAAAAAAAAAAAAAAAAAAAAAiFWjAZHkAFmjfF5IAQIj6/09KAwBRSgMAXkoDAG8o
+AoIIgQAiFWjAZHkAFmjAZHkAQIj6/09KAwBRSgMAXkoDAG8oAoIIgQAfFWjAZHkAFmjfF5IAQIj6
+/09KAwBRSgMAXkoDAIIIgSQVaFx6GAAWaN8XkgA1CIFPSgMAUUoDAFwIgV5KAwBvKAKCCIEAMBVo
+XHoYABZo3xeSADUIgT4qAUNKHABPSgMAUUoDAFwIgV5KAwBtSB4Ec0geBIIIgQAtFWhcehgAFmjf
+F5IANQiBQ0ocAE9KAwBRSgMAXAiBXkoDAG1IHgRzSB4EggiBJxZo3xeSADUIgUNKHABPSgMAUUoD
+AFwIgV5KAwBtSB4Ec0geBIIIgQwVaEZ1fgAWaN8XkgAAIhVoNBa5ABZoNBa5ADUIgUCI+v9PSgMA
+UUoDAFwIgV5KAwAALxVoNBa5ABZoNBa5AEIqAUNKHABPSgMAUEoEAFFKBgBeSgMAbygCcGgAAAAA
+ggiBKRVoNBa5ABZoNBa5AEIqAUNKHABPSgMAUEoEAFFKBgBeSgMAcGgAAAAAAA4cZQAAHmUAAFhl
+AACUAAAAAAAAAAAAAAAAfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAABgPAA6Ex/8PhPgAEYQI/xJkyv4AABYkAUlmAQAAAF2Ex/9ehPgAYIQI/2dkiiaT
+AGsAAGtkuAwAABYkARckAUlmAQAAAAKWbAAF1hgEAQAABAEAAAQBAAAEAQAABAEAAAQBAAAHlKkB
+CNYaAAGt/MMmAAYWKgAAAAAAAAAAAAAAAAAAAAAKdAAA4AET1jAAAAD/BAEAAAAAAP8EAQAAAAAA
+/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAU9gMWKhf2AwAAGPYDAAAa1gQAAAD/G9YEAAAA
+/xzWBAAAAP8d1gQAAAD/NNYGAAEFAwAANNYGAAEKA2wAYfYDGf15dOBpeAAAAlhlAABaZQAAfGYA
+ALxoAAB8aQAAlAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAAAgAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQPAAMkBA+EYAIRhMT+FiQBSWYBAAAA
+XoRgAmCExP5hJAlnZFkUTwAUDwADJAQPhGACEYTE/hYkAUlmAQAAAF6EYAJghMT+YSQJZ2TAZHkA
+awAAa2Q4DQAAFiQBFyQBSWYBAAAAApZsAAXWGAQBAAAEAQAABAEAAAQBAAAEAQAABAEAAAeUgwAI
+1hoAAa38wyaABhYqAAAAAAAAAAAAAAAAAAAAAAp0AADgARPWMAAAAP8EAQAAAAAA/wQBAAAAAAD/
+BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAABT2AxYqF/YDAAAY9gMAABrWBAAAAP8b1gQAAAD/
+HNYEAAAA/x3WBAAAAP801gYAAQUDAAA01gYAAQoDbABh9gMZ/Xl0UDqfAAAEdmcAAHpnAAB6aQAA
+fGkAAH5pAACEaQAAymkAAMxpAADOaQAATmoAAFBqAADUagAA1moAAOxqAADuagAALGsAADBrAADm
+awAA6GsAAIBsAACCbAAAvGwAAL5sAADx4dDJs5qIgWlUaVRpVGlUaVRpVGk9AAAAAAAAAAAsFWhH
+Q6kAFmhsEywAQioCQ0ocAE9KAwBQSgQAUUoDAF5KAwBvKAJwaAAA/wAAKRVoR0OpABZobBMsAEIq
+AUNKHABPSgMAUEoEAFFKAwBeSgMAcGgAAAAALxVoR0OpABZobBMsAEIqAUNKHABPSgMAUEoEAFFK
+AwBeSgMAbygCcGgAAAAAggiBDBVoRnV+ABZoGi0LAAAiFWjAZHkAFmgaLQsAQIj6/09KAwBRSgMA
+XkoDAG8oAoIIgQAwFWiKJpMAFmgaLQsANQiBPioBQ0ocAE9KAwBRSgMAXAiBXkoDAG1IHgRzSB4E
+ggiBACoWaBotCwA1CIFDShwAT0oDAFFKAwBcCIFeSgMAbUgeBG8oAnNIHgSCCIEADBVoRnV+ABZo
+3xeSAAAgFWhPG4UAFmjfF5IANQiBQ0ocAFwIgV5KAwBvKAKCCIEAHxVowGR5ABZo3xeSAECI+v9P
+SgMAUUoDAF5KAwCCCIEcFmhZFE8AQIj6/09KAwBRSgMAXkoDAG8oAoIIgRZ8aQAAfmkAAMxpAACU
+AAAAAAAAAAAAAAAAfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAABgPAA6Ex/8PhPgAEYQI/xJkyv4AABYkAUlmAQAAAF2Ex/9ehPgAYIQI/2dkdQ18AGsA
+AGtkvg0AABYkARckAUlmAQAAAAKWbAAF1hgEAQAABAEAAAQBAAAEAQAABAEAAAQBAAAHlJEHCNYa
+AAGt/MMmAAYWKgAAAAAAAAAAAAAAAAAAAAAKdAAA4AET1jAAAAD/BAEAAAAAAP8EAQAAAAAA/wQB
+AAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAU9gMWKhf2AwAAGPYDAAAa1gQAAAD/G9YEAAAA/xzW
+BAAAAP8d1gQAAAD/NNYGAAEFAwAANNYGAAEKA2wAYfYDGf15dFA6nwAAAsxpAADOaQAAvmwAAARu
+AACcbgAA6m8AAGJxAAAwcgAAlAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAAA
+dAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAAAdAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADw8AAyQECiYB
+C0YMABYkAUlmAQAAAGEkCWdkbBMsAAAPDwADJAQKJgELRgsAFiQBSWYBAAAAYSQJZ2RHQ6kAawAA
+a2Q+DgAAFiQBFyQBSWYBAAAAApZsAAXWGAQBAAAEAQAABAEAAAQBAAAEAQAABAEAAAeUPAAI1hoA
+Aa38wyaABhYqAAAAAAAAAAAAAAAAAAAAAAp0AADgARPWMAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEA
+AAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAABT2AxYqF/YDAAAY9gMAABrWBAAAAP8b1gQAAAD/HNYE
+AAAA/x3WBAAAAP801gYAAQUDAAA01gYAAQoDbABh9gMZ/Xl0UDqfAAAHvmwAAPpsAAD8bAAAMG0A
+ADJtAAA+bQAAQG0AAHBtAABybQAAlG0AAJZtAADObQAA0G0AAAJuAAAEbgAANG4AADZuAACabgAA
+nG4AADBvAAAybwAAom8AAKRvAADobwAA6m8AACpwAAAscAAAlHAAAJZwAAAMcQAADnEAADBxAAAy
+cQAAXnEAAGBxAABicQAAuHEAALpxAAAucgAAMHIAADJyAADn0ufS59Ln0ufS59LnvqmXqb6pl6mX
+qb6pl6mXqZepl6mXh6mXqXdwAAAAAAAAAAAAAAAAAAAAAAAAAAAMFWhGdX4AFmgaLQsAAB8VaMBk
+eQAWaBotCwBAiPr/T0oDAFFKAwBeSgMAggiBHxVobBMsABZobBMsAECI+v9PSgMAUUoDAF5KAwBv
+KAIjFmhsEywAQioBQ0ocAE9KAwBQSgQAUUoGAF5KAwBwaAAAAAApFmhsEywAQioBQ0ocAE9KAwBQ
+SgQAUUoGAF5KAwBvKAJwaAAAAACCCIEmFmhsEywAQioBQ0ocAE9KAwBQSgQAUUoGAF5KAwBvKAJw
+aAAAAAAAKRVobBMsABZobBMsAEIqAUNKHABPSgMAUEoEAFFKBgBeSgMAcGgAAAAALxVobBMsABZo
+bBMsAEIqAUNKHABPSgMAUEoEAFFKBgBeSgMAbygCcGgAAAAAggiBACgwcgAAMnIAAGxyAACUAAAA
+AAAAAAAAAAAAhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAADJAQNxgUAAfQAABYkAUlmAQAAAGEkCWdktlKJAGsAAGtk
+xA4AABYkARckAUlmAQAAAAKWbAAF1hgEAQAABAEAAAQBAAAEAQAABAEAAAQBAAAHlOsACNYaAAGt
+/MMmAAYWKgAAAAAAAAAAAAAAAAAAAAAKdAAA4AET1jAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAA
+AAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAU9gMWKhf2AwAAGPYDAAAa1gQAAAD/G9YEAAAA/xzWBAAA
+AP8d1gQAAAD/NNYGAAEFAwAANNYGAAEKA2wAYfYDGf15dFA6nwAAAjJyAAA0cgAAOHIAAERyAABq
+cgAAbHIAAG5yAAC2cgAARnMAAEhzAACIcwAAmnMAAORzAADmcwAA6HMAAAR0AAAMdAAAJnQAACh0
+AADw3cy4p6CThnmTeZNuoFtKWzcAAAAAAAAAAAAAAAAAAAAAJBVoM3TKABZo3xeSADUIgT4qAUNK
+IABcCIFeSgMAYUooAIIIgQAhFmi9RvwANQiBPioBT0oDAFFKAwBcCIFeSgMAbygCggiBJBVoM3TK
+ABZo3xeSADUIgT4qAU9KAwBRSgMAXAiBXkoDAIIIgQAVFmgcM04AT0oDAFFKAwBeSgMAggiBGBZo
+aQ+jAE9KAwBRSgMAXkoDAG8oAoIIgQAYFmhrcHoAT0oDAFFKAwBeSgMAbygCggiBABgWaBwzTgBP
+SgMAUUoDAF5KAwBvKAKCCIEADBVoRnV+ABZoHDNOAAAhFWgcM04AFmgcM04ANQiBT0oDAFFKAwBc
+CIFeSgMAggiBJxVoHDNOABZoHDNOADUIgT4qAU9KAwBRSgMAXAiBXkoDAG8oAoIIgSEWaGtwegA1
+CIE+KgFPSgMAUUoDAFwIgV5KAwBvKAKCCIEkFWgcM04AFmgcM04ANQiBT0oDAFFKAwBcCIFeSgMA
+bygCggiBAB4WaBotCwA1CIFPSgMAUUoDAFwIgV5KAwBvKAKCCIESbHIAAG5yAADmcwAAlAAAAAAA
+AAAAAAAAAHYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAAADJAQKJgAL
+RgkADcYKAcwDApcAQAIABg+EQAIRhOT+FiQBSWYBAAAAXoRAAmCE5P5hJAlnZGtwegBrAABrZEQP
+AAAWJAEXJAFJZgEAAAAClmwABdYYBAEAAAQBAAAEAQAABAEAAAQBAAAEAQAAB5RWAAjWGgABrfzD
+JgAGFioAAAAAAAAAAAAAAAAAAAAACnQAAOABE9YwAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA
+/wQBAAAAAAD/BAEAAAAAAP8EAQAAFPYDFioX9gMAABj2AwAAGtYEAAAA/xvWBAAAAP8c1gQAAAD/
+HdYEAAAA/zTWBgABBQMAADTWBgABCgNsAGH2Axn9eXRQOp8AAALmcwAA6HMAACh0AAAqdAAAlAAA
+AAAAAAAAAAAAAIgAAAAAAAAAAAAAAAAdAAAAAAAAAAAAAAAAAAAAawAAa2REEAAAFiQBFyQBSWYB
+AAAAApZsAAXWGAQBAAAEAQAABAEAAAQBAAAEAQAABAEAAAeUugAI1hoAAa38wyYABhYqAAAAAAAA
+AAAAAAAAAAAAAAp0AADgARPWMAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQB
+AAAAAAD/BAEAABT2AxYqF/YDAAAY9gMAABrWBAAAAP8b1gQAAAD/HNYEAAAA/x3WBAAAAP801gYA
+AQUDAAA01gYAAQoDbABh9gMZ/Xl0UDqfAAwAAAMkBBYkAUlmAQAAAGEkCWdkTxuFAGsAAGtkxA8A
+ABYkARckAUlmAQAAAAKWbAAF1hgEAQAABAEAAAQBAAAEAQAABAEAAAQBAAAHlDABCNYaAAGt/MMm
+AAYWKgAAAAAAAAAAAAAAAAAAAAAKdAAA4AET1jAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/
+BAEAAAAAAP8EAQAAAAAA/wQBAAAU9gMWKhf2AwAAGPYDAAAa1gQAAAD/G9YEAAAA/xzWBAAAAP8d
+1gQAAAD/NNYGAAEFAwAANNYGAAEKA2wAYfYDGf15dFA6nwAAAyh0AAAqdAAAMnQAADR0AAC+dAAA
+znQAANB0AADudAAA8HQAAPJ0AAAEdQAABnUAAAh1AAAUdQAAHHUAAB51AAAgdQAAmnYAAKx2AAC2
+dgAAvHYAAPnm1sSvl4KXxHLEcsRyxGJURlQ2AAAAAB4VaB4knAAWaB4knABPSgMAUUoDAF5KAwBv
+KAKCCIEAGxVozylCABZoET+tAE9KAwBRSgMAXkoDAIIIgRsVaB4knAAWaB4knABPSgMAUUoDAF5K
+AwCCCIEfFWh1DXwAFmgRP60AQIj4/09KAwBRSgMAXkoDAG8oAh8VaHUNfAAWaBE/rQBAiPj/T0oD
+AFFKAwBeSgMAggiBKRVoMU4cABZoET+tAECI+v9CKgFDShwAT0oDAFFKAwBeSgMAcGgAAAAALxVo
+MU4cABZoET+tAECI+v9CKgFDShwAT0oDAFFKAwBeSgMAbygCcGgAAAAAggiBKRZoMU4cAECI+v9C
+KgFDShwAT0oDAFFKAwBeSgMAbygCcGgAAAAAggiBIhVodQ18ABZoET+tAECI+P9PSgMAUUoDAF5K
+AwBvKAKCCIEAHhVodQ18ABZopFK/ADUIgU9KBABRSgQAXAiBXkoDAAAkFWikUr8AFmikUr8ANQiB
+T0oDAFFKAwBcCIFeSgMAbygCggiBAAwVaEZ1fgAWaN8XkgAUKnQAADR0AAAgdQAAyHYAAOJ3AABG
+eQAAXHkAAOp5AADEegAA2HoAAB57AADvAAAAAAAAAAAAAAAA0QAAAAAAAAAAAAAAANEAAAAAAAAA
+AAAAAADRAAAAAAAAAAAAAAAA0QAAAAAAAAAAAAAAAO8AAAAAAAAAAAAAAACxAAAAAAAAAAAAAAAA
+kAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAABbAAAAAAAAAAAAAAAAAAAAAAAAAAAeAAADJAQKJgAL
+RgkADcYKAcwDApcAQAIABg+EQAIRhOT+FiQBSWYBAAAAXoRAAmCE5P5hJAlnZFVsFwAXAAADJAQN
+xgsAA5cAQALMAwAGBg+EQAIWJAFJZgEAAABehEACYSQJZ2Q3MJ0AIQAAAyQECiYAC0YJAA3GEAHM
+AwSXAD0BxgFAAgAGBgYPhEACEYTk/hYkAUlmAQAAAF6EQAJghOT+YSQJZ2S0UPEAAB8AAAMkBAom
+AAtGCQANxg0BzAMDlwDGAUACAAYGD4RAAhGE5P4WJAFJZgEAAABehEACYITk/mEkCWdkuDZjAB4A
+AAMkBAomAAtGCQANxgoBzAMClwBAAgAGD4RAAhGE5P4WJAFJZgEAAABehEACYITk/mEkCWdkzylC
+ABAPAAMkBA+EAAAWJAFJZgEAAABehAAAYSQJZ2SkUr8AAAq8dgAAxnYAAMh2AADgdwAA4ncAAER5
+AABGeQAAWnkAAFx5AABgeQAA6HkAAOp5AADueQAA/HkAAGJ6AABqegAAwHoAAMJ6AADEegAAxnoA
+AMh6AADKegAA2HoAAPHk1snWvKyZjHxvjHxhVGFHOWFHYUcbFWi0UPEAFmi0UPEAT0oDAFFKAwBe
+SgMAbygCGBVotFDxABZotFDxAE9KAwBRSgMAXkoDAAAYFmjwGLQAT0oDAFFKAwBeSgMAbygCggiB
+ABsVaLRQ8QAWaLRQ8QBPSgMAUUoDAF5KAwCCCIEYFWi4NmMAFmi4NmMAT0oDAFFKAwBeSgMAAB4V
+aLg2YwAWaLg2YwBPSgMAUUoDAF5KAwBvKAKCCIEAGBZouDZjAE9KAwBRSgMAXkoDAG8oAoIIgQAk
+FWikUr8AFmikUr8ANQiBT0oEAFFKBABcCIFeSgMAbygCggiBAB4WaCUDlQA1CIFPSgQAUUoEAFwI
+gV5KAwBvKAKCCIEAGBVopFK/ABZo3xeSAE9KAwBRSgMAXkoDAAAYFWjDBAUAFmjfF5IAT0oDAFFK
+AwBeSgMAABsVaMMEBQAWaN8XkgBPSgMAUUoDAF5KAwCCCIEYFWjDBAUAFmgRP60AT0oDAFFKAwBe
+SgMAABsVaB4knAAWaB4knABPSgMAUUoDAF5KAwCCCIEAFth6AADkegAA5noAABx7AAAeewAALHsA
+AE57AABQewAAcHwAAHJ8AACyfAAAtHwAALp8AAC8fAAAzHwAAM58AADifAAA5HwAAOZ8AADqfAAA
+7HwAAO58AAD2fAAA+nwAAPx8AADefQAA8eHx1Me6rZ+Sn4J0gnRndGd0Z3RndGdXRwAAAAAAAAAA
+AAAAAAAfFWjXLiEAFmgRP60AQIj2/09KAwBRSgMAXkoDAIIIgR4VaM8pQgAWaN8XkgBPSgMAUUoD
+AF5KAwBvKAKCCIEAGBZoihB8AE9KAwBRSgMAXkoDAG8oAoIIgQAbFWjDBAUAFmiKEHwAT0oDAFFK
+AwBeSgMAggiBHhVozylCABZoihB8AE9KAwBRSgMAXkoDAG8oAoIIgQAYFWjDBAUAFmjfF5IAT0oD
+AFFKAwBeSgMAABsVaMMEBQAWaN8XkgBPSgMAUUoDAF5KAwCCCIEYFWjDBAUAFmgRP60AT0oDAFFK
+AwBeSgMAABgWaBE/rQBPSgMAUUoDAF5KAwBvKAKCCIEAGBZoynXzAE9KAwBRSgMAXkoDAG8oAoII
+gQAYFWjxR40AFmhVbBcAT0oDAFFKAwBeSgMAAB4VaM8pQgAWaFVsFwBPSgMAUUoDAF5KAwBvKAKC
+CIEAGxVozylCABZoVWwXAE9KAwBRSgMAXkoDAIIIgQAZHnsAAFB7AAD8fAAA4H0AAFp+AABcfgAA
+Xn4AAOEAAAAAAAAAAAAAAADhAAAAAAAAAAAAAAAAwwAAAAAAAAAAAAAAALYAAAAAAAAAAAAAAABL
+AAAAAAAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA6E
+/v1dhP79Z2QJEicAawAAa2TEEAAAFiQBFyQBSWYBAAAAApZsAAXWGAQBAAAEAQAABAEAAAQBAAAE
+AQAABAEAAAeUOBUI1hoAAa38wyYABhYqAAAAAAAAAAAAAAAAAAAAAAp0AADgARPWMAAAAP8EAQAA
+AAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAABT2AxYqF/YDAAAY9gMAABrW
+BAAAAP8b1gQAAAD/HNYEAAAA/x3WBAAAAP801gYAAQUDAAA01gYAAQoDbABh9gMZ/Xl0UDqfAA0A
+AA6EoQYWJAFJZgEAAABdhKEGZ2QlA5UAHgAAAyQECiYAC0YJAA3GCgHMAwKXAEACAAYPhEACEYTk
+/hYkAUlmAQAAAF6EQAJghOT+YSQJZ2R1DXwAHgAAAyQECiYAC0YJAA3GCgHMAwKXAEACAAYPhEAC
+EYTk/hYkAUlmAQAAAF6EQAJghOT+YSQJZ2TPKUIAAAbefQAA4H0AAPB9AADyfQAA9n0AAFh+AABa
+fgAAXH4AAF5+AABifgAAen4AAHx+AACSfgAAln4AAJh+AACafgAAqH4AAKx+AADx3M3BsqCZjH1q
+WGpYRjNGMwAAAAAAAAAAAAAAAAAlFWgJEicAFmgJEicANgiBQ0ocAE9KAwBRSgMAXQiBXkoDAIII
+gSIWaB4knAA2CIFDShwAT0oDAFFKAwBdCIFeSgMAbygCggiBACIWaDcwnQA2CIFDShwAT0oDAFFK
+AwBdCIFeSgMAbygCggiBACUVaAkSJwAWaN8XkgA2CIFDShwAT0oDAFFKAwBdCIFeSgMAggiBHBZo
+CRInAENKHABPSgMAUUoDAF5KAwBvKAKCCIEAGRZoCRInAENKHABPSgMAUUoDAF5KAwBvKAIMFWhG
+dX4AFmjfF5IAACIVaCUDlQAWaCUDlQBDShwAT0oEAFFKBABeSgMAbygCggiBABwWaCUDlQBDShwA
+T0oEAFFKBABeSgMAbygCggiBABYWaCUDlQBDShwAT0oEAFFKBABeSgMAABwWaCUDlQBDShwAT0oD
+AFFKAwBeSgMAbygCggiBACgVaL1G/AAWaCUDlQA1CIFDShwAT0oDAFFKAwBcCIFeSgMAbygCggiB
+ABwVaNcuIQAWaCUDlQBAiPb/T0oDAFFKAwBeSgMAEax+AACwfgAA/n8AAACAAAACgAAABoAAAAiA
+AAAMgAAADoAAABKAAAAUgAAAGIAAAByAAAB0gAAAdoAAAISAAACGgAAAiIAAAIqAAACMgAAA7tvJ
+wb3BvcG9wb2rloKWfXm9yQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABhZozUZ5AAAJFmjg
+aXgAbygCJhZo4Gl4ADUIgUNKIABPSgMAUUoDAFwIgV5KAwBhSiAAbygCggiBACkVaMMEBQAWaOBp
+eAA1CIFDSiAAT0oDAFFKAwBcCIFeSgMAYUogAIIIgSMWaOBpeAA1CIFDSiAAT0oDAFFKAwBcCIFe
+SgMAYUogAIIIgQYWaGdM6gAADwNqAAAAABZoZ0zqAFUIASIVaAkSJwAWaAkSJwA2CIFDShwAT0oD
+AFFKAwBdCIFeSgMAACUVaAkSJwAWaN8XkgA2CIFDShwAT0oDAFFKAwBdCIFeSgMAggiBIhZoOTo1
+ADYIgUNKHABPSgMAUUoDAF0IgV5KAwBvKAKCCIETXn4AAACAAAAEgAAABoAAAAqAAAAMgAAAEIAA
+ABKAAAAWgAAAGIAAAIaAAACIgAAAioAAAIyAAADzAAAAAAAAAAAAAAAA7gAAAAAAAAAAAAAAAOwA
+AAAAAAAAAAAAAADuAAAAAAAAAAAAAAAA7AAAAAAAAAAAAAAAAO4AAAAAAAAAAAAAAADsAAAAAAAA
+AAAAAAAA7gAAAAAAAAAAAAAAAOwAAAAAAAAAAAAAAADiAAAAAAAAAAAAAAAA7AAAAAAAAAAAAAAA
+AOwAAAAAAAAAAAAAAADzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAAANxggAAlMDkhEAAWdk4Gl4AAABAAAABAAAZ2Tg
+aXgAAAsAAAMkAg6EYvxdhGL8YSQCZ2QJEicAAA0yADGQaAE6cA09IAAfsIIuILDGQSGwoAUisL0F
+I5B+ASSQqgElsAAAF7AcARiwxQIMkMQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAFiQBFyQBSWYBAAAAAZYZ/SF2AAFoASN2AAEW
+KjpWCwAClmwAB5Q8AAp0AADgARPWMAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA
+/wQBAAAAAAD/BAEAABT2AxYqGPYDAAAs1gMAAQE11gUAAQMWKmH2Axn9eXTgaXgAHQEWJAFJZgIA
+AABLJAFMJAEBloMAIXYABGgBI3YAAXoEI3YBAg4QI3YCAw8QI3YDBG4EOlYLAAKWbAAJ1ggAAgAC
+AAIAAgp0AACgBBLWKAAAAP/C1psAAAAAAAD/wtabAAAAAAAA/8LWmwAAAAAAAP/C1psAAAAT1jAA
+AAD/EgEAAAAAAP8SAQAAAAAA/xIBAAAAAAD/EgEAAAAAAP8CAQAAAAAA/wIBAAAU9gMFKRj2AwAA
+LNYDAQIBLNYDAwQBNdYFAAEDegQ11gUBAgMOEDXWBQIDAw8QNdYFAwQDbgQv1gsABA8AAAD/EgEA
+AHDWKAAAAP/C1psAAAAAAAD/wtabAAAAAAAA/8LWmwAAAAAAAP/C1psAAAB5dFA6nwB8ARYkAUlm
+AgAAAEskAUwkAQGWgwAhdgAEaAEjdgABegQjdgECDhAjdgIDDxAjdgMEbgQ6VgsAApZsAAM0AQeU
+dQIJ1gjgAOAA4ADgAAp0AACgBBLWKAAAAP///8wAAAAAAAD////hAAAAAAAA////4QAAAAAAAP//
+/+EAAAAT1jAAAAD/EgEAAAAAAP8SAQAAAAAA/xIBAAAAAAD/EgEAAAAAAP8CAQAAAAAA/wIBAAAU
+9gMFKRj2AwAAK9YCAAMr1gIDAyzWAwAEATXWBQABA3oENdYFAQIDDhA11gUCAwMPEDXWBQMEA24E
+L9YLAQILAAAA/xIBAAAv1gsAAQEAAAD/EgEAAC/WCwABCAAAAP8SAQAAL9YLAgMBAAAA/wIBAAAv
+1gsCAwoAAAD/EgEAAC/WCwMEAwAAAP8SAQAAL9YLAQQEAAAA/wQGAABw1igAAAD////MAAAAAAAA
+////4QAAAAAAAP///+EAAAAAAAD////hAAAAeXRQOp8AYAEWJAFJZgIAAABLJAFMJAEBloMAIXYA
+BGgBI3YAAXoEI3YBAg4QI3YCAw8QI3YDBG4EOlYLAAKWbAADNAEHlH4CCdYI4ADgAOAA4AAKdAAA
+oAQS1igAAAD////MAAAAAAAA////4QAAAAAAAP///+EAAAAAAAD////hAAAAE9YwAAAA/xIBAAAA
+AAD/EgEAAAAAAP8SAQAAAAAA/xIBAAAAAAD/AgEAAAAAAP8CAQAAFPYDBSkY9gMAACvWAgABK9YC
+AwEs1gMAAgE11gUAAQN6BDXWBQECAw4QNdYFAgMDDxA11gUDBANuBC/WCwEDDgAAAP8SAQAAL9YL
+AAEEAAAA/xIBAAAv1gsAAQgAAAD/EgEAAC/WCwEEAQAAAP8EBgAAL9YLAwQGAAAA/xIBAABw1igA
+AAD////MAAAAAAAA////4QAAAAAAAP///+EAAAAAAAD////hAAAAeXQqELQAWQEWJAFJZgIAAABL
+JAFMJAEBloMAIXYABGgBI3YAAXoEI3YBAg4QI3YCAw8QI3YDBG4EOlYLAAKWbAAHlEoECdYI4ADg
+AOAA4AAKdAAAoAQS1igAAAD////NAAAAAAAA////4QAAAAAAAP///+EAAAAAAAD////hAAAAE9Yw
+AAAA/xIBAAAAAAD/EgEAAAAAAP8SAQAAAAAA/xIBAAAAAAD/AgEAAAAAAP8CAQAAFPYDBSkY9gMA
+ACzWAwACASzWAwMEATXWBQABA3oENdYFAQIDDhA11gUCAwMPEDXWBQMEA24EL9YLAQMPAAAA/xIB
+AAAv1gsAAQEAAAD/EgEAAC/WCwABBAAAAP8SAQAAL9YLAAEIAAAA/xIBAAAv1gsDBAcAAAD/EgEA
+AHDWKAAAAP///80AAAAAAAD////hAAAAAAAA////4QAAAAAAAP///+EAAAB5dA09IABmARYkAUlm
+AgAAAEskAUwkAQGWgwAhdgAEaAEjdgABegQjdgECDhAjdgIDDxAjdgMEbgQ6VgsAApZsAAM0AQeU
+DgIJ1gjgAOAA4ADgAAp0AACgBBLWKAAAAP///8wAAAAAAAD////hAAAAAAAA////4QAAAAAAAP//
+/+EAAAAT1jAAAAD/EgEAAAAAAP8SAQAAAAAA/xIBAAAAAAD/EgEAAAAAAP8CAQAAAAAA/wIBAAAU
+9gMFKRj2AwAAK9YCAAMr1gIDAyzWAwACASzWAwMEATXWBQABA3oENdYFAQIDDhA11gUCAwMPEDXW
+BQMEA24EL9YLAQMLAAAA/xIBAAAv1gsAAQEAAAD/EgEAAC/WCwABCAAAAP8SAQAAL9YLAwQDAAAA
+/xIBAAAv1gsBBAQAAAD/BAYAAHDWKAAAAP///8wAAAAAAAD////hAAAAAAAA////4QAAAAAAAP//
+/+EAAAB5dENXAgBgARYkAUlmAgAAAEskAUwkAQGWgwAhdgAEaAEjdgABegQjdgECDhAjdgIDDxAj
+dgMEbgQ6VgsAApZsAAM0AQeUAQUJ1gjgAOAA4ADgAAp0AACgBBLWKAAAAP///8wAAAAAAAD////h
+AAAAAAAA////4QAAAAAAAP///+EAAAAT1jAAAAD/EgEAAAAAAP8SAQAAAAAA/xIBAAAAAAD/EgEA
+AAAAAP8CAQAAAAAA/wIBAAAU9gMFKRj2AwAAK9YCAAEr1gIDASzWAwABATXWBQABA3oENdYFAQID
+DhA11gUCAwMPEDXWBQMEA24EL9YLAQMOAAAA/xIBAAAv1gsAAQQAAAD/EgEAAC/WCwABCAAAAP8S
+AQAAL9YLAQQBAAAA/wQGAAAv1gsDBAYAAAD/EgEAAHDWKAAAAP///8wAAAAAAAD////hAAAAAAAA
+////4QAAAAAAAP///+EAAAB5dA09IAB+ABYkARckAUlmAQAAAAGWGf0hdgABaAEjdgABFio6VgsA
+ApZsAAeUYw0KdAAA4AET1jAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAA
+AAAA/wQBAAAU9gMWKhj2AwAANdYFAAEDFiph9gMZ/Xl0UDqfAIQAFiQBFyQBSWYBAAAAAZYZ/SF2
+AAFoASN2AAEWKjpWCwAClmwAB5RwAAp0AADgARPWMAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAA
+AP8EAQAAAAAA/wQBAAAAAAD/BAEAABT2AxYqGPYDAAAs1gMAAQE11gUAAQMWKmH2Axn9eXRQOp8A
+fgAWJAEXJAFJZgEAAAABlhn9IXYAAWgBI3YAARYqOlYLAAKWbAAHlPkDCnQAAOABE9YwAAAA/wQB
+AAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAFPYDFioY9gMAADXWBQAB
+AxYqYfYDGf15dFA6nwCAABYkARckAUlmAQAAAAGWGf0hdgABaAEjdgABFio6VgsAApZsAAp0AADg
+ARPWMAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAABT2AxYq
+GPYDAAAs1gMAAQE11gUAAQMWKmH2Axn9eXRQOp8AfgAWJAEXJAFJZgEAAAABlhn9IXYAAWgBI3YA
+ARYqOlYLAAKWbAAHlKkCCnQAAOABE9YwAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAA
+AAD/BAEAAAAAAP8EAQAAFPYDFioY9gMAADXWBQABAxYqYfYDGf15dFA6nwCEABYkARckAUlmAQAA
+AAGWGf0hdgABaAEjdgABFio6VgsAApZsAAeU2QAKdAAA4AET1jAAAAD/BAEAAAAAAP8EAQAAAAAA
+/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAU9gMWKhj2AwAALNYDAAEBNdYFAAEDFiph9gMZ
+/Xl0UDqfAH4AFiQBFyQBSWYBAAAAAZYZ/SF2AAFoASN2AAEWKjpWCwAClmwAB5SRBQp0AADgARPW
+MAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAABT2AxYqGPYD
+AAA11gUAAQMWKmH2Axn9eXSaLV0AfgAWJAEXJAFJZgEAAAABlhn9IXYAAWgBI3YAARYqOlYLAAKW
+bAAHlCMBCnQAAOABE9YwAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAA
+AP8EAQAAFPYDFioY9gMAADXWBQABAxYqYfYDGf15dFA6nwB+ABYkARckAUlmAQAAAAGWGf0hdgAB
+aAEjdgABFio6VgsAApZsAAeUqQEKdAAA4AET1jAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/
+BAEAAAAAAP8EAQAAAAAA/wQBAAAU9gMWKhj2AwAANdYFAAEDFiph9gMZ/Xl04Gl4AIQAFiQBFyQB
+SWYBAAAAAZYZ/SF2AAFoASN2AAEWKjpWCwAClmwAB5SDAAp0AADgARPWMAAAAP8EAQAAAAAA/wQB
+AAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAABT2AxYqGPYDAAAs1gMAAQE11gUAAQMW
+KmH2Axn9eXRQOp8AfgAWJAEXJAFJZgEAAAABlhn9IXYAAWgBI3YAARYqOlYLAAKWbAAHlJEHCnQA
+AOABE9YwAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAFPYD
+FioY9gMAADXWBQABAxYqYfYDGf15dFA6nwCEABYkARckAUlmAQAAAAGWGf0hdgABaAEjdgABFio6
+VgsAApZsAAeUPAAKdAAA4AET1jAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8E
+AQAAAAAA/wQBAAAU9gMWKhj2AwAALNYDAAEBNdYFAAEDFiph9gMZ/Xl0UDqfAH4AFiQBFyQBSWYB
+AAAAAZYZ/SF2AAFoASN2AAEWKjpWCwAClmwAB5TrAAp0AADgARPWMAAAAP8EAQAAAAAA/wQBAAAA
+AAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAABT2AxYqGPYDAAA11gUAAQMWKmH2Axn9eXRQ
+Op8AfgAWJAEXJAFJZgEAAAABlhn9IXYAAWgBI3YAARYqOlYLAAKWbAAHlFYACnQAAOABE9YwAAAA
+/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAFPYDFioY9gMAADXW
+BQABAxYqYfYDGf15dFA6nwB+ABYkARckAUlmAQAAAAGWGf0hdgABaAEjdgABFio6VgsAApZsAAeU
+MAEKdAAA4AET1jAAAAD/BAEAAAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAAAAA/wQB
+AAAU9gMWKhj2AwAANdYFAAEDFiph9gMZ/Xl0UDqfAH4AFiQBFyQBSWYBAAAAAZYZ/SF2AAFoASN2
+AAEWKjpWCwAClmwAB5S6AAp0AADgARPWMAAAAP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAA
+AAAA/wQBAAAAAAD/BAEAABT2AxYqGPYDAAA11gUAAQMWKmH2Axn9eXRQOp8AfgAWJAEXJAFJZgEA
+AAABlhn9IXYAAWgBI3YAARYqOlYLAAKWbAAHlDgVCnQAAOABE9YwAAAA/wQBAAAAAAD/BAEAAAAA
+AP8EAQAAAAAA/wQBAAAAAAD/BAEAAAAAAP8EAQAAFPYDFioY9gMAADXWBQABAxYqYfYDGf15dFA6
+nwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAG4EGAASAAEACwEPAAcABAAEAAQABQAEAAkAAAAJAAAADwAAAA8A
+AAAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYA
+ADYGAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAA2BgAANgYAADYGAAA2BgAA
+NgYAADYGAAAPAAAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2
+BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYG
+AAA2BgAACQAAADYGAAA2BgAAAQAAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAACQAA
+ADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAAAkAAAAJAAAA
+NgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2
+BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYG
+AAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYA
+ADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAANgYAADYGAAA2BgAA
+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
+TWFuYWdlci54bWwucmVsc1BLBQYAAAAABQAFAF0BAACtCgAAAAA8P3htbCB2ZXJzaW9uPSIxLjAi
+IGVuY29kaW5nPSJVVEYtOCIgc3RhbmRhbG9uZT0ieWVzIj8+DQo8YTpjbHJNYXAgeG1sbnM6YT0i
+aHR0cDovL3NjaGVtYXMub3BlbnhtbGZvcm1hdHMub3JnL2RyYXdpbmdtbC8yMDA2L21haW4iIGJn
+MT0ibHQxIiB0eDE9ImRrMSIgYmcyPSJsdDIiIHR4Mj0iZGsyIiBhY2NlbnQxPSJhY2NlbnQxIiBh
+Y2NlbnQyPSJhY2NlbnQyIiBhY2NlbnQzPSJhY2NlbnQzIiBhY2NlbnQ0PSJhY2NlbnQ0IiBhY2Nl
+bnQ1PSJhY2NlbnQ1IiBhY2NlbnQ2PSJhY2NlbnQ2IiBobGluaz0iaGxpbmsiIGZvbEhsaW5rPSJm
+b2xIbGluayIvPgAAAAATHQAAFwAAqAAAAAD/////AAAAAAMAAAAGAAAABgAAAAkAAAAMAAAADAAA
+AAwAAABEAAAARAAAAEQAAABEAAAARAAAAEcAAAAACAAAJAoAACoMAADiDgAAdhAAAMQSAABwGAAA
+Jh0AAN4gAACSIgAA6iMAAAhlAAB2ZwAAvmwAADJyAAAodAAAvHYAANh6AADefQAArH4AAIyAAAAT
+AAAAFgAAABoAAAAfAAAAIQAAACMAAAAmAAAAKgAAAC0AAAAuAAAAMAAAAEEAAABEAAAARwAAAEkA
+AABMAAAATgAAAE8AAABRAAAAUgAAAAAIAACoCQAAwgkAAD4LAABCCwAAnAwAAKoMAACsDgAAyg4A
+AD4QAABCEAAA8hIAAPYSAABsGQAAmhkAABYcAABOHgAAzB4AAFYjAADsIwAAHGUAAFhlAAB8aQAA
+zGkAADByAABscgAA5nMAACp0AAAeewAAXn4AAIyAAAAUAAAAFQAAABcAAAAYAAAAGQAAABsAAAAc
+AAAAHQAAAB4AAAAgAAAAIgAAACQAAAAlAAAAJwAAACgAAAApAAAAKwAAACwAAAAvAAAAMQAAAEIA
+AABDAAAARQAAAEYAAABIAAAASgAAAEsAAABNAAAAUAAAAFMAAAAPAADwTAAAAAAABvAYAAAAAgQA
+AAIAAAABAAAAAQAAAAEAAAACAAAAIwAL8AwAAACGwQAAAADFwQAAAABAAB7xEAAAAP//AAAAAP8A
+gICAAPcAABAADwAC8JIAAAAQAAjwCAAAAAEAAAABBAAADwAD8DAAAAAPAATwKAAAAAEACfAQAAAA
+AAAAAAAAAAAAAAAAAAAAAAIACvAIAAAAAAQAAAUAAAAPAATwQgAAABIACvAIAAAAAQQAAAAOAABT
+AAvwHgAAAL8BAAAQAMsBAAAAAP8BAAAIAAQDCQAAAD8DAQABAAAAEfAEAAAAAQAAAAAAAAArAAAA
+QQAAAEQAAAClAAAArwAAALgAAAC5AAAAwAAAAMcAAADTAAAA1QAAAOMAAADkAAAAEgEAABMBAAA2
+AQAANwEAAEQBAABFAQAAewEAAIEBAACOAQAAjwEAAJYBAACXAQAAnQEAAKEBAACjAQAApAEAAPgB
+AAD9AQAACQIAAAwCAAAUAgAAFgIAADYCAAA7AgAAQgIAAEUCAABMAgAATwIAAFQCAABVAgAAXAIA
+AGACAABqAgAAawIAAH4CAACAAgAAlgIAAJ4CAAC7AgAAvwIAAMACAADFAgAA8wIAAPsCAAArAwAA
+LAMAADUDAAA2AwAAPwMAAEADAABEAwAARwMAAFUDAABXAwAAXAMAAGEDAABkAwAAaQMAAG4DAABv
+AwAAcQMAAHIDAACKAwAAiwMAAMMDAADEAwAA7gMAAPMDAAD0AwAA9QMAAAsEAAAQBAAAFAQAABUE
+AAAeBAAAIQQAACMEAAAkBAAAOwQAADwEAAA/BAAAQAQAAEgEAABLBAAAqwQAALAEAACxBAAAsgQA
+ALkEAAC8BAAAzAQAANEEAADmBAAA7wQAAP4EAAABBQAAAgUAAAcFAAAaBQAAHQUAAB4FAAAjBQAA
+QgUAAEcFAABOBQAAUgUAAGIFAABnBQAAdwUAAHsFAACjBQAAsQUAALIFAACzBQAA+AUAAPoFAACM
+BgAA0QYAABIHAAC3CAAAuggAAPgKAAAOCwAAZwsAAHsLAAB/CwAA9AsAAFwMAABvDAAAdAwAAI0M
+AACQDAAAxgwAAKwNAAC9DQAAwA0AANsNAADcDQAA9Q0AAPcNAAAbDgAAHQ4AACkOAAAuDgAAXg4A
+AF8OAACmDgAA3Q4AAPsOAAD+DgAAAg8AAAYPAAAZDwAAXA8AAF0PAABfDwAAeA8AAHoPAAB7DwAA
+fg8AAOIPAADlDwAAChAAAAsQAAAMEAAADxAAAIgQAACNEAAAEREAABMRAAAqEQAAKxEAACwRAAAv
+EQAAihEAAIwRAACyEQAAtBEAAPQRAAD5EQAAIxIAACYSAAA3EgAAOBIAAEMSAABHEgAAYxIAAGwS
+AADAEgAAxBIAAAMTAAAFEwAADRMAABUTAAArEwAALBMAAC8TAAA0EwAAShMAAE4TAABlEwAAbRMA
+AIUTAACJEwAAlxMAAJsTAAC0EwAAtRMAAM4TAADPEwAA5xMAAO0TAAAaFAAAGxQAACcUAAAtFAAA
+ZRQAAGwUAACKFAAAmBQAAJ4UAACjFAAAwRQAAMIUAADiFAAA6RQAABcVAAAbFQAALhUAADAVAABT
+FQAAVxUAAGUVAABpFQAAfBUAAH4VAACpFQAArRUAAOQVAADmFQAA5xUAAMEWAADPFgAA0xYAAOAW
+AADiFgAA5hYAAOcWAAAGFwAADRcAACwXAAA0FwAANRcAAEQXAABFFwAASBcAAE8XAABRFwAAVxcA
+AF0XAABfFwAAZBcAAG0XAAByFwAAGhgAABwYAAAjGAAAJhgAACgYAAApGAAAKxgAADgYAAC9GAAA
+WhkAAG8ZAABwGQAAehkAAH0ZAADBGQAASBoAAFsaAABcGgAAYxoAAGYaAAB0GgAAdRoAAAUbAAAK
+GwAAJhsAACsbAAAzGwAANRsAAD4bAABAGwAAQhsAAEMbAABEGwAARhsAAEgbAABLGwAAWxsAAFwb
+AABtGwAAchsAALwbAAC9GwAAxRsAAMgbAAD5GwAAzRwAAM8cAADQHAAA0hwAANMcAADVHAAA1hwA
+ANgcAADZHAAA2xwAAAcdAAAJHQAADx0AABEdAAAUHQAABwAFAAcABQAHAAUABwAFAAcABQAHAAUA
+BwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAH
+AAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcA
+BQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAF
+AAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUA
+BwAFAAcABQAHAAUABwAFAAcABAAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAH
+AAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcA
+BQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAF
+AAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUA
+BwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAH
+AAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcA
+BQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAcAAgAH
+AAIABwACAAcAAgAHAAUABwAFAAcAAgAAAAAAQgAAAEQAAACtAAAArwAAALgAAAC5AAAAxgAAAMcA
+AADTAAAA1QAAAOAAAADhAAAARAEAAEUBAACOAQAAjwEAAJYBAACXAQAAnQEAAKEBAAAVAgAAFgIA
+AEwCAABPAgAAVAIAAFUCAABqAgAAawIAAJYCAACXAgAAoQIAAKICAADEAgAAxQIAACsDAAAsAwAA
+NQMAADYDAAA/AwAAQAMAAFUDAABXAwAAXAMAAF0DAABkAwAAZQMAAG4DAABvAwAAwwMAAMQDAAD0
+AwAA9QMAAAwEAAANBAAAFAQAABUEAAAeBAAAIQQAALEEAACyBAAA7gQAAO8EAAAGBQAABwUAACIF
+AAAjBQAAdwUAAHsFAACyBQAAswUAAIsGAACMBgAAFQcAABYHAACBBwAAggcAANAHAADRBwAANwgA
+ADgIAAC1CAAAtwgAAMsIAADNCAAAOAkAADkJAADeCQAA4AkAAAoKAAAMCgAAhAoAAIUKAAD4CgAA
+JgsAACgLAABlCwAAZwsAAMYMAADHDAAASA0AAEkNAACqDQAArA0AAPUNAAD3DQAAXg4AAF8OAACm
+DgAApw4AAFoPAABcDwAAeA8AAHoPAAAKEAAACxAAACoRAAArEQAAihEAAIwRAACyEQAAtBEAACsT
+AAAsEwAAzhMAAM8TAAAaFAAAGxQAAMEUAADCFAAAfRUAAH4VAADkFQAA5hUAAAIWAAAEFgAAvxYA
+AMEWAADgFgAA4hYAAOYWAADnFgAAXBcAAF0XAAAwGAAAMRgAAL0YAAC+GAAAbxkAAHAZAAB6GQAA
+fRkAAMEZAADEGQAALhoAAC8aAAA4GgAAORoAAFsaAABcGgAAdBoAAHUaAABKGwAASxsAALwbAAC9
+GwAA+RsAAP4bAADMHAAAzRwAAM8cAADQHAAA0hwAANMcAADVHAAA1hwAANgcAADZHAAA2xwAAA8d
+AAARHQAAFB0AAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAH
+AAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcA
+BQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAF
+AAcABQAHAAUABwAFAAcABQAHAAUABwAFAAQABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcA
+BQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAF
+AAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUA
+BwAFAAcABwACAAcAAgAHAAIABwACAAcABQAHAAIAAAAAAK8AAADUAAAA1QAAAOEAAACPAQAAoQEA
+AE8CAABVAgAAQAMAAF0DAAANBAAAIQQAALcIAADNCAAA+AoAACYLAABcDwAAeg8AAOYVAAAEFgAA
+4hYAAOcWAABwGQAAexkAAC8aAAB1GgAAzRwAAM8cAADQHAAA0hwAANMcAADVHAAA1hwAANgcAADZ
+HAAAER0AABQdAAAHAAUABwAFAAcABQAHAAUABwAFAAcABQAHAAUABwAEAAcABQAHAAUABwAFAAcA
+BQAHAAUABwAHAAIABwACAAcAAgAHAAIABwACAA0AOn90PNAFWlj/D/8P/w//D/8P/w//D/8P/w8A
+AANu+0UexPrb/w//D/8P/w//D/8P/w//D/8PAABcTgtGWHokrP8P/w//D/8P/w//D/8P/w//DwAA
+62+SR8hrEkb/D/8P/w//D/8P/w//D/8P/w8QADwUv09CPKrX/w//D/8P/w//D/8P/w//D/8PAABX
+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
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7/AAAGAQIAAAAAAAAAAAAAAAAAAAAAAAEAAAAC1c3V
+nC4bEJOXCAArLPmuMAAAADABAAAMAAAAAQAAAGgAAAAPAAAAcAAAAAUAAACAAAAABgAAAIgAAAAR
+AAAAkAAAABcAAACYAAAACwAAAKAAAAAQAAAAqAAAABMAAACwAAAAFgAAALgAAAANAAAAwAAAAAwA
+AAARAQAAAgAAAGoDAAAeAAAACAAAAGtiYW5rAAAAAwAAADQAAAADAAAADgAAAAMAAAC/HAAAAwAA
+AAAADgALAAAAAAAAAAsAAAAAAAAACwAAAAAAAAALAAAAAAAAAB4QAAABAAAARQAAAMrD2LvLxdGh
+4KGzsezK06TRreCh1ejCx6HRuqHSw7vD0KHNurjYw6HUqLrRpMPgpMO01LWizae4udKk0sO+0rPU
+qsLsAAwQAAACAAAAHgAAAAYAAABUaXRsZQADAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAABAAAAAgAAAAMAAAAEAAAABQAAAAYAAAAHAAAACAAAAAkAAAAKAAAA
+CwAAAAwAAAANAAAADgAAAA8AAAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZ
+AAAAGgAAABsAAAAcAAAAHQAAAB4AAAAfAAAAIAAAACEAAAAiAAAAIwAAACQAAAAlAAAAJgAAACcA
+AAAoAAAAKQAAACoAAAArAAAALAAAAC0AAAAuAAAALwAAADAAAAAxAAAAMgAAADMAAAA0AAAANQAA
+ADYAAAA3AAAAOAAAADkAAAA6AAAAOwAAADwAAAA9AAAAPgAAAD8AAABAAAAAQQAAAEIAAABDAAAA
+RAAAAEUAAABGAAAARwAAAEgAAABJAAAASgAAAEsAAABMAAAATQAAAE4AAABPAAAAUAAAAFEAAABS
+AAAAUwAAAFQAAAD+////VgAAAFcAAABYAAAAWQAAAFoAAABbAAAAXAAAAF0AAAD+////XwAAAGAA
+AABhAAAAYgAAAGMAAABkAAAAZQAAAGYAAABnAAAAaAAAAGkAAABqAAAAawAAAGwAAABtAAAAbgAA
+AG8AAABwAAAAcQAAAHIAAABzAAAAdAAAAHUAAAB2AAAAdwAAAHgAAAB5AAAAegAAAHsAAAB8AAAA
+fQAAAH4AAAB/AAAAgAAAAIEAAACCAAAAgwAAAIQAAACFAAAAhgAAAIcAAACIAAAA/v///4oAAACL
+AAAAjAAAAI0AAACOAAAAjwAAAJAAAAD+////kgAAAJMAAACUAAAAlQAAAJYAAACXAAAAmAAAAP7/
+///9/////f///5wAAACdAAAA/v////7///+gAAAA/v//////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////UgBvAG8AdAAgAEUAbgB0AHIAeQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAABYABQH//////////wMAAAAGCQIAAAAAAMAAAAAAAABGAAAA
+AAAAAAAAAAAA8BUCLkKp0gGfAAAAAAMAAAAAAABEAGEAdABhAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgACAf///////////////wAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFUAAABEEQAAAAAAADEAVABhAGIAbABlAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAAIAAQAA
+AP//////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXgAAACRVAAAAAAAA
+VwBvAHIAZABEAG8AYwB1AG0AZQBuAHQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAABoAAgEKAAAABQAAAP////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAANKgAAAAAAAAFAFMAdQBtAG0AYQByAHkASQBuAGYAbwByAG0AYQB0AGkAbwBuAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAKAACAf///////////////wAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAIkAAAAAEAAAAAAAAAUARABvAGMAdQBtAGUAbgB0AFMAdQBtAG0AYQBy
+AHkASQBuAGYAbwByAG0AYQB0AGkAbwBuAAAAAAAAAAAAAAA4AAIBBAAAAP//////////AAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkQAAAAAQAAAAAAAATQBzAG8ARABhAHQAYQBT
+AHQAbwByAGUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoAAQD/////
+/////wcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBN8S1CqdIBAMz/LUKp0gEAAAAAAAAAAAAAAADK
+ANUA0gBCADQANAAxAFMAywBVANYANQA1AFAA3gDKAM8AWQBCANEA2QDQAD0APQAAAAAAAAAAAAAA
+AAAAAAAAMgABAf//////////CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEE3xLUKp0gEAzP8tQqnS
+AQAAAAAAAAAAAAAAAEkAdABlAG0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAKAAIB/////wkAAAD/////AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAANoAAAAAAAAAUAByAG8AcABlAHIAdABpAGUAcwAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYAAgD///////////////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAVQEAAAAAAAABAEMAbwBtAHAATwBiAGoA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgACAQIAAAAG
+AAAA/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAByAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAA////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAQAAAAIAAAADAAAA/v///wUAAAAGAAAABwAAAAgAAAAJAAAA/v///wsAAAD+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+//////////////88YjpTb3VyY2VzIFNlbGVjdGVkU3R5bGU9IlxBUEEuWFNMIiBTdHlsZU5hbWU9
+IkFQQSIgeG1sbnM6Yj0iaHR0cDovL3NjaGVtYXMub3BlbnhtbGZvcm1hdHMub3JnL29mZmljZURv
+Y3VtZW50LzIwMDYvYmlibGlvZ3JhcGh5IiB4bWxucz0iaHR0cDovL3NjaGVtYXMub3BlbnhtbGZv
+cm1hdHMub3JnL29mZmljZURvY3VtZW50LzIwMDYvYmlibGlvZ3JhcGh5Ij48L2I6U291cmNlcz4N
+CgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD94bWwgdmVyc2lvbj0iMS4w
+IiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8ZHM6ZGF0YXN0b3JlSXRlbSBk
+czppdGVtSUQ9Ins3OTgxNUNBQi1EMkU2LTREQUQtOUY3Qy1GRkFBQkQ4MDcxRTd9IiB4bWxuczpk
+cz0iaHR0cDovL3NjaGVtYXMub3BlbnhtbGZvcm1hdHMub3JnL29mZmljZURvY3VtZW50LzIwMDYv
+Y3VzdG9tWG1sIj48ZHM6c2NoZW1hUmVmcz48ZHM6c2NoZW1hUmVmIGRzOnVyaT0iaHR0cDovL3Nj
+aGVtYXMub3BlbnhtbGZvcm1hdHMub3JnL29mZmljZURvY3VtZW50LzIwMDYvYmlibGlvZ3JhcGh5
+Ii8+PC9kczpzY2hlbWFSZWZzPjwvZHM6ZGF0YXN0b3JlSXRlbT4AAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQD+/wMKAAD/////BgkCAAAAAADAAAAAAAAARiAAAABN
+aWNyb3NvZnQgV29yZCA5Ny0yMDAzIERvY3VtZW50AAoAAABNU1dvcmREb2MAEAAAAFdvcmQuRG9j
+dW1lbnQuOAD0ObJxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAA
+</filedata></file></object></item></document>
+

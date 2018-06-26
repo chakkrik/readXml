@@ -1,0 +1,1552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE document SYSTEM 'xmlschemas/domino_8_5_3.dtd'>
+<document xmlns='http://www.lotus.com/dxl' version='8.5' maintenanceversion='3.0'
+ replicaid='472577F4004F611F' form='frmCOInformation'>
+<noteinfo noteid='3fd0e' unid='C0C2CC8D97BCED65472580F400345847' sequence='3'>
+<created><datetime>20170331T163144,71+07</datetime></created>
+<modified><datetime>20170331T164715,60+07</datetime></modified>
+<revised><datetime>20170331T164715,59+07</datetime></revised>
+<lastaccessed><datetime>20170331T164715,59+07</datetime></lastaccessed>
+<addedtofile><datetime>20170331T163616,63+07</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Jidapa Sangrattanadech/OU=CO/O=KBANK</name><name>CN=Rungnapa Lappanichayakit/OU=CO/O=KBANK</name></updatedby>
+<revisions><datetime>20170331T163614,63+07</datetime><datetime>20170331T164400,75+07</datetime></revisions>
+<item name='$WebFlags'><text>V</text></item>
+<item name='$ConflictAction'><text>1</text></item>
+<item name='TXTREADER' names='true' readers='true'><textlist><text>CN=Jidapa Sangrattanadech/OU=CO/O=KBANK</text><text
+>CN=Rungnapa Lappanichayakit/OU=CO/O=KBANK</text><text>CN=Onthida Boonpiamsak/OU=PL/O=KBANK</text><text
+>CN=Ajaree Thanapongporn/OU=PL/O=KBANK</text><text>CN=Kanlaya Chingchamikorn/OU=PL/O=KBANK</text><text
+>CN=Patcharaporn Khemklad/OU=PL/O=KBANK</text><text>CN=Namkang Chantaravisoot/OU=PL/O=KBANK</text><text
+>CN=Pimpada Phosai/OU=PL/O=KBANK</text><text>CN=Saijai Pornphongsa/OU=CO/O=KBANK</text><text
+>CN=Sophon Chiemchitvanich/OU=CO/O=KBANK</text><text>CN=Wittaya Thongaumyai/OU=CO/O=KBANK</text><text
+>CN=Thaworn Pooyoi/OU=CO/O=KBANK</text><text>CN=Duangtip Maneerat/OU=CO/O=KBANK</text><text
+>CN=Korn Angkanaporn/OU=CO/O=KBANK</text><text>CN=Preyanan Wisaisophonkul/OU=CO/O=KBANK</text><text
+>CN=Ratchadaphon Kingkaewkantong/OU=CO/O=KBANK</text><text>CN=Prasopsri Koompirojn/OU=CO/O=KBANK</text><text
+>CN=Tanin Sanguansuk/OU=CO/O=KBANK</text><text>CN=Sirirat Kulsolkukiat/OU=CO/O=KBANK</text><text
+>CN=Nipapim Siengjong/OU=CO/O=KBANK</text><text>CN=Methaya Prasarn/OU=CO/O=KBANK</text><text
+>CN=Wanichamon Chumnonkwetch/OU=CO/O=KBANK</text><text>CN=Anugool Bunyaban/OU=CO/O=KBANK</text><text
+>CN=Natchinda Rungjaroenporn/OU=CO/O=KBANK</text><text>CN=Onusa Viriyasomboon/OU=CO/O=KBANK</text><text
+>CN=Burassakorn Chaiamphorn/OU=CO/O=KBANK</text><text>CN=Weerayut Chanthothai/OU=CO/O=KBANK</text><text
+>CN=Siwat Buawattana/OU=CO/O=KBANK</text><text>CN=Surakul Leerueng/OU=CO/O=KBANK</text><text
+>CN=Pattaraporn Patcharasakdathon/OU=CO/O=KBANK</text><text>CN=Wisara Karomprach/OU=CO/O=KBANK</text><text
+>CN=Nawachon Namphom/OU=CO/O=KBANK</text><text>CN=Sirinan Sarika/OU=CO/O=KBANK</text><text
+>CN=Manunya Phairatphiboon/OU=CO/O=KBANK</text><text>CN=Apichet Suntarachun/OU=CO/O=KBANK</text><text
+>CN=Chompoonoot Junyim/OU=CO/O=KBANK</text><text>CN=Warin Glinjonggol/OU=CO/O=KBANK</text><text
+>CN=Kunara Therdthai/OU=CO/O=KBANK</text><text>CN=Phanon Phuawade/OU=CO/O=KBANK</text><text
+>CN=Worakanya Cheuyklin/OU=CO/O=KBANK</text><text>CN=Jarumas Taengprakob/OU=CO/O=KBANK</text><text
+>CN=Parichart Woravitsathayan/OU=CO/O=KBANK</text><text>CN=Wanwipha Chuephaiwes/OU=CO/O=KBANK</text><text
+>CN=Chayanuch Bunyasite/OU=CO/O=KBANK</text><text>CN=Chittrasawart Somwan/OU=CO/O=KBANK</text><text
+>CN=Pitchayaporn Nimmolrat/OU=CO/O=KBANK</text><text>CN=Pimwalan Tharaphan/OU=CO/O=KBANK</text><text
+>CN=Supakit Pimmanat/OU=CO/O=KBANK</text><text>CN=Jutamas Worathitianan/OU=CO/O=KBANK</text><text
+>CN=Uchumas Romlitta/OU=CO/O=KBANK</text><text>CN=Kanyarat Bueyjaroen/OU=CO/O=KBANK</text><text
+>CN=Kitikorn Tassanakajohn/OU=CO/O=KBANK</text><text>CN=Wilasinee Punnitamai/OU=CO/O=KBANK</text><text
+>CN=Jirapat Hamant/OU=CO/O=KBANK</text><text>CN=Kunakorn Seeleuang/OU=CO/O=KBANK</text><text
+>CN=Nattakorn Wongjaikuah/OU=CO/O=KBANK</text><text>CN=Narroup Rak-ngam/OU=CO/O=KBANK</text><text
+>CN=Wichai Jermhansa/OU=CO/O=KBANK</text><text>CN=Supaporn Ingprasarn/OU=CO/O=KBANK</text><text
+>CN=Pemika Paowarat/OU=CO/O=KBANK</text><text>CN=Prasert Muangpradit/OU=CO/O=KBANK</text><text
+>CN=Nipaporn Asawalertsomchit/OU=CO/O=KBANK</text><text>CN=Panot Saetang/OU=CO/O=KBANK</text><text
+>CN=Phataravee Klaiklern/OU=CO/O=KBANK</text><text>CN=Bundit Lertwanichkitchakul/OU=CO/O=KBANK</text><text
+>CN=Phaisarn Vorasetsiri/OU=CO/O=KBANK</text></textlist></item>
+<item name='TXTAUTHOR' authors='true' names='true'><text/></item>
+<item name='txtPermanentAuthor' authors='true' names='true'><text>[DbAdministrator]</text></item>
+<item name='txtPermanentReader' names='true' readers='true'><textlist><text
+>[DbAdministrator]</text><text>[DbReader]</text></textlist></item>
+<item name='txtAuthorRes' authors='true' names='true'><textlist><text>CN=Onthida Boonpiamsak/OU=PL/O=KBANK</text><text
+>CN=Ajaree Thanapongporn/OU=PL/O=KBANK</text><text>CN=Kanlaya Chingchamikorn/OU=PL/O=KBANK</text><text
+>CN=Patcharaporn Khemklad/OU=PL/O=KBANK</text><text>CN=Namkang Chantaravisoot/OU=PL/O=KBANK</text><text
+>CN=Pimpada Phosai/OU=PL/O=KBANK</text></textlist></item>
+<item name='txtDocStatus'><text>99</text></item>
+<item name='SecApprover'><text>1</text></item>
+<item name='FlagAcceptAll'><text/></item>
+<item name='FlagReturnByAdmin'><text/></item>
+<item name='AlertDate'><datetime>20170403</datetime></item>
+<item name='createBY' names='true'><text>CN=Jidapa Sangrattanadech/OU=CO/O=KBANK</text></item>
+<item name='createOn'><datetime>20170331T163145,22+07</datetime></item>
+<item name='DocName'><text> สรุปหลักเกณฑ์สำคัญในการปฏิบัติงานการประกอบธุรกิจสินเชื่อส่วนบุคคลประจำปี 2560    </text></item>
+<item name='DocType'><text>1</text></item>
+<item name='DocAlert'><text>A</text></item>
+<item name='DocGroupAnnonceDB'><text/></item>
+<item name='DocGroupAnnonceAddr'><textlist><text>Onthida Boonpiamsak/PL/KBANK</text><text
+>Ajaree Thanapongporn/PL/KBANK</text><text>Kanlaya Chingchamikorn/PL/KBANK</text><text
+>Patcharaporn Khemklad/PL/KBANK</text><text>Namkang Chantaravisoot/PL/KBANK</text><text
+>Pimpada Phosai/PL/KBANK</text></textlist></item>
+<item name='GroupMembersExtractDB2' names='true'><text/></item>
+<item name='GroupMembersExtractAddr' names='true'><textlist><text>CN=Onthida Boonpiamsak/OU=PL/O=KBANK</text><text
+>CN=Ajaree Thanapongporn/OU=PL/O=KBANK</text><text>CN=Kanlaya Chingchamikorn/OU=PL/O=KBANK</text><text
+>CN=Patcharaporn Khemklad/OU=PL/O=KBANK</text><text>CN=Namkang Chantaravisoot/OU=PL/O=KBANK</text><text
+>CN=Pimpada Phosai/OU=PL/O=KBANK</text></textlist></item>
+<item name='DocGroupAnnonce' names='true'><textlist><text>CN=Onthida Boonpiamsak/OU=PL/O=KBANK</text><text
+>CN=Ajaree Thanapongporn/OU=PL/O=KBANK</text><text>CN=Kanlaya Chingchamikorn/OU=PL/O=KBANK</text><text
+>CN=Patcharaporn Khemklad/OU=PL/O=KBANK</text><text>CN=Namkang Chantaravisoot/OU=PL/O=KBANK</text><text
+>CN=Pimpada Phosai/OU=PL/O=KBANK</text></textlist></item>
+<item name='GroupMembersExtractDB' names='true'><text/></item>
+<item name='GroupMembersExtract' names='true'><textlist><text>CN=Onthida Boonpiamsak/OU=PL/O=KBANK</text><text
+>CN=Ajaree Thanapongporn/OU=PL/O=KBANK</text><text>CN=Kanlaya Chingchamikorn/OU=PL/O=KBANK</text><text
+>CN=Patcharaporn Khemklad/OU=PL/O=KBANK</text><text>CN=Namkang Chantaravisoot/OU=PL/O=KBANK</text><text
+>CN=Pimpada Phosai/OU=PL/O=KBANK</text></textlist></item>
+<item name='DocCCMailDB'><text/></item>
+<item name='GroupMembers2ExtractDB2' names='true'><text/></item>
+<item name='DocCCMailAddr'><text>CO Dept</text></item>
+<item name='GroupMembers2ExtractAddr' names='true'><textlist><text>CN=Saijai Pornphongsa/OU=CO/O=KBANK</text><text
+>CN=Sophon Chiemchitvanich/OU=CO/O=KBANK</text><text>CN=Wittaya Thongaumyai/OU=CO/O=KBANK</text><text
+>CN=Thaworn Pooyoi/OU=CO/O=KBANK</text><text>CN=Duangtip Maneerat/OU=CO/O=KBANK</text><text
+>CN=Korn Angkanaporn/OU=CO/O=KBANK</text><text>CN=Preyanan Wisaisophonkul/OU=CO/O=KBANK</text><text
+>CN=Ratchadaphon Kingkaewkantong/OU=CO/O=KBANK</text><text>CN=Prasopsri Koompirojn/OU=CO/O=KBANK</text><text
+>CN=Tanin Sanguansuk/OU=CO/O=KBANK</text><text>CN=Sirirat Kulsolkukiat/OU=CO/O=KBANK</text><text
+>CN=Nipapim Siengjong/OU=CO/O=KBANK</text><text>CN=Methaya Prasarn/OU=CO/O=KBANK</text><text
+>CN=Wanichamon Chumnonkwetch/OU=CO/O=KBANK</text><text>CN=Anugool Bunyaban/OU=CO/O=KBANK</text><text
+>CN=Natchinda Rungjaroenporn/OU=CO/O=KBANK</text><text>CN=Onusa Viriyasomboon/OU=CO/O=KBANK</text><text
+>CN=Burassakorn Chaiamphorn/OU=CO/O=KBANK</text><text>CN=Weerayut Chanthothai/OU=CO/O=KBANK</text><text
+>CN=Siwat Buawattana/OU=CO/O=KBANK</text><text>CN=Surakul Leerueng/OU=CO/O=KBANK</text><text
+>CN=Pattaraporn Patcharasakdathon/OU=CO/O=KBANK</text><text>CN=Wisara Karomprach/OU=CO/O=KBANK</text><text
+>CN=Nawachon Namphom/OU=CO/O=KBANK</text><text>CN=Sirinan Sarika/OU=CO/O=KBANK</text><text
+>CN=Manunya Phairatphiboon/OU=CO/O=KBANK</text><text>CN=Apichet Suntarachun/OU=CO/O=KBANK</text><text
+>CN=Chompoonoot Junyim/OU=CO/O=KBANK</text><text>CN=Warin Glinjonggol/OU=CO/O=KBANK</text><text
+>CN=Rungnapa Lappanichayakit/OU=CO/O=KBANK</text><text>CN=Kunara Therdthai/OU=CO/O=KBANK</text><text
+>CN=Phanon Phuawade/OU=CO/O=KBANK</text><text>CN=Worakanya Cheuyklin/OU=CO/O=KBANK</text><text
+>CN=Jarumas Taengprakob/OU=CO/O=KBANK</text><text>CN=Parichart Woravitsathayan/OU=CO/O=KBANK</text><text
+>CN=Wanwipha Chuephaiwes/OU=CO/O=KBANK</text><text>CN=Jidapa Sangrattanadech/OU=CO/O=KBANK</text><text
+>CN=Chayanuch Bunyasite/OU=CO/O=KBANK</text><text>CN=Chittrasawart Somwan/OU=CO/O=KBANK</text><text
+>CN=Pitchayaporn Nimmolrat/OU=CO/O=KBANK</text><text>CN=Pimwalan Tharaphan/OU=CO/O=KBANK</text><text
+>CN=Supakit Pimmanat/OU=CO/O=KBANK</text><text>CN=Jutamas Worathitianan/OU=CO/O=KBANK</text><text
+>CN=Uchumas Romlitta/OU=CO/O=KBANK</text><text>CN=Kanyarat Bueyjaroen/OU=CO/O=KBANK</text><text
+>CN=Kitikorn Tassanakajohn/OU=CO/O=KBANK</text><text>CN=Wilasinee Punnitamai/OU=CO/O=KBANK</text><text
+>CN=Jirapat Hamant/OU=CO/O=KBANK</text><text>CN=Kunakorn Seeleuang/OU=CO/O=KBANK</text><text
+>CN=Nattakorn Wongjaikuah/OU=CO/O=KBANK</text><text>CN=Narroup Rak-ngam/OU=CO/O=KBANK</text><text
+>CN=Wichai Jermhansa/OU=CO/O=KBANK</text><text>CN=Supaporn Ingprasarn/OU=CO/O=KBANK</text><text
+>CN=Pemika Paowarat/OU=CO/O=KBANK</text><text>CN=Prasert Muangpradit/OU=CO/O=KBANK</text><text
+>CN=Nipaporn Asawalertsomchit/OU=CO/O=KBANK</text><text>CN=Panot Saetang/OU=CO/O=KBANK</text><text
+>CN=Phataravee Klaiklern/OU=CO/O=KBANK</text><text>CN=Bundit Lertwanichkitchakul/OU=CO/O=KBANK</text><text
+>CN=Phaisarn Vorasetsiri/OU=CO/O=KBANK</text></textlist></item>
+<item name='GroupMembers2ExtractDB' names='true'><text/></item>
+<item name='GroupMembersExtract2' names='true'><textlist><text>CN=Saijai Pornphongsa/OU=CO/O=KBANK</text><text
+>CN=Sophon Chiemchitvanich/OU=CO/O=KBANK</text><text>CN=Wittaya Thongaumyai/OU=CO/O=KBANK</text><text
+>CN=Thaworn Pooyoi/OU=CO/O=KBANK</text><text>CN=Duangtip Maneerat/OU=CO/O=KBANK</text><text
+>CN=Korn Angkanaporn/OU=CO/O=KBANK</text><text>CN=Preyanan Wisaisophonkul/OU=CO/O=KBANK</text><text
+>CN=Ratchadaphon Kingkaewkantong/OU=CO/O=KBANK</text><text>CN=Prasopsri Koompirojn/OU=CO/O=KBANK</text><text
+>CN=Tanin Sanguansuk/OU=CO/O=KBANK</text><text>CN=Sirirat Kulsolkukiat/OU=CO/O=KBANK</text><text
+>CN=Nipapim Siengjong/OU=CO/O=KBANK</text><text>CN=Methaya Prasarn/OU=CO/O=KBANK</text><text
+>CN=Wanichamon Chumnonkwetch/OU=CO/O=KBANK</text><text>CN=Anugool Bunyaban/OU=CO/O=KBANK</text><text
+>CN=Natchinda Rungjaroenporn/OU=CO/O=KBANK</text><text>CN=Onusa Viriyasomboon/OU=CO/O=KBANK</text><text
+>CN=Burassakorn Chaiamphorn/OU=CO/O=KBANK</text><text>CN=Weerayut Chanthothai/OU=CO/O=KBANK</text><text
+>CN=Siwat Buawattana/OU=CO/O=KBANK</text><text>CN=Surakul Leerueng/OU=CO/O=KBANK</text><text
+>CN=Pattaraporn Patcharasakdathon/OU=CO/O=KBANK</text><text>CN=Wisara Karomprach/OU=CO/O=KBANK</text><text
+>CN=Nawachon Namphom/OU=CO/O=KBANK</text><text>CN=Sirinan Sarika/OU=CO/O=KBANK</text><text
+>CN=Manunya Phairatphiboon/OU=CO/O=KBANK</text><text>CN=Apichet Suntarachun/OU=CO/O=KBANK</text><text
+>CN=Chompoonoot Junyim/OU=CO/O=KBANK</text><text>CN=Warin Glinjonggol/OU=CO/O=KBANK</text><text
+>CN=Rungnapa Lappanichayakit/OU=CO/O=KBANK</text><text>CN=Kunara Therdthai/OU=CO/O=KBANK</text><text
+>CN=Phanon Phuawade/OU=CO/O=KBANK</text><text>CN=Worakanya Cheuyklin/OU=CO/O=KBANK</text><text
+>CN=Jarumas Taengprakob/OU=CO/O=KBANK</text><text>CN=Parichart Woravitsathayan/OU=CO/O=KBANK</text><text
+>CN=Wanwipha Chuephaiwes/OU=CO/O=KBANK</text><text>CN=Jidapa Sangrattanadech/OU=CO/O=KBANK</text><text
+>CN=Chayanuch Bunyasite/OU=CO/O=KBANK</text><text>CN=Chittrasawart Somwan/OU=CO/O=KBANK</text><text
+>CN=Pitchayaporn Nimmolrat/OU=CO/O=KBANK</text><text>CN=Pimwalan Tharaphan/OU=CO/O=KBANK</text><text
+>CN=Supakit Pimmanat/OU=CO/O=KBANK</text><text>CN=Jutamas Worathitianan/OU=CO/O=KBANK</text><text
+>CN=Uchumas Romlitta/OU=CO/O=KBANK</text><text>CN=Kanyarat Bueyjaroen/OU=CO/O=KBANK</text><text
+>CN=Kitikorn Tassanakajohn/OU=CO/O=KBANK</text><text>CN=Wilasinee Punnitamai/OU=CO/O=KBANK</text><text
+>CN=Jirapat Hamant/OU=CO/O=KBANK</text><text>CN=Kunakorn Seeleuang/OU=CO/O=KBANK</text><text
+>CN=Nattakorn Wongjaikuah/OU=CO/O=KBANK</text><text>CN=Narroup Rak-ngam/OU=CO/O=KBANK</text><text
+>CN=Wichai Jermhansa/OU=CO/O=KBANK</text><text>CN=Supaporn Ingprasarn/OU=CO/O=KBANK</text><text
+>CN=Pemika Paowarat/OU=CO/O=KBANK</text><text>CN=Prasert Muangpradit/OU=CO/O=KBANK</text><text
+>CN=Nipaporn Asawalertsomchit/OU=CO/O=KBANK</text><text>CN=Panot Saetang/OU=CO/O=KBANK</text><text
+>CN=Phataravee Klaiklern/OU=CO/O=KBANK</text><text>CN=Bundit Lertwanichkitchakul/OU=CO/O=KBANK</text><text
+>CN=Phaisarn Vorasetsiri/OU=CO/O=KBANK</text></textlist></item>
+<item name='DocApprover'><text>Rungnapa Lappanichayakit/CO/KBANK</text></item>
+<item name='DocLabel2'><text>วันที่ประกาศ</text></item>
+<item name='DocDateAnnonce'><datetime>20170331</datetime></item>
+<item name='DocDesc'><text>เพื่อให้ผู้ปฏิบัติงานที่เกี่ยวข้องรับทราบและปฏิบัติตามหลักเกณฑ์สำคัญของหน่วยงานทางการ รวมถึงระเบียบของธนาคารที่เกี่ยวข้องกับการประกอบธุรกิจสินเชื่อส่วนบุคคล รายละเอียดเป็นไปตามเอกสารแนบ ทั้งนี้ ขอให้ท่านสื่อความให้พนักงานในฝ่ายงาน หรือผู้ที่เกี่ยวข้องอื่นให้ทราบโดยทั่วกัน</text></item>
+<item name='DocAttch'><richtext>
+<pardef id='1' keepwithnext='true' keeptogether='true'><code event='hidewhen'
+ enabled='false'><formula>DocType != "1"</formula></code></pardef>
+<par def='1'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par>
+<table widthtype='fitmargins' rowdisplay='tabs' leftmargin='0' refwidth='8.6840in'><tablerowstyle
+><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20' color='black'/></tablerowstyle><tablecolumn width='100%'/>
+<tablerow tablabel='คำจำกัดความ'>
+<tablecell bgcolor='#e4d0a7'>
+<pardef id='3' tabs='L0.5000in L1in L1.5000in L2in L2.5000in L3in L3.5000in L4in'
+ keepwithnext='true' keeptogether='true'/>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>สินเชื่อส่วนบุคคล หมายความว่า การให้กู้ยืมเงิน การรับซื้อ ซื้อลด หรือรับช่วงซื้อลดตั๋วเงินหรือตราสารเปลี่ยนมืออื่นใด แก่บุคคลธรรมดาโดยมิได้ระบุวัตถุประสงค์หรือมีวัตถุประสงค์เพื่อให้ได้มาซึ่งสินค้าหรือบริการ และให้รวมถึงสินเชื่อที่มีวัตถุประสงค์ที่นำไปใช้ในการประกอบอาชีพ</run></par></tablecell></tablerow>
+<tablerow tablabel='ข้อแตกต่าง'>
+<tablecell bgcolor='#d9d9b0'>
+<pardef id='4' keepwithnext='true' keeptogether='true'/>
+<par def='4'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par>
+<table widthtype='fitmargins' leftmargin='0.0104in' refwidth='8.6632in'><tablecolumn
+ width='33.3299%'/><tablecolumn width='33.3299%'/><tablecolumn width='33.3403%'/>
+<tablerow>
+<tablecell rowspan='2' bgcolor='silver'>
+<pardef id='6' align='center' keepwithnext='true' keeptogether='true'/>
+<par def='6'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>รายละเอียด</run></par></tablecell>
+<tablecell columnspan='2' bgcolor='silver'>
+<pardef id='8' align='center' keepwithnext='true' keeptogether='true'/>
+<par def='8'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>ข้อแตกต่าง</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell bgcolor='silver'>
+<pardef id='7' align='center' keepwithnext='true' keeptogether='true'/>
+<par def='7'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>สินเชื่อส่วนบุคคลภายใต้การกำกับ</run></par></tablecell>
+<tablecell bgcolor='silver'>
+<pardef id='9' align='center' keepwithnext='true' keeptogether='true'/>
+<par def='9'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>สินเชื่อส่วนบุคคลที่ไม่อยู่ภายใต้การกำกับ</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<pardef id='10' align='center' tabs='L0.5000in L1in L1.5000in L2in L2.5000in L3in L3.5000in L4in'
+ keepwithnext='true' keeptogether='true'/>
+<par def='10'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>ประกาศ ธปท. ที่ใช้บังคับ</run></par></tablecell>
+<tablecell>
+<pardef id='11' tabs='L0.5000in L1in L1.5000in L2in L2.5000in L3in L3.5000in L4in'
+ keepwithnext='true' keeptogether='true'/>
+<par def='11'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>สนส.1/2560</run></par></tablecell>
+<tablecell>
+<pardef id='12' tabs='L0.5000in L1in L1.5000in L2in L2.5000in L3in L3.5000in L4in'
+ keepwithnext='true' keeptogether='true'/>
+<par def='12'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>สนส.80/2551</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='10'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>หลักประกัน</run></par></tablecell>
+<tablecell>
+<par def='11'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ไม่มีหลักประกัน</run></par></tablecell>
+<tablecell>
+<par def='12'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1.มีหลักประกัน</run></par>
+<par def='12'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>2.สินเชื่อที่ ธปท. กำหนด ดังนี้</run></par>
+<par def='12'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>  - สินเชื่อเพื่อการศึกษา </run></par>
+<par def='12'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>  - สินเชื่อเพื่อการเดินทางไปทำงานในต่างประเทศ </run></par>
+<par def='12'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>  - สินเชื่อเพื่อรักษาพยาบาล </run></par>
+<par def='12'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>  - สินเชื่อเพื่อสวัสดิการพนักงานที่หน่วยงานต้นสังกัดได้มีการทำสัญญากับธนาคาร </run></par>
+<par def='12'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>   - สินเชื่ออื่น ตามที่ ธปท. ประกาศกำหนด</run></par></tablecell></tablerow></table>
+<par def='4'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par></tablecell></tablerow>
+<tablerow tablabel='หลักเกณฑ์สินเชื่อส่วนบุคคลภายใต้การกำกับ'>
+<tablecell bgcolor='#cbcadf'>
+<par def='4'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par>
+<table widthtype='fitmargins' leftmargin='0.0104in' refwidth='8.6632in'><tablecolumn
+ width='21.3854%'/><tablecolumn width='78.6146%'/>
+<tablerow>
+<tablecell bgcolor='silver'>
+<pardef id='13' align='center' keepwithnext='true' keeptogether='true'/>
+<par def='13'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>หัวข้อ</run></par></tablecell>
+<tablecell bgcolor='silver'>
+<pardef id='14' align='center' keepwithnext='true' keeptogether='true'/>
+<par def='14'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>รายละเอียด</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<pardef id='15' tabs='L0.5000in L1in L1.5000in L2in L2.5000in L3in L3.5000in L4in'
+ keepwithnext='true' keeptogether='true'/>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>คุณสมบัติ</run></par></tablecell>
+<tablecell>
+<pardef id='16' tabs='L0.5000in L1in L1.5000in L2in L2.5000in L3in L3.5000in L4in'
+ keepwithnext='true' keeptogether='true'/>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>พิจารณาจากฐานะทางการเงินลูกค้าว่าเพียงพอสำหรับการชำระหนี้ได้</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>การกำหนดวงเงิน</run></par></tablecell>
+<tablecell>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ไม่เกิน 5 เท่าของรายได้เฉลี่ย/เดือน หรือกระแสเงินสดหมุนเวียนในบัญชีเงินฝากของผู้บริโภคซึ่งฝากไว้กับธนาคารเฉลี่ยต่อเดือนเป็นระยะเวลาไม่น้อยกว่า 6 เดือน</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ดอกเบี้ยค่าบริการต่างๆและเบี้ยปรับ</run></par></tablecell>
+<tablecell>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1. ดอกเบี้ยในหนี้ค้างชำระหรือดอกเบี้ยในระหว่างเวลาผิดนัดชำระ หรือค่าบริการต่างๆหรือเบี้ยปรับหรือเบี้ยปรับในการชำระหนี้ล่าช้ากว่ากำหนด เมื่อคำนวณรวมกันแล้วต้องไม่เกินร้อยละ 28 ต่อปี (Effective Rate)</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>2. นอกจากดอกเบี้ย ค่าบริการต่างๆและเบี้ยปรับ ธนาคารอาจเรียกเก็บค่าใช้จ่ายตามที่ได้จ่ายไปจริงและพอสมควรแก่เหตุได้ตามรายการที่ ธปท. กำหนด</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>3. ธนาคารต้องไม่นำดอกเบี้ย ค่าบริการต่างๆและเบี้ยปรับตามข้อ 1. และ 2. มารวมกับจำนวนหนี้ที่ค้างชำระเพื่อคิดดอกเบี้ยและเบี้ยปรับอีก</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>4. การเรียกเก็บค่าบริการต่างๆและเบี้ยปรับจากผู้บริโภคนอกเหนือจากรายการตามที่ ธปท. กำหนด ธนาคารต้องได้รับอนุญาตจาก ธปท.ก่อน ทั้งนี้ ให้ธนาคารทำหนังสือขออนุญาตโดยแสดงเหตุผลและรายละเอียดที่เกี่ยวข้องไปยัง ธปท. เป็นรายกรณี</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>การเปิดเผยข้อมูลอัตราดอกเบี้ย ค่าบริการต่างๆและเบี้ยปรับ</run></par></tablecell>
+<tablecell>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1. ปิดประกาศตารางไว้ในที่เปิดเผย ณ สำนักงานทุกแห่งในวันเดียวกับที่ธนาคารออกประกาศหรือเปลี่ยนแปลงประกาศ</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>2. เผยแพร่ตารางไว้ในเว็บไซต์ของธนาคารก่อนวันที่ประกาศมีผลบังคับใช้</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>3. จัดเก็บต้นฉบับในรูปแบบใดๆเป็นเวลาไม่ต่ำกว่า 10 ปีนับแต่วันที่ประกาศมีผลใช้บังคับ</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>4. แจ้งรายละเอียดข้อ 1. ให้แก่ผู้บริโภคหรือผู้ประสงค์จะขอสินเชื่อ เพื่อใช้ประกอบการพิจารณาตัดสินใจในการขอสินเชื่อ</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>5. กรณีมีการเปลี่ยนแปลง ซึ่งทำให้ผู้บริโภคเสียประโยชน์ ธนาคารต้องแจ้งเป็นหนังสือแก่ผู้บริโภคภายในเวลาอันควร</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>6. กรณีมีการประกาศกำหนดหรือเปลี่ยนแปลงค่าใช้จ่ายตามที่ได้จ่ายไปจริงและพอสมควรแก่เหตุ รวมทั้งเงื่อนไขที่เกี่ยวเนื่องกับค่าใช้จ่าย ซึ่งทำให้ผู้บริโภคเสียประโยชน์ ธนาคารต้องได้รับความยินยอมจากผู้บริโภคเสียก่อน เว้นแต่ผู้บริโภคเลือกที่จะให้สิทธิธนาคารดำเนินการเป็นอย่างอื่น อย่างไรก็ตาม ธนาคารต้องปิดประกาศกำหนดหรือเปลี่ยนแปลงดังกล่าวไว้ในที่เปิดเผย ณ สำนักงานทุกแห่ง เพื่อให้ผู้บริโภคทราบล่วงหน้าไม่น้อยกว่า 30 วัน ก่อนการเปลี่ยนแปลงจะมีผลใช้บังคับ ไม่ว่าธนาคารและผู้บริโภคจะมีการตกลงใดๆไว้ก็ตาม</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>การจัดทำตารางแสดงภาระหนี้และใบเสร็จรับเงิน</run></par></tablecell>
+<tablecell>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ต้องจัดทำตารางแสดงภาระหนี้และใบเสร็จรับเงินสำหรับผู้บริโภคแต่ละราย ซึ่งต้องมีรายการสำคัญตามที่ ธปท.กำหนด</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>การเรียกให้ชำระหนี้ และการติดตามทวงถามให้ชำระหนี้</run></par></tablecell>
+<tablecell>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/> - ต้องส่งใบแจ้งหนี้แก่ผู้บริโภคทราบล่วงหน้า 10 วันก่อนวันถึงกำหนดชำระหรือหักบัญชี และในกรณีมีการคิดดอกเบี้ย ค่าบริการต่างๆและเบี้ยปรับในหนี้ค้างชำระ ให้แสดงรายละเอียดตามที่ ธปท. กำหนดด้วย</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/> - ต้องมีหนังสือแจ้งเตือนผู้บริโภคที่ผิดนัดชำระหนี้ล่วงหน้าไม่น้อยกว่า 20 วันก่อนดำเนินการบังคับชำระหนี้ตามกฎหมาย</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>การเปลี่ยนประเภทหนี้</run></par></tablecell>
+<tablecell>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ห้ามโอนหนี้ที่เกิดจากสินเชื่อส่วนบุคคลภายใต้การกำกับไปเป็นหนี้ตามสัญญาบัญชีเดินสะพัด หรือหนี้ตามสัญญาสินเชื่อประเภทอื่น เว้นแต่จะได้รับความยินยอมเป็นหนังสือจากผู้บริโภคก่อน</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- หนี้อันเกิดจากสินเชื่อส่วนบุคคลภายใต้การกำกับ ที่ยังมิได้โอนไปเป็นหนี้ตามสัญญาบัญชีเดินสะพัดจะเอาดอกเบี้ยนั้นทบเข้ากับต้นเงินแล้วคิดดอกเบี้ยในจำนวนเงินที่ทบเข้ากันนั้นไม่ได้</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>การปฏิบัติและการจัดการเกี่ยวกับข้อมูลของผู้บริโภค</run></par></tablecell>
+<tablecell>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ต้องให้ความสำคัญและจัดให้มีข้อมูลเกี่ยวกับผู้บริโภคที่ถูกต้องและครบถ้วนเพื่อประกอบการพิจารณาอนุมัติและกำหนดวงเงินที่เหมาะสม และสอดคล้องกับความสามารถในการชำระหนี้ของลูกหนี้ โดยใช้ข้อมูลจากแหล่งข้อมูลกลางที่เชื่อถือได้</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>การปฏิบัติเมื่อมีข้อร้องเรียน</run></par></tablecell>
+<tablecell>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ต้องดำเนินการตรวจสอบเมื่อผู้บริโภคร้องเรียนเกี่ยวกับการใช้บริการ และแจ้งความคืบหน้ารวมทั้งชี้แจงขั้นตอนต่อไปให้ผู้บริโภคทราบภายในเวลา 7 วันนับจากวันที่ได้รับแจ้งการร้องเรียน รวมทั้งให้ดำเนินการแก้ไขข้อร้องเรียนนั้นให้แล้วเสร็จ และแจ้งให้ผู้บริโภคนั้นทราบโดยไว</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>การกำหนดนโยบาย แผนงาน และการประชาสัมพันธ์</run></par></tablecell>
+<tablecell>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ต้องมีการกำหนดนโยบาย แผนงาน และการประชาสัมพันธ์ ดังนี้</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1. กำหนดนโยบายและแผนงาน และเสนอคณะกรรมการของธนาคารเพื่อให้ความเห็นชอบทุกปี ทั้งนี้ควรมีรายละเอียดตามที่ ธปท. กำหนด</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>2. ต้องจัดให้มีระเบียบ หรือพิธีปฏิบัติหรือในสัญญาแต่งตั้งตัวแทนในเรื่องการติดต่อหาผู้บริโภค พร้อมทั้งถือปฏิบัติ ดังนี้</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- การติดต่อหาผู้บริโภคจะดำเนินการได้ระหว่างเวลา 8.00-20.00 น. ในวันธรรมดา ยกเว้นวันหยุดราชการ ให้ดำเนินการระหว่าง เวลา 8.00-18.00 น.</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- กรณีธนาคารใช้สื่อทางการตลาด ต้องสื่อความให้ผู้บริโภคเข้าใจง่าย ไม่ชวนเชื่อเกินความจริงและต้องชี้แจงข้อเท็จจริงให้ครบถ้วน รวมทั้งระบุอัตราดอกเบี้ย ค่าบริการต่างๆและเบี้ยปรับให้ชัดเจน</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>การบริหารความเสี่ยง</run></par></tablecell>
+<tablecell>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ต้องจัดให้มีระบบในการบริหารความเสี่ยงในการให้สินเชื่อ ดังนี้</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1. ระบบพิจารณาคุณสมบัติเพื่อการอนุมัติและกำหนดวงเงินตามระดับความสามารถในการชำระหนี้</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>2. ระบบเรียกเก็บหนี้ที่เตือนให้ทราบเมื่อลูกหนี้เริ่มมีปัญหาในการชำระหนี้ ตลอดจนกลยุทธ์ในการเรียกเก็บหนี้</run></par>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>3. ระบบสารสนเทศเพื่อการบริหาร สำหรับใช้ในการกำหนดและทบทวนนโยบายและแผนงาน</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='15'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>การจัดทำบัญชีและการรายงาน</run></par></tablecell>
+<tablecell>
+<par def='16'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ต้องทำรายงานตามแบบที่ ธปท. กำหนดและจัดส่งให้ ธปท. รวมถึงกระทรวงการคลังภายใน 21 วันนับจากวันสิ้นเดือน</run></par></tablecell></tablerow></table>
+<par def='4'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par></tablecell></tablerow>
+<tablerow tablabel='หลักเกณฑ์สินเชื่อส่วนบุคคลที่ไม่อยู่ภายใต้การกำกับ'>
+<tablecell bgcolor='#bddfdc'>
+<par def='4'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par>
+<table widthtype='fitmargins' leftmargin='0.0104in' refwidth='8.6632in'><tablecolumn
+ width='23.8160%'/><tablecolumn width='76.1840%'/>
+<tablerow>
+<tablecell bgcolor='silver'>
+<pardef id='17' align='center' keepwithnext='true' keeptogether='true'/>
+<par def='17'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>หัวข้อ</run></par></tablecell>
+<tablecell bgcolor='silver'>
+<pardef id='18' align='center' keepwithnext='true' keeptogether='true'/>
+<par def='18'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>รายละเอียด</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<pardef id='19' tabs='L0.5000in L1in L1.5000in L2in L2.5000in L3in L3.5000in L4in'
+ keepwithnext='true' keeptogether='true'/>
+<par def='19'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ค่าบริการต่างๆที่เกี่ยวเนื่องกับเงินให้สินเชื่อเพื่อการอุปโภคบริโภค (Consumer Loan)</run></par></tablecell>
+<tablecell>
+<pardef id='20' tabs='L0.5000in L1in L1.5000in L2in L2.5000in L3in L3.5000in L4in'
+ keepwithnext='true' keeptogether='true'/>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ธนาคารอาจเรียกเก็บค่าบริการต่างๆตามที่ได้จ่ายไปจริงและพอสมควรแก่เหตุได้ต่างหาก โดยไม่ถือว่าเป็นดอกเบี้ยหรือส่วนลดได้ แต่ต้องเป็นค่าใช้จ่ายเฉพาะ ธปท. กำหนดไว้ คือ</run></par>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>(1) ค่าใช้จ่ายที่ธนาคารต้องจ่ายให้แก่หน่วยงานราชการ</run></par>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>(2) ค่าใช้จ่ายที่ธนาคารต้องจ่ายให้แก่บุคคลอื่นหรือหน่วยงานภายนอก โดยมีหลักฐานการชำระเงินที่สามารถตรวจสอบได้ตามประเภทที่ ธปท. กำหนด</run></par>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>(3) ค่าใช้จ่ายที่ทำให้ต้นทุนในการดำเนินงานของธนาคารเพิ่มขึ้นอันเนื่องมาจากการให้บริการแก่ลูกค้าหรือการผิดนัดชำระหนี้ของลูกค้าแล้วแต่กรณีเฉพาะรายตามประเภทที่ ธปท. กำหนด</run></par>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ทั้งนี้ ธนาคารจะเรียกเก็บค่าใช้จ่ายประเภทเดียวกันตามที่ระบุไว้ในข้อ (2) และ (3) ซ้ำซ้อนกันไม่ได้ </run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='19'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>การเปิดเผยข้อมูลอัตราดอกเบี้ย ค่าบริการต่างๆและเบี้ยปรับ</run></par></tablecell>
+<tablecell>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>1. การประกาศกำหนดหรือเปลี่ยนแปลงอัตราดอกเบี้ย ส่วนลด ค่าบริการต่างๆและเบี้ยปรับ ธนาคารต้องปฏิบัติดังต่อไปนี้</run></par>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>(1) ปิดประกาศตารางไว้ในที่เปิดเผย ณ สำนักงานใหญ่และสำนักงานสาขาของธนาคารแต่ละแห่งที่ให้บริการ ภายในวันเดียวกับที่ธนาคารออกประกาศหรือเปลี่ยนแปลงประกาศ</run></par>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>(2) เผยแพร่ตารางไว้ในเว็บไซต์ ก่อนวันที่อัตราที่ประกาศมีผลใช้บังคับ และต้องเผยแพร่ข้อมูลย้อนหลังอย่างน้อย 3 ปี เพื่อให้ลูกค้าเรียกดูข้อมูลได้</run></par>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>(3) แจ้งเป็นหนังสือแก่ลูกค้าภายในเวลาอันควร หากมีการเปลี่ยนแปลงอัตราดอกเบี้ยเงินให้สินเชื่อเพื่อการอุปโภคบริโภค (Consumer Loan) ซึ่งทำให้ลูกค้าเสียประโยชน์ไม่ว่าจะเป็นอัตราดอกเบี้ยคงที่หรือลอยตัว</run></par>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>2. การประกาศกำหนดหรือเปลี่ยนแปลงค่าบริการต่างๆเบี้ยปรับ สูตรและวิธีการคำนวณ ตลอดจนเงื่อนไขต่างๆของสัญญาหรือข้อตกลง ซึ่งทำให้ลูกค้าผู้ใช้บริการเสียประโยชน์ ธนาคารต้องได้รับการยินยอมจากลูกค้าก่อน เว้นแต่ลูกค้าเลือกที่จะให้ธนาคารดำเนินการเป็นอย่างอื่น อย่างไรก็ตาม ไม่ว่าจะมีการตกลงใดๆไว้ ธนาคารต้องปิดประกาศการกำหนดหรือเปลี่ยนแปลงค่าบริการต่างๆและเบี้ยปรับดังกล่าวไว้ในที่เปิดเผย ณ สำนักงานใหญ่และสำนักงานสาขาของธนาคารแต่ละแห่งที่ให้บริการ เพื่อให้ลูกค้าทราบล่วงหน้าไม่น้อยกว่า 30 วันก่อนจะมีผลใช้บังคับ และต้องเผยแพร่ในเว็บไซต์ของธนาคารในคราวเดียวกัน</run></par>
+<par def='20'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>3. ธนาคารต้องจัดเก็บต้นฉบับของตารางในรูปแบบใดๆเป็นเวลาไม่น้อยกว่า 10 ปีนับแต่วันที่อัตราที่ประกาศมีผลใช้บังคับ</run></par></tablecell></tablerow></table>
+<par def='4'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par></tablecell></tablerow>
+<tablerow tablabel='หลักเกณฑ์อื่นๆ'>
+<tablecell bgcolor='#d7d7ac'>
+<par def='4'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par>
+<table widthtype='fitmargins' leftmargin='0.0104in' refwidth='8.6632in'><tablecolumn
+ width='100%'/>
+<tablerow>
+<tablecell bgcolor='silver'>
+<pardef id='21' tabs='L0.5000in L1in L1.5000in L2in L2.5000in L3in L3.5000in L4in'
+ keepwithnext='true' keeptogether='true'/>
+<par def='21'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>ข้อกำหนดเรื่องการโฆษณา</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ต้องไม่ใช้ข้อความที่เป็นการไม่เป็นธรรมต่อผู้บริโภค หรือใช้ข้อความที่อาจก่อให้เกิดผลเสียต่อสังคมเป็นส่วนรวม </run></par>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ต้องไม่กระทำด้วยวิธีการอันอาจก่อให้เกิดความรำคาญแก่ผู้บริโภค </run></par>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- หลีกเลี่ยงข้อความที่มีลักษณะเป็นการยืนยันข้อเท็จจริงอันยากแก่การพิสูจน์ เช่น ข้อความโฆษณาที่ใช้ถ้อยคำว่า ที่สุด” “แห่งแรก”       “แห่งเดียว” “รายแรก” “ครั้งแรก” “100%” เว้นแต่มีหลักฐานพิสูจน์ได้ว่ามีคุณสมบัติดังกล่าวที่อ้าง</run></par>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- การจัดรายการให้รางวัลด้วยการเสี่ยงโชค ต้องได้รับอนุญาตจากเจ้าพนักงานตามกฎหมายว่าด้วยการพนัน และต้องระบุหลักเกณฑ์ เงื่อนไข รายละเอียด หรือข้อกำหนดในการเสี่ยงโชคให้ชัดเจน โปร่งใส</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell bgcolor='silver'>
+<par def='21'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>การนำเสนอข้อมูลเกี่ยวกับผลิตภัณฑ์ทางการเงิน</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>กระบวนการการนำเสนอข้อมูลผลิตภัณฑ์ให้กับลูกค้า ให้ถือปฏิบัติโดยมีสาระสำคัญ ดังนี้</run></par>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ให้เปิดเผยข้อมูลผลิตภัณฑ์ให้ลูกค้าทราบอย่างเพียงพอต่อการตัดสินใจ ทั้งในช่วงเวลาก่อนซื้อผลิตภัณฑ์หรือเข้าทำสัญญา ขณะซื้อผลิตภัณฑ์หรือ เข้าทำสัญญา และระหว่างที่สัญญามีผลบังคับใช้  รวมทั้งให้ตารางการเปิดเผยข้อมูลผลิตภัณฑ์แก่ลูกค้าทั้งในช่วงก่อนซื้อผลิตภัณฑ์หรือเขัาทำสัญญา และในขณะซื้อผลิตภัณฑ์หรือเข้าทำสัญญาหากข้อมูลมีการเปลี่ยนแปลงอย่างมีนัยสำคัญ รวมทั้งในกรณีต่ออายุสัญญาด้วย</run></par>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- การจัดทำสื่อทางการตลาดและโฆษณา ให้เปิดเผยข้อมูลที่ถูกต้อง ชัดเจน เกี่ยวข้องกับการตัดสินใจ ไม่ทำให้เข้าใจผิด และสอดคล้องกับข้อกำหนดกฎหมาย และกฎระเบียบที่เกี่ยวข้อง</run></par>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- มีการให้บริการหลังการขาย เพื่อดูแลและอำนวยความสะดวกให้แก่ลูกค้าอย่างเหมาะสม</run></par>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ให้เก็บรักษาข้อมูลของลูกค้าไว้เป็นความลับโดยไม่เปิดเผยข้อมูลแก่บุคคลที่สาม ยกเว้นได้รับอนุญาตเป็นลายลักษณ์อักษรจากลูกค้า หรือเปิดเผยข้อมูลตามที่กฎหมายกำหนด</run></par>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- กรณีมีการใช้บริการจากบุคคลภายนอก ธนาคารยังรับผิดชอบต่อลูกค้าเสมือนเป็นผู้ดำเนินการเอง โดยดูแลเรื่องความต่อเนื่องทางธุรกิจและการให้บริการแก่ลูกค้า การคุ้มครองลูกค้า และการบริหารความเสี่ยง</run></par>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>-  มีการจัดการเรื่องร้องเรียนอย่างมีประสิทธิผล และมีแนวทางในการชดเชยความเสียหายให้กับลูกค้าตามความเหมาะสมก่อนดำเนินการ</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell bgcolor='silver'>
+<par def='21'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>เรื่องอื่นๆ ที่เกี่ยวข้อง</run></par></tablecell></tablerow>
+<tablerow>
+<tablecell>
+<par def='21'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>กรณีที่ได้รับอนุญาตจากหน่วยงานทางการ ต้องดำเนินการตามเงื่อนไขที่ได้รับอนุญาตก่อนการให้บริการ เช่น กรณีการใช้ หรือให้บริการกับบุคคลภายนอก ต้องควบคุมให้มีการทำสัญญาให้แล้วเสร็จ</run></par></tablecell></tablerow></table>
+<par def='4'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par></tablecell></tablerow>
+<tablerow tablabel='ข้อกำหนดทางการที่เกี่ยวข้อง'>
+<tablecell bgcolor='#b99d8e'>
+<par def='3'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>ธปท.</run></par>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- พระราชบัญญัติธุรกิจสถาบันการเงิน พ.ศ. 2551และฉบับที่ 2 พ.ศ. 2558 มาตรา 48 </run></par>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- แนวนโยบาย ธปท. เรื่อง การนำเสนอข้อมูลเกี่ยวกับผลิตภัณฑ์ทางการเงินของธนาคารพาณิชย์ (banking products) ลงวันที่ 1 ตุลาคม 2556</run></par>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ประกาศธนาคารแห่งประเทศไทย ที่ สนส. 6/2558 เรื่อง การให้สินเชื่อ ทำธุรกรรมที่มีลักษณะคล้ายการให้สินเชื่อหรือประกันหนี้แก่กรรมการผู้มีอำนาจในการจัดการของสถาบันการเงิน หรือผู้ที่เกี่ยวข้องกับบุคคลดังกล่าว ลว 24 มีนาคม 2558</run></par>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ประกาศธนาคารแห่งประเทศไทย ที่ สนส.80/2551 เรื่องหลักเกณฑ์การปฏิบัติในเรื่องดอกเบี้ยส่วนลดค่าบริการต่างๆ และค่าเบี้ยปรับสำหรับธนาคารพาณิชย์ ลงวันที่ 3 สิงหาคม 2551</run></par>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ประกาศธนาคารแห่งประเทศไทย ที่ สนส.73/2551 เรื่อง การกำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการประกอบธุรกิจสินเชื่อส่วนบุคคลภายใต้การกำกับสำหรับสถาบันการเงิน ลงวันที่ 3 สิงหาคม 2551</run></par>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ประกาศธนาคารแห่งประเทศไทย ที่ สนส.83/2551 เรื่องหลักเกณฑ์การปฏิบัติในเรื่องดอกเบี้ย  ค่าบริการต่างๆ และเบี้ยปรับที่สถาบันการเงินอาจเรียกได้ในการประกอบธุรกิจสินเชื่อส่วนบุคคลภายใต้กำกับ ลงวันที่ 3 สิงหาคม 2551</run></par>
+<par def='3'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>กฎหมายอื่น</run></par>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- พระราชบัญญัติป้องกันและปราบปรามการฟอกเงิน พ.ศ. 2542 และที่แก้ไขเพิ่มเติม </run></par>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- พระราชบัญญัติป้องกันและปราบปรามการสนับสนุนทางการเงินแก่การก่อการร้ายและการแพร่ขยายอาวุธที่มีอานุภาพทำลายล้างสูง พ.ศ. 2559</run></par>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- กฎกระทรวงการตรวจสอบเพื่อทราบข้อเท็จจริงเกี่ยวกับลูกค้า พ.ศ. 2556 และที่แก้ไขเพิ่มเติม</run></par>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ประกาศสำนักนายกรัฐมนตรี เรื่อง วิธีการแสดงตนของลูกค้าสถาบันการเงินและผู้ประกอบอาชีพตามมาตรา 16 ลงวันที่ 17 กรกฎาคม 2556</run></par>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- กฎกระทรวงกำหนดจำนวนเงินสดและมูลค่าทรัพย์สินในการทำธุรกรรมที่สถาบันการเงินต้องรายงานต่อสำนักงานป้องกันและปราบปรามการฟอกเงิน พ.ศ. 2559</run></par>
+<par def='3'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>- ประกาศคณะกรรมการว่าด้วยสัญญา เรื่อง ให้ธุรกิจการให้กู้ยืมเงินเพื่อผู้บริโภคของสถาบันการเงินเป็นธุรกิจที่ควบคุมสัญญา พ.ศ. 2544 และที่แก้ไขเพิ่มเติม(ฉบับที่ 4)</run></par>
+<par def='3'><run><font size='14pt' style='bold' name='FreesiaUPC' pitch='variable'
+ truetype='true' familyid='20'/>หมายเหตุ</run><run><font size='14pt' name='FreesiaUPC'
+ pitch='variable' truetype='true' familyid='20'/>  อื่นๆให้เป็นไปตามนโยบายเครดิตและระเบียบธนาคาร</run></par></tablecell></tablerow></table>
+<pardef id='22' keepwithnext='true' keeptogether='true'/>
+<par def='22'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par>
+<par def='22'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>เอกสารแนบ : </run><attachmentref name='08 สรุปหลักเกณฑ์สินเชื่อส่วนบุคคล .docx'
+ displayname='08 สรุปหลักเกณฑ์สินเชื่อส่วนบุคคล .docx'><picture height='34px'
+ width='204px'><notesbitmap>
+lQAmAAAAAAAAAAAAAAABAAAAAAAAAMwAIgAIAAEACAABAIAAAgCWABIEAAAAAAAAAAAAACIAAARA
+GQDEAEALAMQAxRzIFsJOwy0CGSJACwDEAEALAMQAARxAAgAELXoZIkALAMMAQAsABQBRS0ZFwjUB
+NMIlAWTCJAJEF8YABToBdBkiQAsAwgBACwAEPEg8AsoAARfGAAY6AQU3GSJACwABAEAKAMcAB1FI
+AgACBVPCBsULAgAXxgAHOgEFPTYZIkALAEAKAMcAA0s8AMMFAQbCC8UKAgAXwgDEEggsAQU9UAMZ
+IkAKAMcAQAoAxwABRsICDTFBfQJhQHx+HRRCAGjCAAUSAAJSGsJQwhADCQMZQAoAxwBACgDHABBF
+AAF3V3MHXiNxUB0UfwBiwgAMEgcAUBp2dXJvbDcDQAoAxwBACgDHABA1AFMSQWsHMSNZB20UPQAz
+wgAHElIKBBAuCcQTAQNACgDHAEAKAMcADTQABgsxZiEjMF0FWxTCAAEywgAHEi4QCUwgDcIEAwIT
+A0AKAMcAQAoAxwAQNAAGCkAjajA/L3BWZQQAHsIABxJMDiAVOQ3CBAMCIANACgDHAEAKAMcAECUA
+CyFpMD9gIFgdFA4IAB7CAAQSCS4JwhUCDQTCAgIgA0AKAMcAQAoAxwAFJQALIXvCLwlnBFwUPghP
+AB7CAMcNAQTCAgI5A0AKAMcAQAoAxwAFJAALIRvCHQlHVFo+QgcbABHFAMIHwgTDAgIVA0AKAMcA
+QAoAxwAFJAALITvCFAtHAV9VYwQbABEQLsIJAhMYwg8BDsMCAhUDQAoAxwBACgDHAANEAAvCIcI7
+AU/GGwIAEcMAwgfCBMQCAwE4A0AKAMcAQAoAxwABF84AARHCCcIYwg/CDgIrAsIBAk0DQAoAxwBA
+CgDHAMIXwjPCQ8Iywh7GEcMHwwTDAsMBAikDQAoAxwBACwDEAAEswgcBEsQQAS7CCcIYwg/CDgEr
+wgzCAQMFKQNACgDHAEALAMQAASzHB8YExALEAQMFSgNACgDHAEALAMQAAywHBMMQwgkCExjDD8IO
+ASvEDAUBBQhJA0AKAMcAQAsAxAABGsgExgLEAcIFwggCJwNACgDHAEALAMQAARrCAgEQwgkCExjC
+D8MOASvFDAEowggDBicDQAoAxwBACwDEAAEaygLFAcMFAQjDBgImA0AKAMcAQAsAxAABGsYCAVTG
+AcIMwygBDcMGAiYDQAoAxwBACwDEAAEaywHDBcIIxQYDCnkDQAoAxwBACwDEAAEqyAHEBcMIxAbD
+CgIfA0AKAMcAQAsAxAABKsQBxQXDCMUGAQvECgIfA0AKAMcAQAsAxAAEKgVREMITATnDFcI4AU3C
+KQJKScInwibDHwEDQAoAxwBACwDEAAQqeG43wjZAAgHDA0AKAMcAQBkAxABAGQDEAEAZAMQAlwCG
+AQAA////4Oj46PD4KEBY8PD42Oj40OD48Pj42OD4oLjgyNj4yOD4iKjQgKDIkLDYmLDYqMDgGDiI
+qMjwoLjYCFCwkLDgqLjIIFCYmLjY2ODgmKi4mLD4sLjQCFi4GECIYJjwmLjgwNj46OjoCHjQIFig
+KGCgaKDwcKDogKDQgKjokKC4kKjQmKjAoLDIoMDgCGDACHDICIDQGECQIEiQKGCoKGioMEhgOFBo
+iLDgmLDgoLDAsMj4uNDg0NjwCEiwCGjICHDQCIDYEEiwGEiQIFiYMGioUIC4aJDQaJjAeKDoeKjo
+gKjQiKjYiKjgqLDIsMD4uNDowNDg0ODw0Oj46Oj4CECoCFC4CIjYEGDAEHDIGFi4GGC4GGDAGHDI
+GIjYIFi4IHDIIIjYKFCYKFCwKFigKGC4KJDYMHjIOFigOIjYOJDYOKDgQFhwQIDQSGBwSGB4SIjQ
+SJjYUGiAULDoWGiAWHCIYHCIYLDoaHiQaJjwcICYcKDgcKjgcLjoeKjYgKDYmAA2AAAAAAAAAAAA
+AAAAAAIAAAB1AOUHAAAAAAAAAwMDAwMDAwNhZGVyIUFfQ0JTU01FQ01C
+</notesbitmap><caption>08 สรุปหลักเกณฑ์สินเชื่อส่วนบุคคล .docx</caption></picture></attachmentref><run
+><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true' familyid='20'/></run></par>
+<par def='22'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par>
+<par def='22'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>ผู้ประสานงาน :</run></par>
+<par def='22'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/>จิดาภา : 273-2596  </run></par>
+<par def='22'><run><font size='14pt' name='FreesiaUPC' pitch='variable' truetype='true'
+ familyid='20'/></run></par></richtext></item>
+<item name='ApproverDecide'><text>1</text></item>
+<item name='ApproverRemark'><text/></item>
+<item name='AdminName' names='true'><text/></item>
+<item name='AdminRemark'><text/></item>
+<item name='AdminDate'><text/></item>
+<item name='txtCreator'><text>Jidapa Sangrattanadech</text></item>
+<item name='dteCreated'><datetime>20170331T163144,71+07</datetime></item>
+<item name='txtDocumentTitle'><text/></item>
+<item name='txtDocStatusWait'><text/></item>
+<item name='AcceptAllNameList'><text/></item>
+<item name='Subject'><text> สรุปหลักเกณฑ์สำคัญในการปฏิบัติงานการประกอบธุรกิจสินเชื่อส่วนบุคคลประจำปี 2560    </text></item>
+<item name='txtDatabaseOwner'><text>CO Information and Tracking System</text></item>
+<item name='txtDisplay'><text/></item>
+<item name='txtDocStatusDetail'><text>ผ่านการอนุมัติ</text></item>
+<item name='txtDocNo'><text>2017-03/00032</text></item>
+<item name='DocNoDateNo'><number>0</number></item>
+<item name='DocNoDate'><number>3</number></item>
+<item name='DocFirstAlertDate'><datetime>20170403</datetime></item>
+<item name='DocCCMail' names='true'><text>CO Dept</text></item>
+<item name='DocSendName' names='true'><text>Jidapa Sangrattanadech</text></item>
+<item name='DocSendDate'><datetime>20170331T164400,00+07</datetime></item>
+<item name='ApproverName' names='true'><text>Rungnapa Lappanichayakit</text></item>
+<item name='ApproverDate'><datetime>20170331T164715,00+07</datetime></item>
+<item name='EhRev'><numberlist><number>2</number><number>1</number><number
+>0</number></numberlist></item>
+<item name='EhEditor'><textlist><text>Rungnapa Lappanichayakit</text><text
+>Jidapa Sangrattanadech</text><text>Jidapa Sangrattanadech</text></textlist></item>
+<item name='EhDate'><datetimelist><datetime>20170331T164647,83+07</datetime><datetime
+>20170331T164401,39+07</datetime><datetime>20170331T163615,40+07</datetime></datetimelist></item>
+<item name='$FILE' summary='true' sign='true' seal='true'><object><file hosttype='msdos'
+ compression='none' flags='storedindoc' encoding='none' name='08 สรุปหลักเกณฑ์สินเชื่อส่วนบุคคล .docx'
+ size='54775' storagesize='53890' desiredcompression='huffman'>
+<created><datetime>20170330T174101,92+07</datetime></created>
+<modified><datetime>20170331T163544,23+07</datetime></modified><filedata>
+UEsDBBQABgAIAAAAIQBgUT3vxwEAACQJAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIooAAC
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADM
+lk1v00AQhu9I/Adrr8jetHyoQnF6gHKESgTBdbMeJyv2SzuTtvn3jO3UKjTELgaUiyV7Pe/77Mg7
+r+eXd85mN5DQBF+Ks2ImMvA6VMavS/Fl+SG/EBmS8pWywUMpdoDicvH82Xy5i4AZV3ssxYYovpUS
+9QacwiJE8LxSh+QU8W1ay6j0d7UGeT6bvZE6eAJPOTUaYjF/D7XaWsqu7vhxR5LAosjedS82XqVQ
+MVqjFTGpvPHVLy753qHgyvYd3JiILxhDyIMOzcrvDfZ1n7g1yVSQXatEH5VjDHkbUiWroLeO91Ac
+lznAGeraaOjrG7WYggZE7rmzRb/ilPH3/Ic49BYpuG/OSkPgrlOIeDYZpxdt9CCRgb6HIxnOT4Dh
+5QkwvDoBhtf/m6E9G37rVpD4a57s/uhw9NLHDkYLgbSzgH+foNMdaf/V0OaqrkHzFBweFA7zBr3o
+LB7UDrsBEfd7jMnPszkfmka4Vx5EuIXV539G8UB8EKTmzFiqlYURHX9iM3rpQQjiIATZXqfP5Fbm
+mCVHRjv+OVjTH2z7Pjmb6pyzaMTc7x05lCf3GZrYr6B6qneXVZPtO5kD5rL9x1n8AAAA//8DAFBL
+AwQUAAYACAAAACEAmVV+BQQBAADhAgAACwAIAl9yZWxzLy5yZWxzIKIEAiigAAIAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKySz0rDQBDG74Lv
+sMy9mbSKiDTpRYTeROIDDLvTJJj9w+5U27d3LYgGatKDx5355pvffOx6c7CDeueYeu8qWBYlKHba
+m961Fbw2T4t7UEnIGRq84wqOnGBTX1+tX3ggyUOp60NS2cWlCjqR8ICYdMeWUuEDu9zZ+WhJ8jO2
+GEi/Ucu4Kss7jL89oB55qq2pIG7NDajmGPLmeW+/2/WaH73eW3ZyZgXyQdgZNosQM1uUPl+jGoot
+SwXG6+dcTkghFBkb8DzR6nKiv69Fy0KGhFD7yNM8X4opoOXlQPMRjRU/6Xz4aDBHdMp2iub2P2n0
+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
+ZKYSrdSyeJ2t+7Ye9bZtX3W5NWC4M9U4GSjj1IE6XXJNfmzTPAeHb+TOEZP8E6HdmYXiV1zfC2Wu
+si0exUAQjNfWS1PvBT30+u6/4Q8AAP//AwBQSwMEFAAGAAgAAAAhAAzEGpLDAAAAKAEAAB4ACAFj
+dXN0b21YbWwvX3JlbHMvaXRlbTQueG1sLnJlbHMgogQBKKAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAACEz8FqwzAMBuB7Ye9gdF+clDFKidPLKOQ2Rge7GkdxzGLLWOpY336mpxYGPUpC3y/1
+h9+4qh8sHCgZ6JoWFCZHU0jewOfp+LwDxWLTZFdKaOCCDIfhadN/4GqlLvESMquqJDawiOS91uwW
+jJYbypjqZKYSrdSyeJ2t+7Ye9bZtX3W5NWC4M9U4GSjj1IE6XXJNfmzTPAeHb+TOEZP8E6HdmYXi
+V1zfC2Wusi0exUAQjNfWS1PvBT30+u6/4Q8AAP//AwBQSwMEFAAGAAgAAAAhACuhPxPDAAAAKAEA
+AB4ACAFjdXN0b21YbWwvX3JlbHMvaXRlbTUueG1sLnJlbHMgogQBKKAAAQAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+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
+AAAAAAQAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAOK1+VFuAQAABwcAABwAAAAAAAAAAAAA
+AAAANQcAAHdvcmQvX3JlbHMvZG9jdW1lbnQueG1sLnJlbHNQSwECLQAUAAYACAAAACEAOLLejXxL
+AAAmCQIAEQAAAAAAAAAAAAAAAADlCQAAd29yZC9kb2N1bWVudC54bWxQSwECLQAUAAYACAAAACEA
+lrWt4pYGAABQGwAAFQAAAAAAAAAAAAAAAACQVQAAd29yZC90aGVtZS90aGVtZTEueG1sUEsBAi0A
+FAAGAAgAAAAhAB+Y+MJyBwAAfxgAABEAAAAAAAAAAAAAAAAAWVwAAHdvcmQvc2V0dGluZ3MueG1s
+UEsBAi0AFAAGAAgAAAAhADXnFr0jAQAA5gEAABgAAAAAAAAAAAAAAAAA+mMAAGN1c3RvbVhtbC9p
+dGVtUHJvcHMyLnhtbFBLAQItABQABgAIAAAAIQDW1ojhWAEAAHECAAATAAAAAAAAAAAAAAAAAHtl
+AABjdXN0b21YbWwvaXRlbTIueG1sUEsBAi0AFAAGAAgAAAAhACwG6s52AgAAkQQAABAAAAAAAAAA
+AAAAAAAALGcAAGRvY1Byb3BzL2FwcC54bWxQSwECLQAUAAYACAAAACEAE9MGz/kBAABzAwAAEQAA
+AAAAAAAAAAAAAADYagAAZG9jUHJvcHMvY29yZS54bWxQSwECLQAUAAYACAAAACEAl8J6nkMBAAAz
+AgAAEwAAAAAAAAAAAAAAAAAIbgAAZG9jUHJvcHMvY3VzdG9tLnhtbFBLAQItABQABgAIAAAAIQBc
+XqqR8wAAAE8BAAAYAAAAAAAAAAAAAAAAAIRwAABjdXN0b21YbWwvaXRlbVByb3BzMS54bWxQSwEC
+LQAUAAYACAAAACEAXJYnIsMAAAAoAQAAHgAAAAAAAAAAAAAAAADVcQAAY3VzdG9tWG1sL19yZWxz
+L2l0ZW0yLnhtbC5yZWxzUEsBAi0AFAAGAAgAAAAhAHvzAqPDAAAAKAEAAB4AAAAAAAAAAAAAAAAA
+3HMAAGN1c3RvbVhtbC9fcmVscy9pdGVtMy54bWwucmVsc1BLAQItABQABgAIAAAAIQAMxBqSwwAA
+ACgBAAAeAAAAAAAAAAAAAAAAAON1AABjdXN0b21YbWwvX3JlbHMvaXRlbTQueG1sLnJlbHNQSwEC
+LQAUAAYACAAAACEAK6E/E8MAAAAoAQAAHgAAAAAAAAAAAAAAAADqdwAAY3VzdG9tWG1sL19yZWxz
+L2l0ZW01LnhtbC5yZWxzUEsBAi0AFAAGAAgAAAAhAHQ/OXrCAAAAKAEAAB4AAAAAAAAAAAAAAAAA
+8XkAAGN1c3RvbVhtbC9fcmVscy9pdGVtMS54bWwucmVsc1BLAQItABQABgAIAAAAIQClPi5CqgIA
+AOoKAAASAAAAAAAAAAAAAAAAAPd7AAB3b3JkL2ZvbnRUYWJsZS54bWxQSwECLQAUAAYACAAAACEA
+YF/9iAsBAAC6AQAAFAAAAAAAAAAAAAAAAADRfgAAd29yZC93ZWJTZXR0aW5ncy54bWxQSwECLQAU
+AAYACAAAACEAXlfRoFUBAABlBgAAEwAAAAAAAAAAAAAAAAAOgAAAY3VzdG9tWG1sL2l0ZW0zLnht
+bFBLAQItABQABgAIAAAAIQAKj+yZ6AAAAEEBAAAYAAAAAAAAAAAAAAAAALyBAABjdXN0b21YbWwv
+aXRlbVByb3BzMy54bWxQSwECLQAUAAYACAAAACEAxQa2X2gHAADwIAAAEwAAAAAAAAAAAAAAAAAC
+gwAAY3VzdG9tWG1sL2l0ZW00LnhtbFBLAQItABQABgAIAAAAIQBxvb89pQEAAEAEAAAYAAAAAAAA
+AAAAAAAAAMOKAABjdXN0b21YbWwvaXRlbVByb3BzNC54bWxQSwECLQAUAAYACAAAACEAqchcqowA
+AADaAAAAEwAAAAAAAAAAAAAAAADGjAAAY3VzdG9tWG1sL2l0ZW01LnhtbFBLAQItABQABgAIAAAA
+IQCUycyv4gAAAFUBAAAYAAAAAAAAAAAAAAAAAKuNAABjdXN0b21YbWwvaXRlbVByb3BzNS54bWxQ
+SwECLQAUAAYACAAAACEA/zjPpGIUAADR4gAAEgAAAAAAAAAAAAAAAADrjgAAd29yZC9udW1iZXJp
+bmcueG1sUEsBAi0AFAAGAAgAAAAhAFak7xuTFAAAE/oAAA8AAAAAAAAAAAAAAAAAfaMAAHdvcmQv
+c3R5bGVzLnhtbFBLAQItABQABgAIAAAAIQDc1MPs2hQAAAT9AAAaAAAAAAAAAAAAAAAAAD24AAB3
+b3JkL3N0eWxlc1dpdGhFZmZlY3RzLnhtbFBLAQItABQABgAIAAAAIQC9hGIjkAAAANsAAAATAAAA
+AAAAAAAAAAAAAE/NAABjdXN0b21YbWwvaXRlbTEueG1sUEsFBgAAAAAdAB0AqQcAADjOAAAAAA==
+</filedata></file></object></item></document>
+
