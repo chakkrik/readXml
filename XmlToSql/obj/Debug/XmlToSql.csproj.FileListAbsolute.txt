@@ -1,0 +1,6 @@
+c:\users\u6021293\documents\visual studio 2015\Projects\XmlToSql\XmlToSql\bin\Debug\XmlToSql.exe.config
+c:\users\u6021293\documents\visual studio 2015\Projects\XmlToSql\XmlToSql\bin\Debug\XmlToSql.exe
+c:\users\u6021293\documents\visual studio 2015\Projects\XmlToSql\XmlToSql\bin\Debug\XmlToSql.pdb
+c:\users\u6021293\documents\visual studio 2015\Projects\XmlToSql\XmlToSql\obj\Debug\XmlToSql.csprojResolveAssemblyReference.cache
+c:\users\u6021293\documents\visual studio 2015\Projects\XmlToSql\XmlToSql\obj\Debug\XmlToSql.exe
+c:\users\u6021293\documents\visual studio 2015\Projects\XmlToSql\XmlToSql\obj\Debug\XmlToSql.pdb

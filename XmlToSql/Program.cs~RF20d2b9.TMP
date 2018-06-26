@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Configuration;
+using System.Data.SqlClient;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using XmlToSql.XmlHelper;
+
+namespace XmlToSql
+{
+    class Program
+    {
+        private Xmlhelper xmlHelper;
+        static void Main(string[] args)
+        {
+           
+            start();
+
+            Console.ReadKey();
+        }
+
+        private void initialize()
+        {
+            xmlHelper = new Xmlhelper();
+
+        }
+
+        private static void start()
+        {
+            xmlHelper.process();
+        }
+    }
+}

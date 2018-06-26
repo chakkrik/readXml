@@ -1,0 +1,71 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Xml;
+
+namespace XmlToSql.service
+{
+    class XmlService
+    {
+        public XmlService()
+        {
+
+        }
+
+        static String getData(XmlNode childNode, int i)
+        {
+            if (childNode.ChildNodes.Count > 0)
+            {
+                extractChildNodes(childNode);
+            }
+         
+            return childNode.Value;            
+        }
+
+
+        static String extractChildNodes(XmlNode childNode)
+        {
+            for (int i = 0; i < childNode.ChildNodes.Count; i++)
+            {
+                return getData(childNode.ChildNodes[i]);
+            }
+
+            return "";
+        }
+
+
+        public void process(XmlDocument xmlDoc)
+        {
+            List<String> tags = new List<string>();
+            tags.Add("item");
+
+            for (int j = 0; j < tags.Count; ++j)
+            {
+                XmlNodeList elemList = xmlDoc.GetElementsByTagName(tags[j]);
+                int elemListCount = elemList.Count; ;
+                for (int i = 0; i < elemListCount; ++i)
+                {
+                    if (elemList[i].ChildNodes.Count > 0)
+                    {
+                        String name = elemList[i].Attributes[0].Value;
+                        List<String> values = extractChildNodes(elemList[i]);
+                        Console.WriteLine(name + " => ");
+                        foreach(var value in values)
+                        {
+                            Console.WriteLine(value);
+                        }
+
+                    }
+                    else
+                    {
+                        Console.WriteLine(elemList[i].Attributes[0].Value + " => ");
+                    }
+                }
+            }
+
+
+        }
+    }
+}
