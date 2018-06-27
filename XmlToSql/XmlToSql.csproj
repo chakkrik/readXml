@@ -52,6 +52,11 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
+    <Compile Include="service\DocumentFile.cs" />
+    <Compile Include="service\DataFactory.cs" />
+    <Compile Include="service\IDataType.cs" />
+    <Compile Include="service\ImageFile .cs" />
+    <Compile Include="service\PrimiTiveDataType.cs" />
     <Compile Include="service\XmlService.cs" />
     <Compile Include="tool\Tool.cs" />
     <Compile Include="XmlHelper\DBHelper.cs" />

@@ -22,14 +22,19 @@ namespace XmlToSql.service
             tool = new Tool();
         }
 
-        private void processData(String tag, String value)
+
+        private void processData(String tag, String value, XmlNode parentNode)
         {
-            if (isFileOrImg(tag))
-            {
-                String fileType = tag == "gif" ? AppConstant.IMG_TYPE : AppConstant.FILE_TYPE;
-                tool.convertBase64StringToFile(value, this.appPath + string.Format("{0:yyyy-MM-dd_hh-mm-ss-fff}", DateTime.Now) + fileType);
-            }
-     
+            DataFactory objDataFactory = new DataFactory();
+            IDataType objectData = objDataFactory.getDataObject(tag);
+            objectData.initialize(parentNode, this.appPath);
+            objectData.process(value);
+            //if (isFileOrImg(tag))
+            //{ 
+            //String fileType = tag == "gif" || tag == "notesbitmap" ? AppConstant.IMG_TYPE : AppConstant.FILE_TYPE;
+            //tool.convertBase64StringToFile(value, this.appPath + string.Format("{0:yyyy-MM-dd_hh-mm-ss-fff}", DateTime.Now) + fileType);
+            //}
+
         }
 
         private String getData(XmlNode childNode)
@@ -42,7 +47,7 @@ namespace XmlToSql.service
             {
                 String value = childNode.Value;
                 String parentTagName = childNode.ParentNode.Name;
-                processData(parentTagName, value);
+                processData(parentTagName, value, childNode.ParentNode);
                 dataObj[this.attrName].Add(value);
             }
 
@@ -97,9 +102,9 @@ namespace XmlToSql.service
             //dbHelper.inertToDB();
         }
 
-        private Boolean isFileOrImg(String tagName)
-        {
-            return AppConstant.FILETAGS.Contains(tagName);
-        }
+        //private Boolean isFileOrImg(String tagName)
+        //{
+        //    return AppConstant.FILETAGS.Contains(tagName);
+        //}
     }
 }

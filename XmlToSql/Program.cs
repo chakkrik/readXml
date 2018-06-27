@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using XmlToSql.XmlHelper;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace XmlToSql
 {
@@ -18,6 +19,7 @@ namespace XmlToSql
 
         static void Main(string[] args)
         {
+
             initialize();
             start();
             Console.ReadKey();

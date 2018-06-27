@@ -9,8 +9,10 @@ namespace XmlToSql.config
     public static class AppConstant
     {
         public const String IMG_TYPE = ".gif";
-        public const String FILE_TYPE = ".doc";
-        public static readonly String[] FILETAGS = {"gif", "filedata"};
+        public const String FILE_TYPE_DOC = ".doc";
+        public const String FILE_TYPE_PDF = ".pdf";
+        public static readonly String[] FILE_TAGS = {"filedata" };
+        public static readonly String[] FILE_IMG_TAGS = { "gif"};
         public const String DATE_FORMAT_1 = "yyyyMMdd";
     }
 }

@@ -19,10 +19,10 @@ namespace XmlToSql.tool
         public void convertBase64StringToFile(String base64Str, String fileName)
         {
             var bytes = Convert.FromBase64String(base64Str);
-            using (var imageFile = new FileStream(fileName, FileMode.Create))
+            using (var file = new FileStream(fileName, FileMode.Create))
             {
-                imageFile.Write(bytes, 0, bytes.Length);
-                imageFile.Flush();
+                file.Write(bytes, 0, bytes.Length);
+                file.Flush();
             }
         }
 

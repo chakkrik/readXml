@@ -25,9 +25,15 @@ namespace XmlToSql.XmlHelper
         private List<String> initializePaths()
         {
             var appSettings = ConfigurationManager.AppSettings;
-            foreach (var key in appSettings.AllKeys)
+            if(appSettings.AllKeys.Length == 0) {
+                this.paths.Add(Directory.GetCurrentDirectory() + "\\");
+            }
+            else 
             {
-                paths.Add(appSettings[key]);
+                foreach (var key in appSettings.AllKeys)
+                {
+                    this.paths.Add(appSettings[key]);
+                }
             }
             return this.paths;
         }
