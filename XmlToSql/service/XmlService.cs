@@ -29,11 +29,6 @@ namespace XmlToSql.service
             IDataType objectData = objDataFactory.getDataObject(tag);
             objectData.initialize(parentNode, this.appPath);
             objectData.process(value);
-            //if (isFileOrImg(tag))
-            //{ 
-            //String fileType = tag == "gif" || tag == "notesbitmap" ? AppConstant.IMG_TYPE : AppConstant.FILE_TYPE;
-            //tool.convertBase64StringToFile(value, this.appPath + string.Format("{0:yyyy-MM-dd_hh-mm-ss-fff}", DateTime.Now) + fileType);
-            //}
 
         }
 
@@ -101,10 +96,5 @@ namespace XmlToSql.service
             }
             //dbHelper.inertToDB();
         }
-
-        //private Boolean isFileOrImg(String tagName)
-        //{
-        //    return AppConstant.FILETAGS.Contains(tagName);
-        //}
     }
 }

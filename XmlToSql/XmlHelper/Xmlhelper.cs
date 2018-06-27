@@ -40,26 +40,37 @@ namespace XmlToSql.XmlHelper
 
         public void process()
         {
-            foreach (var appPath in this.paths)
+            for(int i = 0; i < this.paths.Count; ++i)
             {
+                String appPath = this.paths[i];
                 string[] XMLfiles = Directory.GetFiles(appPath, "*.xml");
                 foreach (string file in XMLfiles)
                 {
-                    XmlDocument doc = new XmlDocument();
-                    try
-                    {
-                        Stopwatch stopwatch = new Stopwatch();
-                        stopwatch.Start();
-                        doc.Load(appPath + Path.GetFileName(file));
-                        xmlService.process(doc, appPath);
-                        stopwatch.Stop();
-                        Console.WriteLine("{0} converted successful time : {1} milliseconds", Path.GetFileName(file), stopwatch.ElapsedMilliseconds);
-                    }
-                    catch (Exception e)
-                    {
-                        Console.WriteLine(e);
-                    }
+                    processXmlFile(file, appPath);
                 }
+                string[] subDirectories = Directory.GetDirectories(appPath);
+                foreach (string subDirectorie in subDirectories)
+                {
+                    this.paths.Add(subDirectorie + "\\");
+                }
+            }
+        }
+
+        private void processXmlFile(String file, String appPath)
+        {
+            XmlDocument doc = new XmlDocument();
+            try
+            {
+                Stopwatch stopwatch = new Stopwatch();
+                stopwatch.Start();
+                doc.Load(appPath + Path.GetFileName(file));
+                xmlService.process(doc, appPath);
+                stopwatch.Stop();
+                Console.WriteLine("{0} converted successful time : {1} milliseconds", Path.GetFileName(file), stopwatch.ElapsedMilliseconds);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
             }
         }
 
